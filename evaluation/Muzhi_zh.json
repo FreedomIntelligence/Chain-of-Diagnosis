@@ -1,0 +1,5030 @@
+[
+  {
+    "id": "Muzhi_1",
+    "explicit_symptoms": [
+      [
+        "发热",
+        "True"
+      ]
+    ],
+    "implicit_symptoms": [
+      [
+        "中等度热",
+        "True"
+      ],
+      [
+        "退热",
+        "True"
+      ]
+    ],
+    "candidate_diseases": [
+      "小儿腹泻",
+      "小儿支气管炎",
+      "小儿消化不良",
+      "上呼吸道感染"
+    ],
+    "disease": "上呼吸道感染"
+  },
+  {
+    "id": "Muzhi_2",
+    "explicit_symptoms": [
+      [
+        "咳嗽",
+        "True"
+      ],
+      [
+        "气管炎",
+        "True"
+      ],
+      [
+        "低热",
+        "True"
+      ],
+      [
+        "中等度热",
+        "True"
+      ]
+    ],
+    "implicit_symptoms": [
+      [
+        "精神软",
+        "True"
+      ],
+      [
+        "发热",
+        "True"
+      ],
+      [
+        "反复发热",
+        "True"
+      ],
+      [
+        "支气管肺炎",
+        "True"
+      ],
+      [
+        "细菌感染",
+        "False"
+      ],
+      [
+        "有痰",
+        "True"
+      ]
+    ],
+    "candidate_diseases": [
+      "小儿腹泻",
+      "小儿支气管炎",
+      "小儿消化不良",
+      "上呼吸道感染"
+    ],
+    "disease": "小儿支气管炎"
+  },
+  {
+    "id": "Muzhi_3",
+    "explicit_symptoms": [
+      [
+        "消化不良",
+        "True"
+      ],
+      [
+        "稀便",
+        "True"
+      ]
+    ],
+    "implicit_symptoms": [
+      [
+        "便秘",
+        "True"
+      ],
+      [
+        "屁",
+        "True"
+      ]
+    ],
+    "candidate_diseases": [
+      "小儿腹泻",
+      "小儿支气管炎",
+      "小儿消化不良",
+      "上呼吸道感染"
+    ],
+    "disease": "小儿消化不良"
+  },
+  {
+    "id": "Muzhi_4",
+    "explicit_symptoms": [
+      [
+        "肺炎",
+        "True"
+      ],
+      [
+        "腹泻",
+        "True"
+      ]
+    ],
+    "implicit_symptoms": [
+      [
+        "呕吐",
+        "False"
+      ]
+    ],
+    "candidate_diseases": [
+      "小儿腹泻",
+      "小儿支气管炎",
+      "小儿消化不良",
+      "上呼吸道感染"
+    ],
+    "disease": "小儿消化不良"
+  },
+  {
+    "id": "Muzhi_5",
+    "explicit_symptoms": [
+      [
+        "发热",
+        "True"
+      ],
+      [
+        "咳嗽",
+        "True"
+      ],
+      [
+        "喷嚏",
+        "True"
+      ],
+      [
+        "鼻流涕",
+        "True"
+      ]
+    ],
+    "implicit_symptoms": [
+      [
+        "普通感冒",
+        "True"
+      ]
+    ],
+    "candidate_diseases": [
+      "小儿腹泻",
+      "小儿支气管炎",
+      "小儿消化不良",
+      "上呼吸道感染"
+    ],
+    "disease": "小儿支气管炎"
+  },
+  {
+    "id": "Muzhi_6",
+    "explicit_symptoms": [
+      [
+        "腹泻",
+        "True"
+      ],
+      [
+        "稀便",
+        "True"
+      ],
+      [
+        "肛门红肿",
+        "True"
+      ]
+    ],
+    "implicit_symptoms": [
+      [
+        "发热",
+        "False"
+      ],
+      [
+        "咳嗽",
+        "False"
+      ],
+      [
+        "鼻流涕",
+        "True"
+      ]
+    ],
+    "candidate_diseases": [
+      "小儿腹泻",
+      "小儿支气管炎",
+      "小儿消化不良",
+      "上呼吸道感染"
+    ],
+    "disease": "小儿消化不良"
+  },
+  {
+    "id": "Muzhi_7",
+    "explicit_symptoms": [
+      [
+        "鼻塞",
+        "True"
+      ],
+      [
+        "咳嗽",
+        "True"
+      ]
+    ],
+    "implicit_symptoms": [
+      [
+        "沙哑",
+        "False"
+      ],
+      [
+        "喘息",
+        "False"
+      ],
+      [
+        "支气管炎",
+        "True"
+      ],
+      [
+        "鼻流涕",
+        "True"
+      ],
+      [
+        "喷嚏",
+        "True"
+      ],
+      [
+        "有痰",
+        "True"
+      ]
+    ],
+    "candidate_diseases": [
+      "小儿腹泻",
+      "小儿支气管炎",
+      "小儿消化不良",
+      "上呼吸道感染"
+    ],
+    "disease": "小儿支气管炎"
+  },
+  {
+    "id": "Muzhi_8",
+    "explicit_symptoms": [
+      [
+        "肺炎",
+        "True"
+      ],
+      [
+        "腹泻",
+        "True"
+      ],
+      [
+        "稀便",
+        "True"
+      ]
+    ],
+    "implicit_symptoms": [
+      [
+        "绿便",
+        "True"
+      ],
+      [
+        "鼻流涕",
+        "True"
+      ],
+      [
+        "呕吐",
+        "False"
+      ],
+      [
+        "腹胀",
+        "False"
+      ]
+    ],
+    "candidate_diseases": [
+      "小儿腹泻",
+      "小儿支气管炎",
+      "小儿消化不良",
+      "上呼吸道感染"
+    ],
+    "disease": "小儿腹泻"
+  },
+  {
+    "id": "Muzhi_9",
+    "explicit_symptoms": [
+      [
+        "呕吐",
+        "True"
+      ]
+    ],
+    "implicit_symptoms": [
+      [
+        "稀便",
+        "True"
+      ],
+      [
+        "发热",
+        "False"
+      ],
+      [
+        "咳嗽",
+        "True"
+      ],
+      [
+        "干咳",
+        "True"
+      ],
+      [
+        "咳痰",
+        "True"
+      ],
+      [
+        "干呕",
+        "True"
+      ]
+    ],
+    "candidate_diseases": [
+      "小儿腹泻",
+      "小儿支气管炎",
+      "小儿消化不良",
+      "上呼吸道感染"
+    ],
+    "disease": "小儿消化不良"
+  },
+  {
+    "id": "Muzhi_10",
+    "explicit_symptoms": [
+      [
+        "腹泻",
+        "True"
+      ]
+    ],
+    "implicit_symptoms": [
+      [
+        "呕吐",
+        "True"
+      ],
+      [
+        "稀便",
+        "True"
+      ],
+      [
+        "厌食",
+        "True"
+      ]
+    ],
+    "candidate_diseases": [
+      "小儿腹泻",
+      "小儿支气管炎",
+      "小儿消化不良",
+      "上呼吸道感染"
+    ],
+    "disease": "小儿腹泻"
+  },
+  {
+    "id": "Muzhi_11",
+    "explicit_symptoms": [
+      [
+        "咳嗽",
+        "True"
+      ],
+      [
+        "鼻流涕",
+        "True"
+      ],
+      [
+        "肺炎",
+        "True"
+      ],
+      [
+        "发热",
+        "True"
+      ],
+      [
+        "中等度热",
+        "True"
+      ],
+      [
+        "退热",
+        "True"
+      ],
+      [
+        "低热",
+        "True"
+      ]
+    ],
+    "implicit_symptoms": [
+      [
+        "四肢厥冷",
+        "True"
+      ],
+      [
+        "出汗",
+        "True"
+      ],
+      [
+        "沙哑",
+        "False"
+      ],
+      [
+        "喘息",
+        "False"
+      ]
+    ],
+    "candidate_diseases": [
+      "小儿腹泻",
+      "小儿支气管炎",
+      "小儿消化不良",
+      "上呼吸道感染"
+    ],
+    "disease": "小儿支气管炎"
+  },
+  {
+    "id": "Muzhi_12",
+    "explicit_symptoms": [
+      [
+        "腹泻",
+        "True"
+      ]
+    ],
+    "implicit_symptoms": [
+      [
+        "稀便",
+        "True"
+      ],
+      [
+        "绿便",
+        "True"
+      ],
+      [
+        "血便",
+        "False"
+      ],
+      [
+        "大便粘液",
+        "True"
+      ],
+      [
+        "发热",
+        "False"
+      ],
+      [
+        "呕吐",
+        "False"
+      ],
+      [
+        "肠鸣音",
+        "True"
+      ]
+    ],
+    "candidate_diseases": [
+      "小儿腹泻",
+      "小儿支气管炎",
+      "小儿消化不良",
+      "上呼吸道感染"
+    ],
+    "disease": "小儿腹泻"
+  },
+  {
+    "id": "Muzhi_13",
+    "explicit_symptoms": [
+      [
+        "腹泻",
+        "True"
+      ]
+    ],
+    "implicit_symptoms": [],
+    "candidate_diseases": [
+      "小儿腹泻",
+      "小儿支气管炎",
+      "小儿消化不良",
+      "上呼吸道感染"
+    ],
+    "disease": "小儿腹泻"
+  },
+  {
+    "id": "Muzhi_14",
+    "explicit_symptoms": [
+      [
+        "发热",
+        "True"
+      ],
+      [
+        "痰鸣音",
+        "True"
+      ]
+    ],
+    "implicit_symptoms": [
+      [
+        "咳嗽",
+        "True"
+      ],
+      [
+        "发热",
+        "True"
+      ],
+      [
+        "退热",
+        "False"
+      ],
+      [
+        "有痰",
+        "True"
+      ]
+    ],
+    "candidate_diseases": [
+      "小儿腹泻",
+      "小儿支气管炎",
+      "小儿消化不良",
+      "上呼吸道感染"
+    ],
+    "disease": "上呼吸道感染"
+  },
+  {
+    "id": "Muzhi_15",
+    "explicit_symptoms": [],
+    "implicit_symptoms": [
+      [
+        "咳嗽",
+        "True"
+      ],
+      [
+        "鼻流涕",
+        "True"
+      ],
+      [
+        "病毒感染",
+        "True"
+      ],
+      [
+        "普通感冒",
+        "True"
+      ],
+      [
+        "有痰",
+        "True"
+      ],
+      [
+        "鼻塞",
+        "True"
+      ]
+    ],
+    "candidate_diseases": [
+      "小儿腹泻",
+      "小儿支气管炎",
+      "小儿消化不良",
+      "上呼吸道感染"
+    ],
+    "disease": "上呼吸道感染"
+  },
+  {
+    "id": "Muzhi_16",
+    "explicit_symptoms": [
+      [
+        "支气管肺炎",
+        "True"
+      ]
+    ],
+    "implicit_symptoms": [
+      [
+        "咳嗽",
+        "True"
+      ],
+      [
+        "鼻流涕",
+        "True"
+      ],
+      [
+        "发热",
+        "True"
+      ],
+      [
+        "高热",
+        "True"
+      ],
+      [
+        "普通感冒",
+        "True"
+      ],
+      [
+        "有痰",
+        "True"
+      ]
+    ],
+    "candidate_diseases": [
+      "小儿腹泻",
+      "小儿支气管炎",
+      "小儿消化不良",
+      "上呼吸道感染"
+    ],
+    "disease": "小儿支气管炎"
+  },
+  {
+    "id": "Muzhi_17",
+    "explicit_symptoms": [
+      [
+        "绿便",
+        "True"
+      ],
+      [
+        "退热",
+        "True"
+      ],
+      [
+        "发热",
+        "True"
+      ],
+      [
+        "呕吐",
+        "True"
+      ],
+      [
+        "低热",
+        "True"
+      ]
+    ],
+    "implicit_symptoms": [
+      [
+        "普通感冒",
+        "False"
+      ],
+      [
+        "咳嗽",
+        "False"
+      ],
+      [
+        "鼻流涕",
+        "True"
+      ],
+      [
+        "厌食",
+        "True"
+      ],
+      [
+        "鼻塞",
+        "False"
+      ]
+    ],
+    "candidate_diseases": [
+      "小儿腹泻",
+      "小儿支气管炎",
+      "小儿消化不良",
+      "上呼吸道感染"
+    ],
+    "disease": "小儿消化不良"
+  },
+  {
+    "id": "Muzhi_18",
+    "explicit_symptoms": [
+      [
+        "喷嚏",
+        "True"
+      ],
+      [
+        "鼻流涕",
+        "True"
+      ]
+    ],
+    "implicit_symptoms": [
+      [
+        "咳痰",
+        "True"
+      ]
+    ],
+    "candidate_diseases": [
+      "小儿腹泻",
+      "小儿支气管炎",
+      "小儿消化不良",
+      "上呼吸道感染"
+    ],
+    "disease": "上呼吸道感染"
+  },
+  {
+    "id": "Muzhi_19",
+    "explicit_symptoms": [
+      [
+        "腹泻",
+        "True"
+      ],
+      [
+        "绿便",
+        "True"
+      ]
+    ],
+    "implicit_symptoms": [
+      [
+        "稀便",
+        "True"
+      ],
+      [
+        "呕吐",
+        "False"
+      ],
+      [
+        "哭闹",
+        "False"
+      ],
+      [
+        "屁",
+        "True"
+      ],
+      [
+        "出汗",
+        "True"
+      ]
+    ],
+    "candidate_diseases": [
+      "小儿腹泻",
+      "小儿支气管炎",
+      "小儿消化不良",
+      "上呼吸道感染"
+    ],
+    "disease": "小儿消化不良"
+  },
+  {
+    "id": "Muzhi_20",
+    "explicit_symptoms": [],
+    "implicit_symptoms": [
+      [
+        "水样便",
+        "True"
+      ],
+      [
+        "细菌感染",
+        "True"
+      ],
+      [
+        "肠炎",
+        "True"
+      ],
+      [
+        "血便",
+        "True"
+      ]
+    ],
+    "candidate_diseases": [
+      "小儿腹泻",
+      "小儿支气管炎",
+      "小儿消化不良",
+      "上呼吸道感染"
+    ],
+    "disease": "小儿腹泻"
+  },
+  {
+    "id": "Muzhi_21",
+    "explicit_symptoms": [
+      [
+        "屁",
+        "True"
+      ],
+      [
+        "普通感冒",
+        "True"
+      ]
+    ],
+    "implicit_symptoms": [
+      [
+        "腹泻",
+        "True"
+      ],
+      [
+        "消化不良",
+        "True"
+      ],
+      [
+        "稀便",
+        "True"
+      ],
+      [
+        "咽喉不适",
+        "True"
+      ],
+      [
+        "咳嗽",
+        "True"
+      ],
+      [
+        "出汗",
+        "True"
+      ]
+    ],
+    "candidate_diseases": [
+      "小儿腹泻",
+      "小儿支气管炎",
+      "小儿消化不良",
+      "上呼吸道感染"
+    ],
+    "disease": "小儿消化不良"
+  },
+  {
+    "id": "Muzhi_22",
+    "explicit_symptoms": [],
+    "implicit_symptoms": [
+      [
+        "稀便",
+        "True"
+      ],
+      [
+        "绿便",
+        "True"
+      ],
+      [
+        "呕吐",
+        "True"
+      ]
+    ],
+    "candidate_diseases": [
+      "小儿腹泻",
+      "小儿支气管炎",
+      "小儿消化不良",
+      "上呼吸道感染"
+    ],
+    "disease": "小儿消化不良"
+  },
+  {
+    "id": "Muzhi_23",
+    "explicit_symptoms": [
+      [
+        "普通感冒",
+        "True"
+      ],
+      [
+        "咳嗽",
+        "True"
+      ],
+      [
+        "支气管肺炎",
+        "True"
+      ],
+      [
+        "咳痰",
+        "True"
+      ]
+    ],
+    "implicit_symptoms": [
+      [
+        "喘息",
+        "False"
+      ],
+      [
+        "发热",
+        "False"
+      ],
+      [
+        "急性气管支气管炎",
+        "True"
+      ]
+    ],
+    "candidate_diseases": [
+      "小儿腹泻",
+      "小儿支气管炎",
+      "小儿消化不良",
+      "上呼吸道感染"
+    ],
+    "disease": "小儿支气管炎"
+  },
+  {
+    "id": "Muzhi_24",
+    "explicit_symptoms": [
+      [
+        "咽喉不适",
+        "True"
+      ],
+      [
+        "发热",
+        "True"
+      ],
+      [
+        "有痰",
+        "True"
+      ]
+    ],
+    "implicit_symptoms": [
+      [
+        "鼻流涕",
+        "True"
+      ],
+      [
+        "腹泻",
+        "False"
+      ],
+      [
+        "中等度热",
+        "True"
+      ],
+      [
+        "头痛",
+        "True"
+      ],
+      [
+        "鼻塞",
+        "True"
+      ]
+    ],
+    "candidate_diseases": [
+      "小儿腹泻",
+      "小儿支气管炎",
+      "小儿消化不良",
+      "上呼吸道感染"
+    ],
+    "disease": "上呼吸道感染"
+  },
+  {
+    "id": "Muzhi_25",
+    "explicit_symptoms": [],
+    "implicit_symptoms": [
+      [
+        "稀便",
+        "True"
+      ],
+      [
+        "腹泻",
+        "True"
+      ]
+    ],
+    "candidate_diseases": [
+      "小儿腹泻",
+      "小儿支气管炎",
+      "小儿消化不良",
+      "上呼吸道感染"
+    ],
+    "disease": "小儿腹泻"
+  },
+  {
+    "id": "Muzhi_26",
+    "explicit_symptoms": [
+      [
+        "水样便",
+        "True"
+      ]
+    ],
+    "implicit_symptoms": [
+      [
+        "发热",
+        "False"
+      ],
+      [
+        "呕吐",
+        "False"
+      ]
+    ],
+    "candidate_diseases": [
+      "小儿腹泻",
+      "小儿支气管炎",
+      "小儿消化不良",
+      "上呼吸道感染"
+    ],
+    "disease": "小儿腹泻"
+  },
+  {
+    "id": "Muzhi_27",
+    "explicit_symptoms": [
+      [
+        "大便酸臭",
+        "True"
+      ],
+      [
+        "消化不良",
+        "True"
+      ]
+    ],
+    "implicit_symptoms": [
+      [
+        "屁",
+        "True"
+      ],
+      [
+        "腹泻",
+        "False"
+      ],
+      [
+        "稀便",
+        "True"
+      ],
+      [
+        "绿便",
+        "True"
+      ],
+      [
+        "呕吐",
+        "True"
+      ]
+    ],
+    "candidate_diseases": [
+      "小儿腹泻",
+      "小儿支气管炎",
+      "小儿消化不良",
+      "上呼吸道感染"
+    ],
+    "disease": "小儿消化不良"
+  },
+  {
+    "id": "Muzhi_28",
+    "explicit_symptoms": [
+      [
+        "高热",
+        "True"
+      ],
+      [
+        "扁桃体炎",
+        "True"
+      ],
+      [
+        "发热",
+        "True"
+      ],
+      [
+        "中等度热",
+        "True"
+      ],
+      [
+        "反复发热",
+        "True"
+      ],
+      [
+        "鼻流涕",
+        "True"
+      ]
+    ],
+    "implicit_symptoms": [
+      [
+        "腹部不适",
+        "True"
+      ],
+      [
+        "病毒感染",
+        "True"
+      ],
+      [
+        "咳嗽",
+        "False"
+      ]
+    ],
+    "candidate_diseases": [
+      "小儿腹泻",
+      "小儿支气管炎",
+      "小儿消化不良",
+      "上呼吸道感染"
+    ],
+    "disease": "上呼吸道感染"
+  },
+  {
+    "id": "Muzhi_29",
+    "explicit_symptoms": [
+      [
+        "鼻流涕",
+        "True"
+      ],
+      [
+        "咳嗽",
+        "True"
+      ],
+      [
+        "发热",
+        "True"
+      ],
+      [
+        "出汗",
+        "True"
+      ],
+      [
+        "沙哑",
+        "True"
+      ],
+      [
+        "有痰",
+        "True"
+      ]
+    ],
+    "implicit_symptoms": [
+      [
+        "粗糙呼吸音",
+        "True"
+      ],
+      [
+        "鼻塞",
+        "False"
+      ]
+    ],
+    "candidate_diseases": [
+      "小儿腹泻",
+      "小儿支气管炎",
+      "小儿消化不良",
+      "上呼吸道感染"
+    ],
+    "disease": "上呼吸道感染"
+  },
+  {
+    "id": "Muzhi_30",
+    "explicit_symptoms": [],
+    "implicit_symptoms": [
+      [
+        "普通感冒",
+        "True"
+      ],
+      [
+        "咳嗽",
+        "True"
+      ],
+      [
+        "病毒感染",
+        "True"
+      ],
+      [
+        "鼻塞",
+        "True"
+      ]
+    ],
+    "candidate_diseases": [
+      "小儿腹泻",
+      "小儿支气管炎",
+      "小儿消化不良",
+      "上呼吸道感染"
+    ],
+    "disease": "上呼吸道感染"
+  },
+  {
+    "id": "Muzhi_31",
+    "explicit_symptoms": [
+      [
+        "腹痛",
+        "True"
+      ],
+      [
+        "腹泻",
+        "True"
+      ],
+      [
+        "呕吐",
+        "True"
+      ]
+    ],
+    "implicit_symptoms": [
+      [
+        "水样便",
+        "False"
+      ],
+      [
+        "稀便",
+        "True"
+      ],
+      [
+        "哭闹",
+        "True"
+      ],
+      [
+        "屁",
+        "True"
+      ],
+      [
+        "血便",
+        "False"
+      ]
+    ],
+    "candidate_diseases": [
+      "小儿腹泻",
+      "小儿支气管炎",
+      "小儿消化不良",
+      "上呼吸道感染"
+    ],
+    "disease": "小儿消化不良"
+  },
+  {
+    "id": "Muzhi_32",
+    "explicit_symptoms": [
+      [
+        "咳嗽",
+        "True"
+      ]
+    ],
+    "implicit_symptoms": [
+      [
+        "干咳",
+        "True"
+      ],
+      [
+        "鼻流涕",
+        "False"
+      ],
+      [
+        "有痰",
+        "True"
+      ]
+    ],
+    "candidate_diseases": [
+      "小儿腹泻",
+      "小儿支气管炎",
+      "小儿消化不良",
+      "上呼吸道感染"
+    ],
+    "disease": "小儿支气管炎"
+  },
+  {
+    "id": "Muzhi_33",
+    "explicit_symptoms": [
+      [
+        "腹泻",
+        "True"
+      ],
+      [
+        "呕吐",
+        "True"
+      ]
+    ],
+    "implicit_symptoms": [
+      [
+        "水样便",
+        "True"
+      ],
+      [
+        "高热",
+        "True"
+      ]
+    ],
+    "candidate_diseases": [
+      "小儿腹泻",
+      "小儿支气管炎",
+      "小儿消化不良",
+      "上呼吸道感染"
+    ],
+    "disease": "小儿腹泻"
+  },
+  {
+    "id": "Muzhi_34",
+    "explicit_symptoms": [],
+    "implicit_symptoms": [
+      [
+        "咳嗽",
+        "True"
+      ],
+      [
+        "咳痰",
+        "True"
+      ],
+      [
+        "鼻流涕",
+        "True"
+      ],
+      [
+        "发热",
+        "True"
+      ]
+    ],
+    "candidate_diseases": [
+      "小儿腹泻",
+      "小儿支气管炎",
+      "小儿消化不良",
+      "上呼吸道感染"
+    ],
+    "disease": "小儿支气管炎"
+  },
+  {
+    "id": "Muzhi_35",
+    "explicit_symptoms": [
+      [
+        "喷嚏",
+        "True"
+      ],
+      [
+        "干咳",
+        "True"
+      ],
+      [
+        "鼻流涕",
+        "True"
+      ]
+    ],
+    "implicit_symptoms": [
+      [
+        "发热",
+        "False"
+      ],
+      [
+        "咳嗽",
+        "True"
+      ],
+      [
+        "鼻塞",
+        "True"
+      ],
+      [
+        "上呼吸道感染",
+        "True"
+      ]
+    ],
+    "candidate_diseases": [
+      "小儿腹泻",
+      "小儿支气管炎",
+      "小儿消化不良",
+      "上呼吸道感染"
+    ],
+    "disease": "上呼吸道感染"
+  },
+  {
+    "id": "Muzhi_36",
+    "explicit_symptoms": [
+      [
+        "腹泻",
+        "True"
+      ]
+    ],
+    "implicit_symptoms": [
+      [
+        "绿便",
+        "True"
+      ],
+      [
+        "稀便",
+        "True"
+      ],
+      [
+        "消化不良",
+        "True"
+      ],
+      [
+        "发热",
+        "True"
+      ],
+      [
+        "水样便",
+        "True"
+      ]
+    ],
+    "candidate_diseases": [
+      "小儿腹泻",
+      "小儿支气管炎",
+      "小儿消化不良",
+      "上呼吸道感染"
+    ],
+    "disease": "小儿腹泻"
+  },
+  {
+    "id": "Muzhi_37",
+    "explicit_symptoms": [
+      [
+        "头痛",
+        "True"
+      ],
+      [
+        "发热",
+        "True"
+      ],
+      [
+        "呕吐",
+        "True"
+      ]
+    ],
+    "implicit_symptoms": [
+      [
+        "普通感冒",
+        "True"
+      ]
+    ],
+    "candidate_diseases": [
+      "小儿腹泻",
+      "小儿支气管炎",
+      "小儿消化不良",
+      "上呼吸道感染"
+    ],
+    "disease": "上呼吸道感染"
+  },
+  {
+    "id": "Muzhi_38",
+    "explicit_symptoms": [
+      [
+        "消化不良",
+        "True"
+      ],
+      [
+        "腹泻",
+        "True"
+      ],
+      [
+        "呕吐",
+        "True"
+      ],
+      [
+        "稀便",
+        "True"
+      ]
+    ],
+    "implicit_symptoms": [
+      [
+        "普通感冒",
+        "True"
+      ],
+      [
+        "沙哑",
+        "True"
+      ],
+      [
+        "痰鸣音",
+        "True"
+      ],
+      [
+        "有痰",
+        "True"
+      ]
+    ],
+    "candidate_diseases": [
+      "小儿腹泻",
+      "小儿支气管炎",
+      "小儿消化不良",
+      "上呼吸道感染"
+    ],
+    "disease": "小儿腹泻"
+  },
+  {
+    "id": "Muzhi_39",
+    "explicit_symptoms": [
+      [
+        "有痰",
+        "True"
+      ]
+    ],
+    "implicit_symptoms": [
+      [
+        "咳嗽",
+        "True"
+      ],
+      [
+        "沙哑",
+        "True"
+      ],
+      [
+        "喘息",
+        "True"
+      ]
+    ],
+    "candidate_diseases": [
+      "小儿腹泻",
+      "小儿支气管炎",
+      "小儿消化不良",
+      "上呼吸道感染"
+    ],
+    "disease": "小儿支气管炎"
+  },
+  {
+    "id": "Muzhi_40",
+    "explicit_symptoms": [
+      [
+        "咳嗽",
+        "True"
+      ]
+    ],
+    "implicit_symptoms": [
+      [
+        "呕吐",
+        "True"
+      ],
+      [
+        "有痰",
+        "False"
+      ]
+    ],
+    "candidate_diseases": [
+      "小儿腹泻",
+      "小儿支气管炎",
+      "小儿消化不良",
+      "上呼吸道感染"
+    ],
+    "disease": "小儿支气管炎"
+  },
+  {
+    "id": "Muzhi_41",
+    "explicit_symptoms": [
+      [
+        "腹泻",
+        "True"
+      ],
+      [
+        "消化不良",
+        "True"
+      ]
+    ],
+    "implicit_symptoms": [
+      [
+        "呕吐",
+        "True"
+      ],
+      [
+        "稀便",
+        "True"
+      ]
+    ],
+    "candidate_diseases": [
+      "小儿腹泻",
+      "小儿支气管炎",
+      "小儿消化不良",
+      "上呼吸道感染"
+    ],
+    "disease": "小儿消化不良"
+  },
+  {
+    "id": "Muzhi_42",
+    "explicit_symptoms": [
+      [
+        "睡眠障碍",
+        "True"
+      ]
+    ],
+    "implicit_symptoms": [
+      [
+        "腹泻",
+        "True"
+      ],
+      [
+        "稀便",
+        "True"
+      ],
+      [
+        "屁",
+        "True"
+      ],
+      [
+        "腹部不适",
+        "True"
+      ],
+      [
+        "哭闹",
+        "False"
+      ]
+    ],
+    "candidate_diseases": [
+      "小儿腹泻",
+      "小儿支气管炎",
+      "小儿消化不良",
+      "上呼吸道感染"
+    ],
+    "disease": "小儿消化不良"
+  },
+  {
+    "id": "Muzhi_43",
+    "explicit_symptoms": [
+      [
+        "呕吐",
+        "True"
+      ],
+      [
+        "稀便",
+        "True"
+      ]
+    ],
+    "implicit_symptoms": [
+      [
+        "腹泻",
+        "True"
+      ],
+      [
+        "精神软",
+        "True"
+      ],
+      [
+        "发热",
+        "False"
+      ],
+      [
+        "消化不良",
+        "True"
+      ]
+    ],
+    "candidate_diseases": [
+      "小儿腹泻",
+      "小儿支气管炎",
+      "小儿消化不良",
+      "上呼吸道感染"
+    ],
+    "disease": "小儿消化不良"
+  },
+  {
+    "id": "Muzhi_44",
+    "explicit_symptoms": [
+      [
+        "腹泻",
+        "True"
+      ],
+      [
+        "消化不良",
+        "True"
+      ],
+      [
+        "水样便",
+        "True"
+      ]
+    ],
+    "implicit_symptoms": [],
+    "candidate_diseases": [
+      "小儿腹泻",
+      "小儿支气管炎",
+      "小儿消化不良",
+      "上呼吸道感染"
+    ],
+    "disease": "小儿腹泻"
+  },
+  {
+    "id": "Muzhi_45",
+    "explicit_symptoms": [],
+    "implicit_symptoms": [
+      [
+        "水样便",
+        "True"
+      ],
+      [
+        "稀便",
+        "True"
+      ]
+    ],
+    "candidate_diseases": [
+      "小儿腹泻",
+      "小儿支气管炎",
+      "小儿消化不良",
+      "上呼吸道感染"
+    ],
+    "disease": "小儿腹泻"
+  },
+  {
+    "id": "Muzhi_46",
+    "explicit_symptoms": [
+      [
+        "绿便",
+        "True"
+      ]
+    ],
+    "implicit_symptoms": [
+      [
+        "消化不良",
+        "True"
+      ],
+      [
+        "稀便",
+        "True"
+      ]
+    ],
+    "candidate_diseases": [
+      "小儿腹泻",
+      "小儿支气管炎",
+      "小儿消化不良",
+      "上呼吸道感染"
+    ],
+    "disease": "小儿消化不良"
+  },
+  {
+    "id": "Muzhi_47",
+    "explicit_symptoms": [
+      [
+        "绿便",
+        "True"
+      ]
+    ],
+    "implicit_symptoms": [
+      [
+        "腹泻",
+        "False"
+      ],
+      [
+        "咳嗽",
+        "False"
+      ],
+      [
+        "鼻流涕",
+        "False"
+      ],
+      [
+        "发热",
+        "False"
+      ],
+      [
+        "稀便",
+        "True"
+      ]
+    ],
+    "candidate_diseases": [
+      "小儿腹泻",
+      "小儿支气管炎",
+      "小儿消化不良",
+      "上呼吸道感染"
+    ],
+    "disease": "小儿消化不良"
+  },
+  {
+    "id": "Muzhi_48",
+    "explicit_symptoms": [
+      [
+        "腹泻",
+        "True"
+      ]
+    ],
+    "implicit_symptoms": [],
+    "candidate_diseases": [
+      "小儿腹泻",
+      "小儿支气管炎",
+      "小儿消化不良",
+      "上呼吸道感染"
+    ],
+    "disease": "小儿腹泻"
+  },
+  {
+    "id": "Muzhi_49",
+    "explicit_symptoms": [
+      [
+        "腹胀",
+        "True"
+      ],
+      [
+        "腹泻",
+        "True"
+      ]
+    ],
+    "implicit_symptoms": [
+      [
+        "普通感冒",
+        "False"
+      ],
+      [
+        "大便粘液",
+        "True"
+      ],
+      [
+        "稀便",
+        "True"
+      ]
+    ],
+    "candidate_diseases": [
+      "小儿腹泻",
+      "小儿支气管炎",
+      "小儿消化不良",
+      "上呼吸道感染"
+    ],
+    "disease": "小儿消化不良"
+  },
+  {
+    "id": "Muzhi_50",
+    "explicit_symptoms": [
+      [
+        "高热",
+        "True"
+      ]
+    ],
+    "implicit_symptoms": [
+      [
+        "发热",
+        "True"
+      ],
+      [
+        "鼻流涕",
+        "False"
+      ],
+      [
+        "咳嗽",
+        "True"
+      ],
+      [
+        "出汗",
+        "True"
+      ],
+      [
+        "四肢厥冷",
+        "True"
+      ],
+      [
+        "普通感冒",
+        "True"
+      ]
+    ],
+    "candidate_diseases": [
+      "小儿腹泻",
+      "小儿支气管炎",
+      "小儿消化不良",
+      "上呼吸道感染"
+    ],
+    "disease": "上呼吸道感染"
+  },
+  {
+    "id": "Muzhi_51",
+    "explicit_symptoms": [
+      [
+        "腹泻",
+        "True"
+      ],
+      [
+        "咳嗽",
+        "True"
+      ]
+    ],
+    "implicit_symptoms": [
+      [
+        "出汗",
+        "True"
+      ]
+    ],
+    "candidate_diseases": [
+      "小儿腹泻",
+      "小儿支气管炎",
+      "小儿消化不良",
+      "上呼吸道感染"
+    ],
+    "disease": "小儿支气管炎"
+  },
+  {
+    "id": "Muzhi_52",
+    "explicit_symptoms": [],
+    "implicit_symptoms": [
+      [
+        "腹泻",
+        "True"
+      ],
+      [
+        "稀便",
+        "True"
+      ],
+      [
+        "血便",
+        "True"
+      ],
+      [
+        "大便粘液",
+        "True"
+      ],
+      [
+        "消化不良",
+        "True"
+      ]
+    ],
+    "candidate_diseases": [
+      "小儿腹泻",
+      "小儿支气管炎",
+      "小儿消化不良",
+      "上呼吸道感染"
+    ],
+    "disease": "小儿腹泻"
+  },
+  {
+    "id": "Muzhi_53",
+    "explicit_symptoms": [
+      [
+        "普通感冒",
+        "True"
+      ],
+      [
+        "咳嗽",
+        "True"
+      ]
+    ],
+    "implicit_symptoms": [
+      [
+        "支气管肺炎",
+        "True"
+      ],
+      [
+        "睡眠障碍",
+        "True"
+      ],
+      [
+        "有痰",
+        "True"
+      ]
+    ],
+    "candidate_diseases": [
+      "小儿腹泻",
+      "小儿支气管炎",
+      "小儿消化不良",
+      "上呼吸道感染"
+    ],
+    "disease": "小儿支气管炎"
+  },
+  {
+    "id": "Muzhi_54",
+    "explicit_symptoms": [
+      [
+        "腹泻",
+        "True"
+      ],
+      [
+        "水样便",
+        "True"
+      ]
+    ],
+    "implicit_symptoms": [
+      [
+        "呕吐",
+        "True"
+      ],
+      [
+        "发热",
+        "True"
+      ]
+    ],
+    "candidate_diseases": [
+      "小儿腹泻",
+      "小儿支气管炎",
+      "小儿消化不良",
+      "上呼吸道感染"
+    ],
+    "disease": "小儿腹泻"
+  },
+  {
+    "id": "Muzhi_55",
+    "explicit_symptoms": [
+      [
+        "咳嗽",
+        "True"
+      ]
+    ],
+    "implicit_symptoms": [
+      [
+        "腹泻",
+        "True"
+      ],
+      [
+        "呕吐",
+        "False"
+      ],
+      [
+        "消化不良",
+        "True"
+      ]
+    ],
+    "candidate_diseases": [
+      "小儿腹泻",
+      "小儿支气管炎",
+      "小儿消化不良",
+      "上呼吸道感染"
+    ],
+    "disease": "上呼吸道感染"
+  },
+  {
+    "id": "Muzhi_56",
+    "explicit_symptoms": [
+      [
+        "咳嗽",
+        "True"
+      ]
+    ],
+    "implicit_symptoms": [
+      [
+        "有痰",
+        "True"
+      ],
+      [
+        "鼻塞",
+        "True"
+      ]
+    ],
+    "candidate_diseases": [
+      "小儿腹泻",
+      "小儿支气管炎",
+      "小儿消化不良",
+      "上呼吸道感染"
+    ],
+    "disease": "上呼吸道感染"
+  },
+  {
+    "id": "Muzhi_57",
+    "explicit_symptoms": [
+      [
+        "腹胀",
+        "True"
+      ]
+    ],
+    "implicit_symptoms": [
+      [
+        "呕吐",
+        "True"
+      ],
+      [
+        "肠鸣音",
+        "True"
+      ],
+      [
+        "屁",
+        "True"
+      ],
+      [
+        "稀便",
+        "True"
+      ],
+      [
+        "大便酸臭",
+        "True"
+      ]
+    ],
+    "candidate_diseases": [
+      "小儿腹泻",
+      "小儿支气管炎",
+      "小儿消化不良",
+      "上呼吸道感染"
+    ],
+    "disease": "小儿消化不良"
+  },
+  {
+    "id": "Muzhi_58",
+    "explicit_symptoms": [
+      [
+        "普通感冒",
+        "True"
+      ],
+      [
+        "咳嗽",
+        "True"
+      ]
+    ],
+    "implicit_symptoms": [
+      [
+        "支气管炎",
+        "True"
+      ],
+      [
+        "喘息",
+        "False"
+      ],
+      [
+        "痰鸣音",
+        "True"
+      ],
+      [
+        "有痰",
+        "True"
+      ]
+    ],
+    "candidate_diseases": [
+      "小儿腹泻",
+      "小儿支气管炎",
+      "小儿消化不良",
+      "上呼吸道感染"
+    ],
+    "disease": "小儿支气管炎"
+  },
+  {
+    "id": "Muzhi_59",
+    "explicit_symptoms": [
+      [
+        "腹泻",
+        "True"
+      ],
+      [
+        "稀便",
+        "True"
+      ]
+    ],
+    "implicit_symptoms": [],
+    "candidate_diseases": [
+      "小儿腹泻",
+      "小儿支气管炎",
+      "小儿消化不良",
+      "上呼吸道感染"
+    ],
+    "disease": "小儿腹泻"
+  },
+  {
+    "id": "Muzhi_60",
+    "explicit_symptoms": [
+      [
+        "便秘",
+        "True"
+      ],
+      [
+        "腹泻",
+        "True"
+      ]
+    ],
+    "implicit_symptoms": [
+      [
+        "腹胀",
+        "False"
+      ]
+    ],
+    "candidate_diseases": [
+      "小儿腹泻",
+      "小儿支气管炎",
+      "小儿消化不良",
+      "上呼吸道感染"
+    ],
+    "disease": "小儿腹泻"
+  },
+  {
+    "id": "Muzhi_61",
+    "explicit_symptoms": [
+      [
+        "水样便",
+        "True"
+      ],
+      [
+        "反复发热",
+        "True"
+      ]
+    ],
+    "implicit_symptoms": [
+      [
+        "发热",
+        "True"
+      ],
+      [
+        "退热",
+        "True"
+      ],
+      [
+        "腹泻",
+        "False"
+      ]
+    ],
+    "candidate_diseases": [
+      "小儿腹泻",
+      "小儿支气管炎",
+      "小儿消化不良",
+      "上呼吸道感染"
+    ],
+    "disease": "上呼吸道感染"
+  },
+  {
+    "id": "Muzhi_62",
+    "explicit_symptoms": [
+      [
+        "厌食",
+        "True"
+      ],
+      [
+        "低热",
+        "True"
+      ],
+      [
+        "发热",
+        "True"
+      ]
+    ],
+    "implicit_symptoms": [
+      [
+        "退热",
+        "True"
+      ],
+      [
+        "口臭",
+        "True"
+      ],
+      [
+        "消化不良",
+        "True"
+      ],
+      [
+        "咽喉炎",
+        "True"
+      ]
+    ],
+    "candidate_diseases": [
+      "小儿腹泻",
+      "小儿支气管炎",
+      "小儿消化不良",
+      "上呼吸道感染"
+    ],
+    "disease": "上呼吸道感染"
+  },
+  {
+    "id": "Muzhi_63",
+    "explicit_symptoms": [
+      [
+        "水样便",
+        "True"
+      ],
+      [
+        "发热",
+        "True"
+      ],
+      [
+        "病毒感染",
+        "True"
+      ]
+    ],
+    "implicit_symptoms": [
+      [
+        "腹泻",
+        "True"
+      ]
+    ],
+    "candidate_diseases": [
+      "小儿腹泻",
+      "小儿支气管炎",
+      "小儿消化不良",
+      "上呼吸道感染"
+    ],
+    "disease": "小儿腹泻"
+  },
+  {
+    "id": "Muzhi_64",
+    "explicit_symptoms": [
+      [
+        "咳嗽",
+        "True"
+      ]
+    ],
+    "implicit_symptoms": [
+      [
+        "发热",
+        "True"
+      ],
+      [
+        "退热",
+        "True"
+      ],
+      [
+        "鼻流涕",
+        "True"
+      ],
+      [
+        "喷嚏",
+        "True"
+      ],
+      [
+        "咳痰",
+        "True"
+      ],
+      [
+        "上呼吸道感染",
+        "True"
+      ]
+    ],
+    "candidate_diseases": [
+      "小儿腹泻",
+      "小儿支气管炎",
+      "小儿消化不良",
+      "上呼吸道感染"
+    ],
+    "disease": "上呼吸道感染"
+  },
+  {
+    "id": "Muzhi_65",
+    "explicit_symptoms": [
+      [
+        "急性气管支气管炎",
+        "True"
+      ]
+    ],
+    "implicit_symptoms": [
+      [
+        "发热",
+        "True"
+      ],
+      [
+        "咳嗽",
+        "True"
+      ],
+      [
+        "咳痰",
+        "True"
+      ],
+      [
+        "喷嚏",
+        "True"
+      ],
+      [
+        "扁桃体炎",
+        "True"
+      ]
+    ],
+    "candidate_diseases": [
+      "小儿腹泻",
+      "小儿支气管炎",
+      "小儿消化不良",
+      "上呼吸道感染"
+    ],
+    "disease": "小儿支气管炎"
+  },
+  {
+    "id": "Muzhi_66",
+    "explicit_symptoms": [
+      [
+        "腹泻",
+        "True"
+      ],
+      [
+        "中等度热",
+        "True"
+      ]
+    ],
+    "implicit_symptoms": [
+      [
+        "发热",
+        "True"
+      ],
+      [
+        "肠炎",
+        "True"
+      ],
+      [
+        "腹痛",
+        "True"
+      ],
+      [
+        "呕吐",
+        "True"
+      ],
+      [
+        "稀便",
+        "False"
+      ],
+      [
+        "大便粘液",
+        "True"
+      ],
+      [
+        "血便",
+        "False"
+      ],
+      [
+        "出汗",
+        "True"
+      ],
+      [
+        "退热",
+        "True"
+      ]
+    ],
+    "candidate_diseases": [
+      "小儿腹泻",
+      "小儿支气管炎",
+      "小儿消化不良",
+      "上呼吸道感染"
+    ],
+    "disease": "小儿腹泻"
+  },
+  {
+    "id": "Muzhi_67",
+    "explicit_symptoms": [
+      [
+        "鼻流涕",
+        "True"
+      ],
+      [
+        "咳嗽",
+        "True"
+      ],
+      [
+        "支气管炎",
+        "True"
+      ]
+    ],
+    "implicit_symptoms": [],
+    "candidate_diseases": [
+      "小儿腹泻",
+      "小儿支气管炎",
+      "小儿消化不良",
+      "上呼吸道感染"
+    ],
+    "disease": "小儿支气管炎"
+  },
+  {
+    "id": "Muzhi_68",
+    "explicit_symptoms": [
+      [
+        "腹泻",
+        "True"
+      ]
+    ],
+    "implicit_symptoms": [],
+    "candidate_diseases": [
+      "小儿腹泻",
+      "小儿支气管炎",
+      "小儿消化不良",
+      "上呼吸道感染"
+    ],
+    "disease": "小儿腹泻"
+  },
+  {
+    "id": "Muzhi_69",
+    "explicit_symptoms": [
+      [
+        "中等度热",
+        "True"
+      ],
+      [
+        "发热",
+        "True"
+      ]
+    ],
+    "implicit_symptoms": [
+      [
+        "咳嗽",
+        "True"
+      ],
+      [
+        "沙哑",
+        "True"
+      ],
+      [
+        "呕吐",
+        "True"
+      ],
+      [
+        "有痰",
+        "True"
+      ]
+    ],
+    "candidate_diseases": [
+      "小儿腹泻",
+      "小儿支气管炎",
+      "小儿消化不良",
+      "上呼吸道感染"
+    ],
+    "disease": "上呼吸道感染"
+  },
+  {
+    "id": "Muzhi_70",
+    "explicit_symptoms": [
+      [
+        "大便粘液",
+        "True"
+      ],
+      [
+        "肠鸣音",
+        "True"
+      ],
+      [
+        "哭闹",
+        "True"
+      ]
+    ],
+    "implicit_symptoms": [
+      [
+        "水样便",
+        "True"
+      ]
+    ],
+    "candidate_diseases": [
+      "小儿腹泻",
+      "小儿支气管炎",
+      "小儿消化不良",
+      "上呼吸道感染"
+    ],
+    "disease": "小儿腹泻"
+  },
+  {
+    "id": "Muzhi_71",
+    "explicit_symptoms": [
+      [
+        "稀便",
+        "True"
+      ],
+      [
+        "水样便",
+        "True"
+      ],
+      [
+        "腹泻",
+        "True"
+      ]
+    ],
+    "implicit_symptoms": [],
+    "candidate_diseases": [
+      "小儿腹泻",
+      "小儿支气管炎",
+      "小儿消化不良",
+      "上呼吸道感染"
+    ],
+    "disease": "小儿腹泻"
+  },
+  {
+    "id": "Muzhi_72",
+    "explicit_symptoms": [
+      [
+        "腹泻",
+        "True"
+      ],
+      [
+        "稀便",
+        "True"
+      ]
+    ],
+    "implicit_symptoms": [
+      [
+        "肠炎",
+        "False"
+      ],
+      [
+        "绿便",
+        "True"
+      ],
+      [
+        "消化不良",
+        "True"
+      ]
+    ],
+    "candidate_diseases": [
+      "小儿腹泻",
+      "小儿支气管炎",
+      "小儿消化不良",
+      "上呼吸道感染"
+    ],
+    "disease": "小儿腹泻"
+  },
+  {
+    "id": "Muzhi_73",
+    "explicit_symptoms": [
+      [
+        "稀便",
+        "True"
+      ],
+      [
+        "水样便",
+        "True"
+      ]
+    ],
+    "implicit_symptoms": [
+      [
+        "腹泻",
+        "True"
+      ],
+      [
+        "绿便",
+        "True"
+      ]
+    ],
+    "candidate_diseases": [
+      "小儿腹泻",
+      "小儿支气管炎",
+      "小儿消化不良",
+      "上呼吸道感染"
+    ],
+    "disease": "小儿腹泻"
+  },
+  {
+    "id": "Muzhi_74",
+    "explicit_symptoms": [
+      [
+        "咳嗽",
+        "True"
+      ],
+      [
+        "粗糙呼吸音",
+        "True"
+      ],
+      [
+        "出汗",
+        "True"
+      ]
+    ],
+    "implicit_symptoms": [
+      [
+        "发热",
+        "False"
+      ],
+      [
+        "有痰",
+        "True"
+      ],
+      [
+        "上呼吸道感染",
+        "True"
+      ]
+    ],
+    "candidate_diseases": [
+      "小儿腹泻",
+      "小儿支气管炎",
+      "小儿消化不良",
+      "上呼吸道感染"
+    ],
+    "disease": "上呼吸道感染"
+  },
+  {
+    "id": "Muzhi_75",
+    "explicit_symptoms": [
+      [
+        "咽喉炎",
+        "True"
+      ],
+      [
+        "支气管炎",
+        "True"
+      ],
+      [
+        "鼻塞",
+        "True"
+      ],
+      [
+        "咳嗽",
+        "True"
+      ],
+      [
+        "鼻流涕",
+        "True"
+      ]
+    ],
+    "implicit_symptoms": [
+      [
+        "喘息",
+        "False"
+      ],
+      [
+        "发热",
+        "False"
+      ],
+      [
+        "腹泻",
+        "False"
+      ],
+      [
+        "食欲不振",
+        "True"
+      ],
+      [
+        "哭闹",
+        "True"
+      ]
+    ],
+    "candidate_diseases": [
+      "小儿腹泻",
+      "小儿支气管炎",
+      "小儿消化不良",
+      "上呼吸道感染"
+    ],
+    "disease": "小儿支气管炎"
+  },
+  {
+    "id": "Muzhi_76",
+    "explicit_symptoms": [
+      [
+        "发热",
+        "True"
+      ],
+      [
+        "高热",
+        "True"
+      ],
+      [
+        "腹泻",
+        "True"
+      ],
+      [
+        "绿便",
+        "True"
+      ],
+      [
+        "大便粘液",
+        "True"
+      ]
+    ],
+    "implicit_symptoms": [],
+    "candidate_diseases": [
+      "小儿腹泻",
+      "小儿支气管炎",
+      "小儿消化不良",
+      "上呼吸道感染"
+    ],
+    "disease": "小儿腹泻"
+  },
+  {
+    "id": "Muzhi_77",
+    "explicit_symptoms": [
+      [
+        "中等度热",
+        "True"
+      ],
+      [
+        "厌食",
+        "True"
+      ],
+      [
+        "恶心",
+        "True"
+      ],
+      [
+        "呕吐",
+        "True"
+      ]
+    ],
+    "implicit_symptoms": [
+      [
+        "发热",
+        "True"
+      ],
+      [
+        "四肢厥冷",
+        "True"
+      ]
+    ],
+    "candidate_diseases": [
+      "小儿腹泻",
+      "小儿支气管炎",
+      "小儿消化不良",
+      "上呼吸道感染"
+    ],
+    "disease": "上呼吸道感染"
+  },
+  {
+    "id": "Muzhi_78",
+    "explicit_symptoms": [
+      [
+        "稀便",
+        "True"
+      ]
+    ],
+    "implicit_symptoms": [
+      [
+        "消化不良",
+        "True"
+      ],
+      [
+        "腹泻",
+        "True"
+      ]
+    ],
+    "candidate_diseases": [
+      "小儿腹泻",
+      "小儿支气管炎",
+      "小儿消化不良",
+      "上呼吸道感染"
+    ],
+    "disease": "小儿腹泻"
+  },
+  {
+    "id": "Muzhi_79",
+    "explicit_symptoms": [
+      [
+        "发热",
+        "True"
+      ],
+      [
+        "咽喉不适",
+        "True"
+      ],
+      [
+        "腹痛",
+        "True"
+      ]
+    ],
+    "implicit_symptoms": [],
+    "candidate_diseases": [
+      "小儿腹泻",
+      "小儿支气管炎",
+      "小儿消化不良",
+      "上呼吸道感染"
+    ],
+    "disease": "上呼吸道感染"
+  },
+  {
+    "id": "Muzhi_80",
+    "explicit_symptoms": [
+      [
+        "干呕",
+        "True"
+      ],
+      [
+        "大便酸臭",
+        "True"
+      ]
+    ],
+    "implicit_symptoms": [
+      [
+        "咳嗽",
+        "True"
+      ],
+      [
+        "肺炎",
+        "True"
+      ],
+      [
+        "痰鸣音",
+        "True"
+      ],
+      [
+        "消化不良",
+        "True"
+      ],
+      [
+        "有痰",
+        "True"
+      ]
+    ],
+    "candidate_diseases": [
+      "小儿腹泻",
+      "小儿支气管炎",
+      "小儿消化不良",
+      "上呼吸道感染"
+    ],
+    "disease": "小儿支气管炎"
+  },
+  {
+    "id": "Muzhi_81",
+    "explicit_symptoms": [
+      [
+        "腹泻",
+        "True"
+      ]
+    ],
+    "implicit_symptoms": [
+      [
+        "稀便",
+        "True"
+      ]
+    ],
+    "candidate_diseases": [
+      "小儿腹泻",
+      "小儿支气管炎",
+      "小儿消化不良",
+      "上呼吸道感染"
+    ],
+    "disease": "小儿腹泻"
+  },
+  {
+    "id": "Muzhi_82",
+    "explicit_symptoms": [
+      [
+        "咳嗽",
+        "True"
+      ],
+      [
+        "干咳",
+        "True"
+      ],
+      [
+        "有痰",
+        "True"
+      ]
+    ],
+    "implicit_symptoms": [
+      [
+        "普通感冒",
+        "True"
+      ]
+    ],
+    "candidate_diseases": [
+      "小儿腹泻",
+      "小儿支气管炎",
+      "小儿消化不良",
+      "上呼吸道感染"
+    ],
+    "disease": "小儿支气管炎"
+  },
+  {
+    "id": "Muzhi_83",
+    "explicit_symptoms": [
+      [
+        "绿便",
+        "True"
+      ],
+      [
+        "哭闹",
+        "True"
+      ],
+      [
+        "贫血",
+        "True"
+      ]
+    ],
+    "implicit_symptoms": [
+      [
+        "腹泻",
+        "True"
+      ],
+      [
+        "睡眠障碍",
+        "True"
+      ],
+      [
+        "病毒感染",
+        "True"
+      ]
+    ],
+    "candidate_diseases": [
+      "小儿腹泻",
+      "小儿支气管炎",
+      "小儿消化不良",
+      "上呼吸道感染"
+    ],
+    "disease": "小儿腹泻"
+  },
+  {
+    "id": "Muzhi_84",
+    "explicit_symptoms": [
+      [
+        "呕吐",
+        "True"
+      ]
+    ],
+    "implicit_symptoms": [
+      [
+        "腹痛",
+        "True"
+      ],
+      [
+        "恶心",
+        "True"
+      ]
+    ],
+    "candidate_diseases": [
+      "小儿腹泻",
+      "小儿支气管炎",
+      "小儿消化不良",
+      "上呼吸道感染"
+    ],
+    "disease": "小儿消化不良"
+  },
+  {
+    "id": "Muzhi_85",
+    "explicit_symptoms": [
+      [
+        "咽喉炎",
+        "True"
+      ],
+      [
+        "反复发热",
+        "True"
+      ],
+      [
+        "出汗",
+        "True"
+      ],
+      [
+        "退热",
+        "True"
+      ],
+      [
+        "中等度热",
+        "True"
+      ]
+    ],
+    "implicit_symptoms": [
+      [
+        "发热",
+        "True"
+      ],
+      [
+        "普通感冒",
+        "True"
+      ],
+      [
+        "咳嗽",
+        "True"
+      ],
+      [
+        "四肢厥冷",
+        "True"
+      ],
+      [
+        "有痰",
+        "True"
+      ]
+    ],
+    "candidate_diseases": [
+      "小儿腹泻",
+      "小儿支气管炎",
+      "小儿消化不良",
+      "上呼吸道感染"
+    ],
+    "disease": "小儿支气管炎"
+  },
+  {
+    "id": "Muzhi_86",
+    "explicit_symptoms": [
+      [
+        "高热",
+        "True"
+      ],
+      [
+        "退热",
+        "True"
+      ],
+      [
+        "呕吐",
+        "True"
+      ],
+      [
+        "腹泻",
+        "True"
+      ]
+    ],
+    "implicit_symptoms": [
+      [
+        "鼻塞",
+        "False"
+      ],
+      [
+        "鼻流涕",
+        "True"
+      ],
+      [
+        "咳嗽",
+        "False"
+      ],
+      [
+        "咳痰",
+        "False"
+      ],
+      [
+        "普通感冒",
+        "True"
+      ],
+      [
+        "发热",
+        "True"
+      ],
+      [
+        "稀便",
+        "True"
+      ]
+    ],
+    "candidate_diseases": [
+      "小儿腹泻",
+      "小儿支气管炎",
+      "小儿消化不良",
+      "上呼吸道感染"
+    ],
+    "disease": "小儿腹泻"
+  },
+  {
+    "id": "Muzhi_87",
+    "explicit_symptoms": [
+      [
+        "普通感冒",
+        "True"
+      ],
+      [
+        "咳嗽",
+        "True"
+      ],
+      [
+        "口臭",
+        "True"
+      ]
+    ],
+    "implicit_symptoms": [
+      [
+        "鼻流涕",
+        "True"
+      ],
+      [
+        "鼻塞",
+        "True"
+      ],
+      [
+        "喷嚏",
+        "False"
+      ],
+      [
+        "上呼吸道感染",
+        "True"
+      ],
+      [
+        "有痰",
+        "True"
+      ]
+    ],
+    "candidate_diseases": [
+      "小儿腹泻",
+      "小儿支气管炎",
+      "小儿消化不良",
+      "上呼吸道感染"
+    ],
+    "disease": "小儿支气管炎"
+  },
+  {
+    "id": "Muzhi_88",
+    "explicit_symptoms": [
+      [
+        "低热",
+        "True"
+      ],
+      [
+        "咳嗽",
+        "True"
+      ]
+    ],
+    "implicit_symptoms": [
+      [
+        "发热",
+        "True"
+      ],
+      [
+        "鼻流涕",
+        "False"
+      ],
+      [
+        "支气管炎",
+        "True"
+      ],
+      [
+        "精神软",
+        "True"
+      ],
+      [
+        "干咳",
+        "True"
+      ],
+      [
+        "有痰",
+        "True"
+      ]
+    ],
+    "candidate_diseases": [
+      "小儿腹泻",
+      "小儿支气管炎",
+      "小儿消化不良",
+      "上呼吸道感染"
+    ],
+    "disease": "小儿支气管炎"
+  },
+  {
+    "id": "Muzhi_89",
+    "explicit_symptoms": [
+      [
+        "反复发热",
+        "True"
+      ],
+      [
+        "咳嗽",
+        "True"
+      ]
+    ],
+    "implicit_symptoms": [
+      [
+        "发热",
+        "True"
+      ],
+      [
+        "中等度热",
+        "True"
+      ],
+      [
+        "有痰",
+        "True"
+      ]
+    ],
+    "candidate_diseases": [
+      "小儿腹泻",
+      "小儿支气管炎",
+      "小儿消化不良",
+      "上呼吸道感染"
+    ],
+    "disease": "上呼吸道感染"
+  },
+  {
+    "id": "Muzhi_90",
+    "explicit_symptoms": [
+      [
+        "稀便",
+        "True"
+      ]
+    ],
+    "implicit_symptoms": [
+      [
+        "腹泻",
+        "True"
+      ]
+    ],
+    "candidate_diseases": [
+      "小儿腹泻",
+      "小儿支气管炎",
+      "小儿消化不良",
+      "上呼吸道感染"
+    ],
+    "disease": "小儿腹泻"
+  },
+  {
+    "id": "Muzhi_91",
+    "explicit_symptoms": [
+      [
+        "普通感冒",
+        "True"
+      ],
+      [
+        "鼻流涕",
+        "True"
+      ],
+      [
+        "咳嗽",
+        "True"
+      ],
+      [
+        "有痰",
+        "True"
+      ]
+    ],
+    "implicit_symptoms": [
+      [
+        "上呼吸道感染",
+        "True"
+      ]
+    ],
+    "candidate_diseases": [
+      "小儿腹泻",
+      "小儿支气管炎",
+      "小儿消化不良",
+      "上呼吸道感染"
+    ],
+    "disease": "上呼吸道感染"
+  },
+  {
+    "id": "Muzhi_92",
+    "explicit_symptoms": [
+      [
+        "贫血",
+        "True"
+      ],
+      [
+        "腹泻",
+        "True"
+      ]
+    ],
+    "implicit_symptoms": [
+      [
+        "绿便",
+        "True"
+      ]
+    ],
+    "candidate_diseases": [
+      "小儿腹泻",
+      "小儿支气管炎",
+      "小儿消化不良",
+      "上呼吸道感染"
+    ],
+    "disease": "小儿腹泻"
+  },
+  {
+    "id": "Muzhi_93",
+    "explicit_symptoms": [
+      [
+        "喷嚏",
+        "True"
+      ],
+      [
+        "鼻流涕",
+        "True"
+      ],
+      [
+        "咳痰",
+        "True"
+      ],
+      [
+        "低热",
+        "True"
+      ]
+    ],
+    "implicit_symptoms": [
+      [
+        "腹泻",
+        "False"
+      ],
+      [
+        "湿疹",
+        "True"
+      ],
+      [
+        "急性气管支气管炎",
+        "True"
+      ],
+      [
+        "发热",
+        "True"
+      ],
+      [
+        "呕吐",
+        "True"
+      ],
+      [
+        "痰鸣音",
+        "True"
+      ],
+      [
+        "反复发热",
+        "True"
+      ],
+      [
+        "退热",
+        "True"
+      ]
+    ],
+    "candidate_diseases": [
+      "小儿腹泻",
+      "小儿支气管炎",
+      "小儿消化不良",
+      "上呼吸道感染"
+    ],
+    "disease": "小儿支气管炎"
+  },
+  {
+    "id": "Muzhi_94",
+    "explicit_symptoms": [
+      [
+        "腹泻",
+        "True"
+      ]
+    ],
+    "implicit_symptoms": [
+      [
+        "腹胀",
+        "False"
+      ]
+    ],
+    "candidate_diseases": [
+      "小儿腹泻",
+      "小儿支气管炎",
+      "小儿消化不良",
+      "上呼吸道感染"
+    ],
+    "disease": "小儿腹泻"
+  },
+  {
+    "id": "Muzhi_95",
+    "explicit_symptoms": [
+      [
+        "绿便",
+        "True"
+      ]
+    ],
+    "implicit_symptoms": [
+      [
+        "稀便",
+        "False"
+      ],
+      [
+        "大便粘液",
+        "False"
+      ],
+      [
+        "血便",
+        "False"
+      ],
+      [
+        "鼻流涕",
+        "False"
+      ],
+      [
+        "恶心",
+        "False"
+      ],
+      [
+        "呕吐",
+        "False"
+      ],
+      [
+        "咳嗽",
+        "False"
+      ],
+      [
+        "发热",
+        "False"
+      ]
+    ],
+    "candidate_diseases": [
+      "小儿腹泻",
+      "小儿支气管炎",
+      "小儿消化不良",
+      "上呼吸道感染"
+    ],
+    "disease": "小儿消化不良"
+  },
+  {
+    "id": "Muzhi_96",
+    "explicit_symptoms": [
+      [
+        "厌食",
+        "True"
+      ],
+      [
+        "便秘",
+        "True"
+      ]
+    ],
+    "implicit_symptoms": [
+      [
+        "消化不良",
+        "True"
+      ]
+    ],
+    "candidate_diseases": [
+      "小儿腹泻",
+      "小儿支气管炎",
+      "小儿消化不良",
+      "上呼吸道感染"
+    ],
+    "disease": "小儿消化不良"
+  },
+  {
+    "id": "Muzhi_97",
+    "explicit_symptoms": [
+      [
+        "痰鸣音",
+        "True"
+      ],
+      [
+        "咳嗽",
+        "True"
+      ],
+      [
+        "发热",
+        "True"
+      ],
+      [
+        "有痰",
+        "True"
+      ]
+    ],
+    "implicit_symptoms": [
+      [
+        "喘息",
+        "False"
+      ],
+      [
+        "高热",
+        "False"
+      ]
+    ],
+    "candidate_diseases": [
+      "小儿腹泻",
+      "小儿支气管炎",
+      "小儿消化不良",
+      "上呼吸道感染"
+    ],
+    "disease": "小儿支气管炎"
+  },
+  {
+    "id": "Muzhi_98",
+    "explicit_symptoms": [
+      [
+        "中等度热",
+        "True"
+      ],
+      [
+        "高热",
+        "True"
+      ]
+    ],
+    "implicit_symptoms": [
+      [
+        "发热",
+        "True"
+      ],
+      [
+        "咳嗽",
+        "False"
+      ],
+      [
+        "鼻流涕",
+        "False"
+      ],
+      [
+        "普通感冒",
+        "True"
+      ],
+      [
+        "鼻塞",
+        "False"
+      ],
+      [
+        "喷嚏",
+        "False"
+      ],
+      [
+        "低热",
+        "True"
+      ]
+    ],
+    "candidate_diseases": [
+      "小儿腹泻",
+      "小儿支气管炎",
+      "小儿消化不良",
+      "上呼吸道感染"
+    ],
+    "disease": "上呼吸道感染"
+  },
+  {
+    "id": "Muzhi_99",
+    "explicit_symptoms": [
+      [
+        "鼻流涕",
+        "True"
+      ],
+      [
+        "腹泻",
+        "True"
+      ],
+      [
+        "食欲不振",
+        "True"
+      ],
+      [
+        "咳嗽",
+        "True"
+      ],
+      [
+        "喘息",
+        "True"
+      ],
+      [
+        "哭闹",
+        "True"
+      ]
+    ],
+    "implicit_symptoms": [
+      [
+        "沙哑",
+        "True"
+      ],
+      [
+        "气管炎",
+        "True"
+      ],
+      [
+        "肺炎",
+        "False"
+      ],
+      [
+        "普通感冒",
+        "True"
+      ],
+      [
+        "有痰",
+        "True"
+      ]
+    ],
+    "candidate_diseases": [
+      "小儿腹泻",
+      "小儿支气管炎",
+      "小儿消化不良",
+      "上呼吸道感染"
+    ],
+    "disease": "小儿支气管炎"
+  },
+  {
+    "id": "Muzhi_100",
+    "explicit_symptoms": [],
+    "implicit_symptoms": [
+      [
+        "水样便",
+        "True"
+      ],
+      [
+        "腹泻",
+        "True"
+      ]
+    ],
+    "candidate_diseases": [
+      "小儿腹泻",
+      "小儿支气管炎",
+      "小儿消化不良",
+      "上呼吸道感染"
+    ],
+    "disease": "小儿腹泻"
+  },
+  {
+    "id": "Muzhi_101",
+    "explicit_symptoms": [
+      [
+        "鼻流涕",
+        "True"
+      ],
+      [
+        "鼻塞",
+        "True"
+      ],
+      [
+        "咳嗽",
+        "True"
+      ],
+      [
+        "喷嚏",
+        "True"
+      ],
+      [
+        "普通感冒",
+        "True"
+      ]
+    ],
+    "implicit_symptoms": [
+      [
+        "发热",
+        "False"
+      ],
+      [
+        "腹泻",
+        "False"
+      ],
+      [
+        "痰鸣音",
+        "False"
+      ]
+    ],
+    "candidate_diseases": [
+      "小儿腹泻",
+      "小儿支气管炎",
+      "小儿消化不良",
+      "上呼吸道感染"
+    ],
+    "disease": "上呼吸道感染"
+  },
+  {
+    "id": "Muzhi_102",
+    "explicit_symptoms": [
+      [
+        "发热",
+        "True"
+      ],
+      [
+        "咳嗽",
+        "True"
+      ],
+      [
+        "干咳",
+        "True"
+      ],
+      [
+        "退热",
+        "True"
+      ],
+      [
+        "气管炎",
+        "True"
+      ],
+      [
+        "有痰",
+        "True"
+      ]
+    ],
+    "implicit_symptoms": [
+      [
+        "中等度热",
+        "True"
+      ]
+    ],
+    "candidate_diseases": [
+      "小儿腹泻",
+      "小儿支气管炎",
+      "小儿消化不良",
+      "上呼吸道感染"
+    ],
+    "disease": "小儿支气管炎"
+  },
+  {
+    "id": "Muzhi_103",
+    "explicit_symptoms": [
+      [
+        "高热",
+        "True"
+      ],
+      [
+        "中等度热",
+        "True"
+      ]
+    ],
+    "implicit_symptoms": [
+      [
+        "细菌感染",
+        "True"
+      ],
+      [
+        "发热",
+        "True"
+      ],
+      [
+        "鼻流涕",
+        "True"
+      ],
+      [
+        "咳嗽",
+        "True"
+      ],
+      [
+        "有痰",
+        "True"
+      ]
+    ],
+    "candidate_diseases": [
+      "小儿腹泻",
+      "小儿支气管炎",
+      "小儿消化不良",
+      "上呼吸道感染"
+    ],
+    "disease": "上呼吸道感染"
+  },
+  {
+    "id": "Muzhi_104",
+    "explicit_symptoms": [
+      [
+        "咳嗽",
+        "True"
+      ],
+      [
+        "发热",
+        "True"
+      ],
+      [
+        "中等度热",
+        "True"
+      ]
+    ],
+    "implicit_symptoms": [
+      [
+        "有痰",
+        "True"
+      ]
+    ],
+    "candidate_diseases": [
+      "小儿腹泻",
+      "小儿支气管炎",
+      "小儿消化不良",
+      "上呼吸道感染"
+    ],
+    "disease": "上呼吸道感染"
+  },
+  {
+    "id": "Muzhi_105",
+    "explicit_symptoms": [],
+    "implicit_symptoms": [
+      [
+        "呕吐",
+        "True"
+      ],
+      [
+        "消化不良",
+        "True"
+      ],
+      [
+        "干呕",
+        "True"
+      ]
+    ],
+    "candidate_diseases": [
+      "小儿腹泻",
+      "小儿支气管炎",
+      "小儿消化不良",
+      "上呼吸道感染"
+    ],
+    "disease": "小儿消化不良"
+  },
+  {
+    "id": "Muzhi_106",
+    "explicit_symptoms": [
+      [
+        "呕吐",
+        "True"
+      ]
+    ],
+    "implicit_symptoms": [
+      [
+        "哭闹",
+        "False"
+      ],
+      [
+        "食欲不振",
+        "True"
+      ],
+      [
+        "腹泻",
+        "True"
+      ],
+      [
+        "稀便",
+        "True"
+      ],
+      [
+        "水样便",
+        "True"
+      ],
+      [
+        "屁",
+        "True"
+      ],
+      [
+        "干呕",
+        "True"
+      ],
+      [
+        "咳嗽",
+        "True"
+      ]
+    ],
+    "candidate_diseases": [
+      "小儿腹泻",
+      "小儿支气管炎",
+      "小儿消化不良",
+      "上呼吸道感染"
+    ],
+    "disease": "小儿消化不良"
+  },
+  {
+    "id": "Muzhi_107",
+    "explicit_symptoms": [
+      [
+        "咳嗽",
+        "True"
+      ]
+    ],
+    "implicit_symptoms": [
+      [
+        "鼻流涕",
+        "True"
+      ]
+    ],
+    "candidate_diseases": [
+      "小儿腹泻",
+      "小儿支气管炎",
+      "小儿消化不良",
+      "上呼吸道感染"
+    ],
+    "disease": "小儿支气管炎"
+  },
+  {
+    "id": "Muzhi_108",
+    "explicit_symptoms": [],
+    "implicit_symptoms": [
+      [
+        "水样便",
+        "True"
+      ],
+      [
+        "稀便",
+        "True"
+      ],
+      [
+        "发热",
+        "True"
+      ]
+    ],
+    "candidate_diseases": [
+      "小儿腹泻",
+      "小儿支气管炎",
+      "小儿消化不良",
+      "上呼吸道感染"
+    ],
+    "disease": "小儿消化不良"
+  },
+  {
+    "id": "Muzhi_109",
+    "explicit_symptoms": [
+      [
+        "腹泻",
+        "True"
+      ],
+      [
+        "绿便",
+        "True"
+      ],
+      [
+        "消化不良",
+        "True"
+      ],
+      [
+        "低热",
+        "True"
+      ],
+      [
+        "水样便",
+        "True"
+      ],
+      [
+        "腹胀",
+        "True"
+      ]
+    ],
+    "implicit_symptoms": [
+      [
+        "普通感冒",
+        "True"
+      ],
+      [
+        "鼻塞",
+        "False"
+      ],
+      [
+        "鼻流涕",
+        "False"
+      ],
+      [
+        "咳嗽",
+        "False"
+      ],
+      [
+        "喷嚏",
+        "True"
+      ]
+    ],
+    "candidate_diseases": [
+      "小儿腹泻",
+      "小儿支气管炎",
+      "小儿消化不良",
+      "上呼吸道感染"
+    ],
+    "disease": "小儿消化不良"
+  },
+  {
+    "id": "Muzhi_110",
+    "explicit_symptoms": [],
+    "implicit_symptoms": [
+      [
+        "稀便",
+        "True"
+      ],
+      [
+        "消化不良",
+        "True"
+      ],
+      [
+        "发热",
+        "True"
+      ],
+      [
+        "腹泻",
+        "True"
+      ]
+    ],
+    "candidate_diseases": [
+      "小儿腹泻",
+      "小儿支气管炎",
+      "小儿消化不良",
+      "上呼吸道感染"
+    ],
+    "disease": "小儿消化不良"
+  },
+  {
+    "id": "Muzhi_111",
+    "explicit_symptoms": [
+      [
+        "便秘",
+        "True"
+      ]
+    ],
+    "implicit_symptoms": [
+      [
+        "血便",
+        "True"
+      ],
+      [
+        "大便酸臭",
+        "False"
+      ],
+      [
+        "消化不良",
+        "True"
+      ]
+    ],
+    "candidate_diseases": [
+      "小儿腹泻",
+      "小儿支气管炎",
+      "小儿消化不良",
+      "上呼吸道感染"
+    ],
+    "disease": "小儿消化不良"
+  },
+  {
+    "id": "Muzhi_112",
+    "explicit_symptoms": [
+      [
+        "腹泻",
+        "True"
+      ],
+      [
+        "稀便",
+        "True"
+      ],
+      [
+        "中等度热",
+        "True"
+      ]
+    ],
+    "implicit_symptoms": [
+      [
+        "发热",
+        "True"
+      ],
+      [
+        "普通感冒",
+        "True"
+      ],
+      [
+        "呕吐",
+        "True"
+      ],
+      [
+        "有痰",
+        "True"
+      ],
+      [
+        "鼻流涕",
+        "True"
+      ],
+      [
+        "水样便",
+        "True"
+      ],
+      [
+        "血便",
+        "True"
+      ]
+    ],
+    "candidate_diseases": [
+      "小儿腹泻",
+      "小儿支气管炎",
+      "小儿消化不良",
+      "上呼吸道感染"
+    ],
+    "disease": "小儿腹泻"
+  },
+  {
+    "id": "Muzhi_113",
+    "explicit_symptoms": [
+      [
+        "腹泻",
+        "True"
+      ],
+      [
+        "稀便",
+        "True"
+      ],
+      [
+        "水样便",
+        "True"
+      ]
+    ],
+    "implicit_symptoms": [
+      [
+        "消化不良",
+        "True"
+      ]
+    ],
+    "candidate_diseases": [
+      "小儿腹泻",
+      "小儿支气管炎",
+      "小儿消化不良",
+      "上呼吸道感染"
+    ],
+    "disease": "小儿腹泻"
+  },
+  {
+    "id": "Muzhi_114",
+    "explicit_symptoms": [
+      [
+        "干呕",
+        "True"
+      ]
+    ],
+    "implicit_symptoms": [],
+    "candidate_diseases": [
+      "小儿腹泻",
+      "小儿支气管炎",
+      "小儿消化不良",
+      "上呼吸道感染"
+    ],
+    "disease": "小儿消化不良"
+  },
+  {
+    "id": "Muzhi_115",
+    "explicit_symptoms": [
+      [
+        "腹泻",
+        "True"
+      ]
+    ],
+    "implicit_symptoms": [
+      [
+        "稀便",
+        "True"
+      ],
+      [
+        "大便粘液",
+        "True"
+      ],
+      [
+        "尿量减少",
+        "False"
+      ]
+    ],
+    "candidate_diseases": [
+      "小儿腹泻",
+      "小儿支气管炎",
+      "小儿消化不良",
+      "上呼吸道感染"
+    ],
+    "disease": "小儿消化不良"
+  },
+  {
+    "id": "Muzhi_116",
+    "explicit_symptoms": [
+      [
+        "腹泻",
+        "True"
+      ],
+      [
+        "稀便",
+        "True"
+      ],
+      [
+        "水样便",
+        "True"
+      ],
+      [
+        "消化不良",
+        "True"
+      ]
+    ],
+    "implicit_symptoms": [
+      [
+        "绿便",
+        "False"
+      ]
+    ],
+    "candidate_diseases": [
+      "小儿腹泻",
+      "小儿支气管炎",
+      "小儿消化不良",
+      "上呼吸道感染"
+    ],
+    "disease": "小儿腹泻"
+  },
+  {
+    "id": "Muzhi_117",
+    "explicit_symptoms": [
+      [
+        "发热",
+        "True"
+      ],
+      [
+        "腹泻",
+        "True"
+      ]
+    ],
+    "implicit_symptoms": [
+      [
+        "低热",
+        "True"
+      ],
+      [
+        "中等度热",
+        "True"
+      ],
+      [
+        "稀便",
+        "True"
+      ],
+      [
+        "绿便",
+        "True"
+      ],
+      [
+        "普通感冒",
+        "True"
+      ],
+      [
+        "鼻流涕",
+        "True"
+      ]
+    ],
+    "candidate_diseases": [
+      "小儿腹泻",
+      "小儿支气管炎",
+      "小儿消化不良",
+      "上呼吸道感染"
+    ],
+    "disease": "小儿消化不良"
+  },
+  {
+    "id": "Muzhi_118",
+    "explicit_symptoms": [
+      [
+        "腹泻",
+        "True"
+      ]
+    ],
+    "implicit_symptoms": [
+      [
+        "发热",
+        "False"
+      ],
+      [
+        "咳嗽",
+        "False"
+      ],
+      [
+        "鼻流涕",
+        "False"
+      ]
+    ],
+    "candidate_diseases": [
+      "小儿腹泻",
+      "小儿支气管炎",
+      "小儿消化不良",
+      "上呼吸道感染"
+    ],
+    "disease": "小儿腹泻"
+  },
+  {
+    "id": "Muzhi_119",
+    "explicit_symptoms": [
+      [
+        "发热",
+        "True"
+      ],
+      [
+        "咳嗽",
+        "True"
+      ]
+    ],
+    "implicit_symptoms": [
+      [
+        "高热",
+        "True"
+      ],
+      [
+        "呕吐",
+        "False"
+      ],
+      [
+        "普通感冒",
+        "True"
+      ],
+      [
+        "精神软",
+        "True"
+      ],
+      [
+        "退热",
+        "True"
+      ],
+      [
+        "腹痛",
+        "True"
+      ],
+      [
+        "有痰",
+        "True"
+      ]
+    ],
+    "candidate_diseases": [
+      "小儿腹泻",
+      "小儿支气管炎",
+      "小儿消化不良",
+      "上呼吸道感染"
+    ],
+    "disease": "小儿支气管炎"
+  },
+  {
+    "id": "Muzhi_120",
+    "explicit_symptoms": [
+      [
+        "屁",
+        "True"
+      ]
+    ],
+    "implicit_symptoms": [
+      [
+        "发热",
+        "False"
+      ],
+      [
+        "稀便",
+        "True"
+      ],
+      [
+        "水样便",
+        "True"
+      ],
+      [
+        "腹泻",
+        "True"
+      ]
+    ],
+    "candidate_diseases": [
+      "小儿腹泻",
+      "小儿支气管炎",
+      "小儿消化不良",
+      "上呼吸道感染"
+    ],
+    "disease": "小儿消化不良"
+  },
+  {
+    "id": "Muzhi_121",
+    "explicit_symptoms": [
+      [
+        "发热",
+        "True"
+      ],
+      [
+        "嗜睡",
+        "True"
+      ]
+    ],
+    "implicit_symptoms": [
+      [
+        "咳嗽",
+        "True"
+      ],
+      [
+        "睡眠障碍",
+        "True"
+      ],
+      [
+        "退热",
+        "True"
+      ],
+      [
+        "精神软",
+        "True"
+      ],
+      [
+        "呕吐",
+        "False"
+      ],
+      [
+        "反复发热",
+        "True"
+      ],
+      [
+        "支气管炎",
+        "True"
+      ],
+      [
+        "食欲不振",
+        "True"
+      ]
+    ],
+    "candidate_diseases": [
+      "小儿腹泻",
+      "小儿支气管炎",
+      "小儿消化不良",
+      "上呼吸道感染"
+    ],
+    "disease": "小儿支气管炎"
+  },
+  {
+    "id": "Muzhi_122",
+    "explicit_symptoms": [
+      [
+        "腹泻",
+        "True"
+      ]
+    ],
+    "implicit_symptoms": [
+      [
+        "水样便",
+        "True"
+      ],
+      [
+        "消化不良",
+        "True"
+      ],
+      [
+        "腹胀",
+        "True"
+      ],
+      [
+        "呕吐",
+        "True"
+      ]
+    ],
+    "candidate_diseases": [
+      "小儿腹泻",
+      "小儿支气管炎",
+      "小儿消化不良",
+      "上呼吸道感染"
+    ],
+    "disease": "小儿腹泻"
+  },
+  {
+    "id": "Muzhi_123",
+    "explicit_symptoms": [
+      [
+        "稀便",
+        "True"
+      ]
+    ],
+    "implicit_symptoms": [
+      [
+        "腹泻",
+        "True"
+      ]
+    ],
+    "candidate_diseases": [
+      "小儿腹泻",
+      "小儿支气管炎",
+      "小儿消化不良",
+      "上呼吸道感染"
+    ],
+    "disease": "小儿消化不良"
+  },
+  {
+    "id": "Muzhi_124",
+    "explicit_symptoms": [
+      [
+        "咳嗽",
+        "True"
+      ]
+    ],
+    "implicit_symptoms": [],
+    "candidate_diseases": [
+      "小儿腹泻",
+      "小儿支气管炎",
+      "小儿消化不良",
+      "上呼吸道感染"
+    ],
+    "disease": "小儿支气管炎"
+  },
+  {
+    "id": "Muzhi_125",
+    "explicit_symptoms": [
+      [
+        "咳嗽",
+        "True"
+      ],
+      [
+        "呕吐",
+        "True"
+      ],
+      [
+        "哭闹",
+        "True"
+      ]
+    ],
+    "implicit_symptoms": [
+      [
+        "发热",
+        "False"
+      ],
+      [
+        "鼻流涕",
+        "True"
+      ],
+      [
+        "普通感冒",
+        "True"
+      ],
+      [
+        "肺炎",
+        "True"
+      ]
+    ],
+    "candidate_diseases": [
+      "小儿腹泻",
+      "小儿支气管炎",
+      "小儿消化不良",
+      "上呼吸道感染"
+    ],
+    "disease": "上呼吸道感染"
+  },
+  {
+    "id": "Muzhi_126",
+    "explicit_symptoms": [
+      [
+        "腹泻",
+        "True"
+      ],
+      [
+        "血便",
+        "True"
+      ]
+    ],
+    "implicit_symptoms": [
+      [
+        "发热",
+        "False"
+      ],
+      [
+        "呕吐",
+        "False"
+      ]
+    ],
+    "candidate_diseases": [
+      "小儿腹泻",
+      "小儿支气管炎",
+      "小儿消化不良",
+      "上呼吸道感染"
+    ],
+    "disease": "小儿腹泻"
+  },
+  {
+    "id": "Muzhi_127",
+    "explicit_symptoms": [
+      [
+        "发热",
+        "True"
+      ],
+      [
+        "腹泻",
+        "True"
+      ]
+    ],
+    "implicit_symptoms": [
+      [
+        "稀便",
+        "True"
+      ],
+      [
+        "厌食",
+        "True"
+      ],
+      [
+        "腹胀",
+        "True"
+      ],
+      [
+        "呕吐",
+        "True"
+      ],
+      [
+        "鼻流涕",
+        "True"
+      ],
+      [
+        "咳嗽",
+        "True"
+      ]
+    ],
+    "candidate_diseases": [
+      "小儿腹泻",
+      "小儿支气管炎",
+      "小儿消化不良",
+      "上呼吸道感染"
+    ],
+    "disease": "小儿腹泻"
+  },
+  {
+    "id": "Muzhi_128",
+    "explicit_symptoms": [
+      [
+        "高热",
+        "True"
+      ],
+      [
+        "退热",
+        "True"
+      ],
+      [
+        "腹泻",
+        "True"
+      ]
+    ],
+    "implicit_symptoms": [
+      [
+        "稀便",
+        "True"
+      ],
+      [
+        "血便",
+        "False"
+      ],
+      [
+        "呕吐",
+        "False"
+      ],
+      [
+        "咳嗽",
+        "True"
+      ],
+      [
+        "干呕",
+        "True"
+      ]
+    ],
+    "candidate_diseases": [
+      "小儿腹泻",
+      "小儿支气管炎",
+      "小儿消化不良",
+      "上呼吸道感染"
+    ],
+    "disease": "小儿腹泻"
+  },
+  {
+    "id": "Muzhi_129",
+    "explicit_symptoms": [
+      [
+        "消化不良",
+        "True"
+      ],
+      [
+        "腹泻",
+        "True"
+      ],
+      [
+        "稀便",
+        "True"
+      ]
+    ],
+    "implicit_symptoms": [
+      [
+        "水样便",
+        "True"
+      ]
+    ],
+    "candidate_diseases": [
+      "小儿腹泻",
+      "小儿支气管炎",
+      "小儿消化不良",
+      "上呼吸道感染"
+    ],
+    "disease": "小儿消化不良"
+  },
+  {
+    "id": "Muzhi_130",
+    "explicit_symptoms": [
+      [
+        "咳嗽",
+        "True"
+      ],
+      [
+        "有痰",
+        "True"
+      ]
+    ],
+    "implicit_symptoms": [
+      [
+        "发热",
+        "False"
+      ],
+      [
+        "食欲不振",
+        "True"
+      ]
+    ],
+    "candidate_diseases": [
+      "小儿腹泻",
+      "小儿支气管炎",
+      "小儿消化不良",
+      "上呼吸道感染"
+    ],
+    "disease": "小儿支气管炎"
+  },
+  {
+    "id": "Muzhi_131",
+    "explicit_symptoms": [
+      [
+        "普通感冒",
+        "True"
+      ],
+      [
+        "鼻流涕",
+        "True"
+      ]
+    ],
+    "implicit_symptoms": [
+      [
+        "发热",
+        "False"
+      ]
+    ],
+    "candidate_diseases": [
+      "小儿腹泻",
+      "小儿支气管炎",
+      "小儿消化不良",
+      "上呼吸道感染"
+    ],
+    "disease": "上呼吸道感染"
+  },
+  {
+    "id": "Muzhi_132",
+    "explicit_symptoms": [
+      [
+        "发热",
+        "True"
+      ],
+      [
+        "退热",
+        "True"
+      ],
+      [
+        "中等度热",
+        "True"
+      ]
+    ],
+    "implicit_symptoms": [
+      [
+        "普通感冒",
+        "True"
+      ]
+    ],
+    "candidate_diseases": [
+      "小儿腹泻",
+      "小儿支气管炎",
+      "小儿消化不良",
+      "上呼吸道感染"
+    ],
+    "disease": "上呼吸道感染"
+  },
+  {
+    "id": "Muzhi_133",
+    "explicit_symptoms": [
+      [
+        "出汗",
+        "True"
+      ]
+    ],
+    "implicit_symptoms": [
+      [
+        "鼻流涕",
+        "False"
+      ],
+      [
+        "鼻塞",
+        "True"
+      ],
+      [
+        "稀便",
+        "True"
+      ],
+      [
+        "腹泻",
+        "True"
+      ],
+      [
+        "肠炎",
+        "True"
+      ]
+    ],
+    "candidate_diseases": [
+      "小儿腹泻",
+      "小儿支气管炎",
+      "小儿消化不良",
+      "上呼吸道感染"
+    ],
+    "disease": "小儿腹泻"
+  },
+  {
+    "id": "Muzhi_134",
+    "explicit_symptoms": [
+      [
+        "腹泻",
+        "True"
+      ]
+    ],
+    "implicit_symptoms": [],
+    "candidate_diseases": [
+      "小儿腹泻",
+      "小儿支气管炎",
+      "小儿消化不良",
+      "上呼吸道感染"
+    ],
+    "disease": "小儿腹泻"
+  },
+  {
+    "id": "Muzhi_135",
+    "explicit_symptoms": [
+      [
+        "腹泻",
+        "True"
+      ]
+    ],
+    "implicit_symptoms": [
+      [
+        "稀便",
+        "True"
+      ],
+      [
+        "水样便",
+        "True"
+      ],
+      [
+        "大便粘液",
+        "False"
+      ],
+      [
+        "呕吐",
+        "True"
+      ],
+      [
+        "发热",
+        "False"
+      ],
+      [
+        "绿便",
+        "True"
+      ]
+    ],
+    "candidate_diseases": [
+      "小儿腹泻",
+      "小儿支气管炎",
+      "小儿消化不良",
+      "上呼吸道感染"
+    ],
+    "disease": "小儿腹泻"
+  },
+  {
+    "id": "Muzhi_136",
+    "explicit_symptoms": [
+      [
+        "发热",
+        "True"
+      ],
+      [
+        "低热",
+        "True"
+      ]
+    ],
+    "implicit_symptoms": [
+      [
+        "四肢厥冷",
+        "False"
+      ]
+    ],
+    "candidate_diseases": [
+      "小儿腹泻",
+      "小儿支气管炎",
+      "小儿消化不良",
+      "上呼吸道感染"
+    ],
+    "disease": "上呼吸道感染"
+  },
+  {
+    "id": "Muzhi_137",
+    "explicit_symptoms": [
+      [
+        "普通感冒",
+        "True"
+      ],
+      [
+        "发热",
+        "True"
+      ],
+      [
+        "呕吐",
+        "True"
+      ],
+      [
+        "腹泻",
+        "True"
+      ],
+      [
+        "稀便",
+        "True"
+      ],
+      [
+        "厌食",
+        "True"
+      ]
+    ],
+    "implicit_symptoms": [
+      [
+        "精神软",
+        "True"
+      ]
+    ],
+    "candidate_diseases": [
+      "小儿腹泻",
+      "小儿支气管炎",
+      "小儿消化不良",
+      "上呼吸道感染"
+    ],
+    "disease": "小儿腹泻"
+  },
+  {
+    "id": "Muzhi_138",
+    "explicit_symptoms": [
+      [
+        "腹泻",
+        "True"
+      ]
+    ],
+    "implicit_symptoms": [
+      [
+        "呕吐",
+        "False"
+      ],
+      [
+        "稀便",
+        "True"
+      ],
+      [
+        "消化不良",
+        "True"
+      ]
+    ],
+    "candidate_diseases": [
+      "小儿腹泻",
+      "小儿支气管炎",
+      "小儿消化不良",
+      "上呼吸道感染"
+    ],
+    "disease": "小儿消化不良"
+  },
+  {
+    "id": "Muzhi_139",
+    "explicit_symptoms": [
+      [
+        "咳嗽",
+        "True"
+      ],
+      [
+        "发热",
+        "True"
+      ],
+      [
+        "有痰",
+        "True"
+      ]
+    ],
+    "implicit_symptoms": [
+      [
+        "反复发热",
+        "True"
+      ],
+      [
+        "鼻流涕",
+        "True"
+      ],
+      [
+        "腹泻",
+        "True"
+      ],
+      [
+        "中等度热",
+        "True"
+      ]
+    ],
+    "candidate_diseases": [
+      "小儿腹泻",
+      "小儿支气管炎",
+      "小儿消化不良",
+      "上呼吸道感染"
+    ],
+    "disease": "小儿支气管炎"
+  },
+  {
+    "id": "Muzhi_140",
+    "explicit_symptoms": [
+      [
+        "咳嗽",
+        "True"
+      ],
+      [
+        "急性气管支气管炎",
+        "True"
+      ],
+      [
+        "支原体感染",
+        "True"
+      ],
+      [
+        "咳痰",
+        "True"
+      ]
+    ],
+    "implicit_symptoms": [
+      [
+        "鼻流涕",
+        "True"
+      ]
+    ],
+    "candidate_diseases": [
+      "小儿腹泻",
+      "小儿支气管炎",
+      "小儿消化不良",
+      "上呼吸道感染"
+    ],
+    "disease": "小儿支气管炎"
+  },
+  {
+    "id": "Muzhi_141",
+    "explicit_symptoms": [
+      [
+        "咳嗽",
+        "True"
+      ],
+      [
+        "有痰",
+        "True"
+      ]
+    ],
+    "implicit_symptoms": [
+      [
+        "支气管炎",
+        "True"
+      ],
+      [
+        "支原体感染",
+        "False"
+      ]
+    ],
+    "candidate_diseases": [
+      "小儿腹泻",
+      "小儿支气管炎",
+      "小儿消化不良",
+      "上呼吸道感染"
+    ],
+    "disease": "小儿支气管炎"
+  },
+  {
+    "id": "Muzhi_142",
+    "explicit_symptoms": [
+      [
+        "低热",
+        "True"
+      ],
+      [
+        "咳嗽",
+        "True"
+      ],
+      [
+        "沙哑",
+        "True"
+      ],
+      [
+        "咽喉不适",
+        "True"
+      ],
+      [
+        "有痰",
+        "True"
+      ]
+    ],
+    "implicit_symptoms": [
+      [
+        "发热",
+        "True"
+      ],
+      [
+        "喘息",
+        "False"
+      ],
+      [
+        "支气管肺炎",
+        "True"
+      ]
+    ],
+    "candidate_diseases": [
+      "小儿腹泻",
+      "小儿支气管炎",
+      "小儿消化不良",
+      "上呼吸道感染"
+    ],
+    "disease": "小儿支气管炎"
+  }
+]

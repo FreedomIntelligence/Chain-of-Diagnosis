@@ -1,0 +1,3526 @@
+[
+  {
+    "id": "Dxy_1",
+    "explicit_symptoms": [
+      [
+        "Restlessness",
+        "True"
+      ],
+      [
+        "fever",
+        "True"
+      ],
+      [
+        "Rash",
+        "True"
+      ]
+    ],
+    "implicit_symptoms": [
+      [
+        "herpes",
+        "True"
+      ],
+      [
+        "Lethargy",
+        "True"
+      ],
+      [
+        "Cough",
+        "False"
+      ],
+      [
+        "Vomiting",
+        "False"
+      ],
+      [
+        "Anorexia",
+        "False"
+      ]
+    ],
+    "candidate_diseases": [
+      "Pneumonia",
+      "Allergic Rhinitis",
+      "Hand, Foot and Mouth Disease in Children",
+      "Upper Respiratory Tract Infection",
+      "Pediatric Diarrhea"
+    ],
+    "disease": "Hand, Foot and Mouth Disease in Children"
+  },
+  {
+    "id": "Dxy_2",
+    "explicit_symptoms": [
+      [
+        "Restlessness",
+        "True"
+      ],
+      [
+        "fever",
+        "True"
+      ],
+      [
+        "Diarrhea",
+        "True"
+      ]
+    ],
+    "implicit_symptoms": [
+      [
+        "Anorexia",
+        "True"
+      ]
+    ],
+    "candidate_diseases": [
+      "Pneumonia",
+      "Allergic Rhinitis",
+      "Hand, Foot and Mouth Disease in Children",
+      "Upper Respiratory Tract Infection",
+      "Pediatric Diarrhea"
+    ],
+    "disease": "Pediatric Diarrhea"
+  },
+  {
+    "id": "Dxy_3",
+    "explicit_symptoms": [
+      [
+        "Nasal congestion",
+        "True"
+      ],
+      [
+        "Sneezing",
+        "True"
+      ],
+      [
+        "difficulty breathing",
+        "True"
+      ]
+    ],
+    "implicit_symptoms": [
+      [
+        "Rubbing Nose",
+        "True"
+      ]
+    ],
+    "candidate_diseases": [
+      "Pneumonia",
+      "Allergic Rhinitis",
+      "Hand, Foot and Mouth Disease in Children",
+      "Upper Respiratory Tract Infection",
+      "Pediatric Diarrhea"
+    ],
+    "disease": "Allergic Rhinitis"
+  },
+  {
+    "id": "Dxy_4",
+    "explicit_symptoms": [
+      [
+        "herpes",
+        "True"
+      ],
+      [
+        "Rash",
+        "True"
+      ]
+    ],
+    "implicit_symptoms": [],
+    "candidate_diseases": [
+      "Pneumonia",
+      "Allergic Rhinitis",
+      "Hand, Foot and Mouth Disease in Children",
+      "Upper Respiratory Tract Infection",
+      "Pediatric Diarrhea"
+    ],
+    "disease": "Hand, Foot and Mouth Disease in Children"
+  },
+  {
+    "id": "Dxy_5",
+    "explicit_symptoms": [
+      [
+        "herpes",
+        "True"
+      ],
+      [
+        "Cough",
+        "True"
+      ],
+      [
+        "Restlessness",
+        "True"
+      ]
+    ],
+    "implicit_symptoms": [
+      [
+        "fever",
+        "False"
+      ]
+    ],
+    "candidate_diseases": [
+      "Pneumonia",
+      "Allergic Rhinitis",
+      "Hand, Foot and Mouth Disease in Children",
+      "Upper Respiratory Tract Infection",
+      "Pediatric Diarrhea"
+    ],
+    "disease": "Hand, Foot and Mouth Disease in Children"
+  },
+  {
+    "id": "Dxy_6",
+    "explicit_symptoms": [
+      [
+        "Diarrhea",
+        "True"
+      ],
+      [
+        "rubbing eyes",
+        "True"
+      ],
+      [
+        "fever",
+        "True"
+      ],
+      [
+        "Rash",
+        "True"
+      ]
+    ],
+    "implicit_symptoms": [
+      [
+        "Lethargy",
+        "False"
+      ]
+    ],
+    "candidate_diseases": [
+      "Pneumonia",
+      "Allergic Rhinitis",
+      "Hand, Foot and Mouth Disease in Children",
+      "Upper Respiratory Tract Infection",
+      "Pediatric Diarrhea"
+    ],
+    "disease": "Pediatric Diarrhea"
+  },
+  {
+    "id": "Dxy_7",
+    "explicit_symptoms": [
+      [
+        "Egg Drop Stool",
+        "True"
+      ],
+      [
+        "Diarrhea",
+        "True"
+      ]
+    ],
+    "implicit_symptoms": [
+      [
+        "Lethargy",
+        "False"
+      ],
+      [
+        "oliguria",
+        "False"
+      ]
+    ],
+    "candidate_diseases": [
+      "Pneumonia",
+      "Allergic Rhinitis",
+      "Hand, Foot and Mouth Disease in Children",
+      "Upper Respiratory Tract Infection",
+      "Pediatric Diarrhea"
+    ],
+    "disease": "Pediatric Diarrhea"
+  },
+  {
+    "id": "Dxy_8",
+    "explicit_symptoms": [
+      [
+        "blowing bubbles",
+        "True"
+      ],
+      [
+        "Cough",
+        "True"
+      ],
+      [
+        "Nasal congestion",
+        "True"
+      ],
+      [
+        "Coughing up phlegm",
+        "True"
+      ]
+    ],
+    "implicit_symptoms": [],
+    "candidate_diseases": [
+      "Pneumonia",
+      "Allergic Rhinitis",
+      "Hand, Foot and Mouth Disease in Children",
+      "Upper Respiratory Tract Infection",
+      "Pediatric Diarrhea"
+    ],
+    "disease": "Upper Respiratory Tract Infection"
+  },
+  {
+    "id": "Dxy_9",
+    "explicit_symptoms": [
+      [
+        "Egg Drop Stool",
+        "True"
+      ],
+      [
+        "Vomiting",
+        "True"
+      ],
+      [
+        "Diarrhea",
+        "True"
+      ],
+      [
+        "fever",
+        "True"
+      ]
+    ],
+    "implicit_symptoms": [
+      [
+        "Lethargy",
+        "False"
+      ],
+      [
+        "oliguria",
+        "True"
+      ],
+      [
+        "Restlessness",
+        "True"
+      ]
+    ],
+    "candidate_diseases": [
+      "Pneumonia",
+      "Allergic Rhinitis",
+      "Hand, Foot and Mouth Disease in Children",
+      "Upper Respiratory Tract Infection",
+      "Pediatric Diarrhea"
+    ],
+    "disease": "Pediatric Diarrhea"
+  },
+  {
+    "id": "Dxy_10",
+    "explicit_symptoms": [
+      [
+        "Cough",
+        "True"
+      ],
+      [
+        "fever",
+        "True"
+      ]
+    ],
+    "implicit_symptoms": [
+      [
+        "Lethargy",
+        "False"
+      ],
+      [
+        "difficulty breathing",
+        "False"
+      ]
+    ],
+    "candidate_diseases": [
+      "Pneumonia",
+      "Allergic Rhinitis",
+      "Hand, Foot and Mouth Disease in Children",
+      "Upper Respiratory Tract Infection",
+      "Pediatric Diarrhea"
+    ],
+    "disease": "Upper Respiratory Tract Infection"
+  },
+  {
+    "id": "Dxy_11",
+    "explicit_symptoms": [
+      [
+        "herpes",
+        "True"
+      ],
+      [
+        "Vomiting",
+        "True"
+      ],
+      [
+        "fever",
+        "True"
+      ],
+      [
+        "Rash",
+        "True"
+      ]
+    ],
+    "implicit_symptoms": [
+      [
+        "Anorexia",
+        "True"
+      ]
+    ],
+    "candidate_diseases": [
+      "Pneumonia",
+      "Allergic Rhinitis",
+      "Hand, Foot and Mouth Disease in Children",
+      "Upper Respiratory Tract Infection",
+      "Pediatric Diarrhea"
+    ],
+    "disease": "Hand, Foot and Mouth Disease in Children"
+  },
+  {
+    "id": "Dxy_12",
+    "explicit_symptoms": [
+      [
+        "Abdominal pain",
+        "True"
+      ],
+      [
+        "Vomiting",
+        "True"
+      ],
+      [
+        "fever",
+        "True"
+      ]
+    ],
+    "implicit_symptoms": [
+      [
+        "Abdominal distension",
+        "True"
+      ]
+    ],
+    "candidate_diseases": [
+      "Pneumonia",
+      "Allergic Rhinitis",
+      "Hand, Foot and Mouth Disease in Children",
+      "Upper Respiratory Tract Infection",
+      "Pediatric Diarrhea"
+    ],
+    "disease": "Pediatric Diarrhea"
+  },
+  {
+    "id": "Dxy_13",
+    "explicit_symptoms": [
+      [
+        "Cough",
+        "True"
+      ],
+      [
+        "Convulsion",
+        "True"
+      ],
+      [
+        "Rhinorrhea",
+        "True"
+      ]
+    ],
+    "implicit_symptoms": [
+      [
+        "Allergy",
+        "True"
+      ]
+    ],
+    "candidate_diseases": [
+      "Pneumonia",
+      "Allergic Rhinitis",
+      "Hand, Foot and Mouth Disease in Children",
+      "Upper Respiratory Tract Infection",
+      "Pediatric Diarrhea"
+    ],
+    "disease": "Allergic Rhinitis"
+  },
+  {
+    "id": "Dxy_14",
+    "explicit_symptoms": [
+      [
+        "Nasal congestion",
+        "True"
+      ],
+      [
+        "Sneezing",
+        "True"
+      ]
+    ],
+    "implicit_symptoms": [
+      [
+        "Allergy",
+        "True"
+      ]
+    ],
+    "candidate_diseases": [
+      "Pneumonia",
+      "Allergic Rhinitis",
+      "Hand, Foot and Mouth Disease in Children",
+      "Upper Respiratory Tract Infection",
+      "Pediatric Diarrhea"
+    ],
+    "disease": "Allergic Rhinitis"
+  },
+  {
+    "id": "Dxy_15",
+    "explicit_symptoms": [
+      [
+        "herpes",
+        "True"
+      ],
+      [
+        "Cough",
+        "True"
+      ],
+      [
+        "Nasal congestion",
+        "True"
+      ],
+      [
+        "Sneezing",
+        "True"
+      ],
+      [
+        "Coughing up phlegm",
+        "True"
+      ]
+    ],
+    "implicit_symptoms": [
+      [
+        "fever",
+        "True"
+      ]
+    ],
+    "candidate_diseases": [
+      "Pneumonia",
+      "Allergic Rhinitis",
+      "Hand, Foot and Mouth Disease in Children",
+      "Upper Respiratory Tract Infection",
+      "Pediatric Diarrhea"
+    ],
+    "disease": "Pneumonia"
+  },
+  {
+    "id": "Dxy_16",
+    "explicit_symptoms": [
+      [
+        "Vomiting",
+        "True"
+      ],
+      [
+        "Borborygmi",
+        "True"
+      ],
+      [
+        "fever",
+        "True"
+      ],
+      [
+        "Diarrhea",
+        "True"
+      ]
+    ],
+    "implicit_symptoms": [
+      [
+        "Anorexia",
+        "True"
+      ]
+    ],
+    "candidate_diseases": [
+      "Pneumonia",
+      "Allergic Rhinitis",
+      "Hand, Foot and Mouth Disease in Children",
+      "Upper Respiratory Tract Infection",
+      "Pediatric Diarrhea"
+    ],
+    "disease": "Pediatric Diarrhea"
+  },
+  {
+    "id": "Dxy_17",
+    "explicit_symptoms": [
+      [
+        "Cough",
+        "True"
+      ],
+      [
+        "Rhinorrhea",
+        "True"
+      ],
+      [
+        "blowing bubbles",
+        "True"
+      ],
+      [
+        "Sneezing",
+        "True"
+      ],
+      [
+        "difficulty breathing",
+        "True"
+      ]
+    ],
+    "implicit_symptoms": [
+      [
+        "Vomiting",
+        "True"
+      ],
+      [
+        "Nasal congestion",
+        "True"
+      ]
+    ],
+    "candidate_diseases": [
+      "Pneumonia",
+      "Allergic Rhinitis",
+      "Hand, Foot and Mouth Disease in Children",
+      "Upper Respiratory Tract Infection",
+      "Pediatric Diarrhea"
+    ],
+    "disease": "Pneumonia"
+  },
+  {
+    "id": "Dxy_18",
+    "explicit_symptoms": [
+      [
+        "Lethargy",
+        "True"
+      ],
+      [
+        "fever",
+        "True"
+      ],
+      [
+        "Anorexia",
+        "True"
+      ]
+    ],
+    "implicit_symptoms": [
+      [
+        "herpes",
+        "True"
+      ],
+      [
+        "Lymphadenopathy",
+        "True"
+      ],
+      [
+        "Rash",
+        "False"
+      ]
+    ],
+    "candidate_diseases": [
+      "Pneumonia",
+      "Allergic Rhinitis",
+      "Hand, Foot and Mouth Disease in Children",
+      "Upper Respiratory Tract Infection",
+      "Pediatric Diarrhea"
+    ],
+    "disease": "Hand, Foot and Mouth Disease in Children"
+  },
+  {
+    "id": "Dxy_19",
+    "explicit_symptoms": [
+      [
+        "Restlessness",
+        "True"
+      ],
+      [
+        "Vomiting",
+        "True"
+      ],
+      [
+        "Rhinorrhea",
+        "True"
+      ]
+    ],
+    "implicit_symptoms": [
+      [
+        "Nasal congestion",
+        "True"
+      ],
+      [
+        "fever",
+        "False"
+      ],
+      [
+        "Moist rales in the lungs",
+        "False"
+      ]
+    ],
+    "candidate_diseases": [
+      "Pneumonia",
+      "Allergic Rhinitis",
+      "Hand, Foot and Mouth Disease in Children",
+      "Upper Respiratory Tract Infection",
+      "Pediatric Diarrhea"
+    ],
+    "disease": "Upper Respiratory Tract Infection"
+  },
+  {
+    "id": "Dxy_20",
+    "explicit_symptoms": [
+      [
+        "Cough",
+        "True"
+      ],
+      [
+        "Coughing up phlegm",
+        "True"
+      ]
+    ],
+    "implicit_symptoms": [
+      [
+        "Moist rales in the lungs",
+        "True"
+      ],
+      [
+        "difficulty breathing",
+        "True"
+      ]
+    ],
+    "candidate_diseases": [
+      "Pneumonia",
+      "Allergic Rhinitis",
+      "Hand, Foot and Mouth Disease in Children",
+      "Upper Respiratory Tract Infection",
+      "Pediatric Diarrhea"
+    ],
+    "disease": "Pneumonia"
+  },
+  {
+    "id": "Dxy_21",
+    "explicit_symptoms": [
+      [
+        "Restlessness",
+        "True"
+      ],
+      [
+        "fever",
+        "True"
+      ],
+      [
+        "Drooling",
+        "True"
+      ],
+      [
+        "Diarrhea",
+        "True"
+      ]
+    ],
+    "implicit_symptoms": [
+      [
+        "Lethargy",
+        "True"
+      ],
+      [
+        "Rash",
+        "True"
+      ],
+      [
+        "Anorexia",
+        "True"
+      ]
+    ],
+    "candidate_diseases": [
+      "Pneumonia",
+      "Allergic Rhinitis",
+      "Hand, Foot and Mouth Disease in Children",
+      "Upper Respiratory Tract Infection",
+      "Pediatric Diarrhea"
+    ],
+    "disease": "Hand, Foot and Mouth Disease in Children"
+  },
+  {
+    "id": "Dxy_22",
+    "explicit_symptoms": [
+      [
+        "herpes",
+        "True"
+      ],
+      [
+        "fever",
+        "True"
+      ],
+      [
+        "Rash",
+        "True"
+      ]
+    ],
+    "implicit_symptoms": [
+      [
+        "Lethargy",
+        "False"
+      ],
+      [
+        "Anorexia",
+        "False"
+      ],
+      [
+        "Drooling",
+        "True"
+      ]
+    ],
+    "candidate_diseases": [
+      "Pneumonia",
+      "Allergic Rhinitis",
+      "Hand, Foot and Mouth Disease in Children",
+      "Upper Respiratory Tract Infection",
+      "Pediatric Diarrhea"
+    ],
+    "disease": "Hand, Foot and Mouth Disease in Children"
+  },
+  {
+    "id": "Dxy_23",
+    "explicit_symptoms": [
+      [
+        "Throat discomfort",
+        "True"
+      ],
+      [
+        "Cough",
+        "True"
+      ],
+      [
+        "Allergy",
+        "True"
+      ],
+      [
+        "Rhinorrhea",
+        "True"
+      ]
+    ],
+    "implicit_symptoms": [
+      [
+        "Rubbing Nose",
+        "True"
+      ]
+    ],
+    "candidate_diseases": [
+      "Pneumonia",
+      "Allergic Rhinitis",
+      "Hand, Foot and Mouth Disease in Children",
+      "Upper Respiratory Tract Infection",
+      "Pediatric Diarrhea"
+    ],
+    "disease": "Allergic Rhinitis"
+  },
+  {
+    "id": "Dxy_24",
+    "explicit_symptoms": [
+      [
+        "Throat discomfort",
+        "True"
+      ],
+      [
+        "Cough",
+        "True"
+      ],
+      [
+        "Vomiting",
+        "True"
+      ],
+      [
+        "fever",
+        "True"
+      ],
+      [
+        "Coughing up phlegm",
+        "True"
+      ]
+    ],
+    "implicit_symptoms": [
+      [
+        "Lethargy",
+        "False"
+      ],
+      [
+        "Pulmonary shadowing",
+        "True"
+      ]
+    ],
+    "candidate_diseases": [
+      "Pneumonia",
+      "Allergic Rhinitis",
+      "Hand, Foot and Mouth Disease in Children",
+      "Upper Respiratory Tract Infection",
+      "Pediatric Diarrhea"
+    ],
+    "disease": "Pneumonia"
+  },
+  {
+    "id": "Dxy_25",
+    "explicit_symptoms": [
+      [
+        "Diarrhea",
+        "True"
+      ],
+      [
+        "green stool",
+        "True"
+      ]
+    ],
+    "implicit_symptoms": [
+      [
+        "Egg Drop Stool",
+        "True"
+      ],
+      [
+        "Lethargy",
+        "False"
+      ],
+      [
+        "Vomiting",
+        "True"
+      ],
+      [
+        "fever",
+        "False"
+      ],
+      [
+        "Convulsion",
+        "True"
+      ]
+    ],
+    "candidate_diseases": [
+      "Pneumonia",
+      "Allergic Rhinitis",
+      "Hand, Foot and Mouth Disease in Children",
+      "Upper Respiratory Tract Infection",
+      "Pediatric Diarrhea"
+    ],
+    "disease": "Pediatric Diarrhea"
+  },
+  {
+    "id": "Dxy_26",
+    "explicit_symptoms": [
+      [
+        "Cough",
+        "True"
+      ],
+      [
+        "Vomiting",
+        "True"
+      ],
+      [
+        "Nasal congestion",
+        "True"
+      ],
+      [
+        "Sneezing",
+        "True"
+      ],
+      [
+        "Coughing up phlegm",
+        "True"
+      ]
+    ],
+    "implicit_symptoms": [
+      [
+        "difficulty breathing",
+        "True"
+      ]
+    ],
+    "candidate_diseases": [
+      "Pneumonia",
+      "Allergic Rhinitis",
+      "Hand, Foot and Mouth Disease in Children",
+      "Upper Respiratory Tract Infection",
+      "Pediatric Diarrhea"
+    ],
+    "disease": "Pneumonia"
+  },
+  {
+    "id": "Dxy_27",
+    "explicit_symptoms": [
+      [
+        "Cough",
+        "True"
+      ],
+      [
+        "Nasal congestion",
+        "True"
+      ],
+      [
+        "fever",
+        "True"
+      ]
+    ],
+    "implicit_symptoms": [
+      [
+        "Rhinorrhea",
+        "False"
+      ],
+      [
+        "difficulty breathing",
+        "True"
+      ]
+    ],
+    "candidate_diseases": [
+      "Pneumonia",
+      "Allergic Rhinitis",
+      "Hand, Foot and Mouth Disease in Children",
+      "Upper Respiratory Tract Infection",
+      "Pediatric Diarrhea"
+    ],
+    "disease": "Upper Respiratory Tract Infection"
+  },
+  {
+    "id": "Dxy_28",
+    "explicit_symptoms": [
+      [
+        "Diarrhea",
+        "True"
+      ],
+      [
+        "fever",
+        "True"
+      ],
+      [
+        "Rash",
+        "True"
+      ]
+    ],
+    "implicit_symptoms": [],
+    "candidate_diseases": [
+      "Pneumonia",
+      "Allergic Rhinitis",
+      "Hand, Foot and Mouth Disease in Children",
+      "Upper Respiratory Tract Infection",
+      "Pediatric Diarrhea"
+    ],
+    "disease": "Pediatric Diarrhea"
+  },
+  {
+    "id": "Dxy_29",
+    "explicit_symptoms": [
+      [
+        "Lethargy",
+        "True"
+      ],
+      [
+        "Vomiting",
+        "True"
+      ],
+      [
+        "Diarrhea",
+        "True"
+      ],
+      [
+        "Anorexia",
+        "True"
+      ]
+    ],
+    "implicit_symptoms": [],
+    "candidate_diseases": [
+      "Pneumonia",
+      "Allergic Rhinitis",
+      "Hand, Foot and Mouth Disease in Children",
+      "Upper Respiratory Tract Infection",
+      "Pediatric Diarrhea"
+    ],
+    "disease": "Pediatric Diarrhea"
+  },
+  {
+    "id": "Dxy_30",
+    "explicit_symptoms": [],
+    "implicit_symptoms": [],
+    "candidate_diseases": [
+      "Pneumonia",
+      "Allergic Rhinitis",
+      "Hand, Foot and Mouth Disease in Children",
+      "Upper Respiratory Tract Infection",
+      "Pediatric Diarrhea"
+    ],
+    "disease": "Upper Respiratory Tract Infection"
+  },
+  {
+    "id": "Dxy_31",
+    "explicit_symptoms": [
+      [
+        "Cough",
+        "True"
+      ],
+      [
+        "Sneezing",
+        "True"
+      ],
+      [
+        "Rhinorrhea",
+        "True"
+      ]
+    ],
+    "implicit_symptoms": [
+      [
+        "Vomiting",
+        "True"
+      ],
+      [
+        "fever",
+        "False"
+      ],
+      [
+        "Coughing up phlegm",
+        "True"
+      ]
+    ],
+    "candidate_diseases": [
+      "Pneumonia",
+      "Allergic Rhinitis",
+      "Hand, Foot and Mouth Disease in Children",
+      "Upper Respiratory Tract Infection",
+      "Pediatric Diarrhea"
+    ],
+    "disease": "Upper Respiratory Tract Infection"
+  },
+  {
+    "id": "Dxy_32",
+    "explicit_symptoms": [
+      [
+        "Cough",
+        "True"
+      ],
+      [
+        "Rhinorrhea",
+        "True"
+      ],
+      [
+        "fever",
+        "True"
+      ],
+      [
+        "Sneezing",
+        "True"
+      ]
+    ],
+    "implicit_symptoms": [],
+    "candidate_diseases": [
+      "Pneumonia",
+      "Allergic Rhinitis",
+      "Hand, Foot and Mouth Disease in Children",
+      "Upper Respiratory Tract Infection",
+      "Pediatric Diarrhea"
+    ],
+    "disease": "Upper Respiratory Tract Infection"
+  },
+  {
+    "id": "Dxy_33",
+    "explicit_symptoms": [
+      [
+        "Sneezing",
+        "True"
+      ],
+      [
+        "Diarrhea",
+        "True"
+      ],
+      [
+        "Rhinorrhea",
+        "True"
+      ]
+    ],
+    "implicit_symptoms": [
+      [
+        "Cough",
+        "True"
+      ],
+      [
+        "Vomiting",
+        "True"
+      ],
+      [
+        "Restlessness",
+        "True"
+      ]
+    ],
+    "candidate_diseases": [
+      "Pneumonia",
+      "Allergic Rhinitis",
+      "Hand, Foot and Mouth Disease in Children",
+      "Upper Respiratory Tract Infection",
+      "Pediatric Diarrhea"
+    ],
+    "disease": "Pediatric Diarrhea"
+  },
+  {
+    "id": "Dxy_34",
+    "explicit_symptoms": [
+      [
+        "Cough",
+        "True"
+      ],
+      [
+        "Coughing up phlegm",
+        "True"
+      ],
+      [
+        "Rhinorrhea",
+        "True"
+      ]
+    ],
+    "implicit_symptoms": [
+      [
+        "Lethargy",
+        "False"
+      ],
+      [
+        "Nasal congestion",
+        "True"
+      ],
+      [
+        "fever",
+        "False"
+      ],
+      [
+        "Anorexia",
+        "False"
+      ]
+    ],
+    "candidate_diseases": [
+      "Pneumonia",
+      "Allergic Rhinitis",
+      "Hand, Foot and Mouth Disease in Children",
+      "Upper Respiratory Tract Infection",
+      "Pediatric Diarrhea"
+    ],
+    "disease": "Allergic Rhinitis"
+  },
+  {
+    "id": "Dxy_35",
+    "explicit_symptoms": [
+      [
+        "Cough",
+        "True"
+      ],
+      [
+        "fever",
+        "True"
+      ],
+      [
+        "Coughing up phlegm",
+        "True"
+      ]
+    ],
+    "implicit_symptoms": [
+      [
+        "Restlessness",
+        "True"
+      ],
+      [
+        "Nasal congestion",
+        "True"
+      ],
+      [
+        "Moist rales in the lungs",
+        "True"
+      ],
+      [
+        "Vomiting",
+        "True"
+      ],
+      [
+        "Diarrhea",
+        "True"
+      ],
+      [
+        "Sneezing",
+        "True"
+      ]
+    ],
+    "candidate_diseases": [
+      "Pneumonia",
+      "Allergic Rhinitis",
+      "Hand, Foot and Mouth Disease in Children",
+      "Upper Respiratory Tract Infection",
+      "Pediatric Diarrhea"
+    ],
+    "disease": "Pneumonia"
+  },
+  {
+    "id": "Dxy_36",
+    "explicit_symptoms": [
+      [
+        "Cough",
+        "True"
+      ]
+    ],
+    "implicit_symptoms": [
+      [
+        "Vomiting",
+        "True"
+      ]
+    ],
+    "candidate_diseases": [
+      "Pneumonia",
+      "Allergic Rhinitis",
+      "Hand, Foot and Mouth Disease in Children",
+      "Upper Respiratory Tract Infection",
+      "Pediatric Diarrhea"
+    ],
+    "disease": "Upper Respiratory Tract Infection"
+  },
+  {
+    "id": "Dxy_37",
+    "explicit_symptoms": [
+      [
+        "Nasal congestion",
+        "True"
+      ],
+      [
+        "fever",
+        "True"
+      ],
+      [
+        "Rhinorrhea",
+        "True"
+      ],
+      [
+        "Cough",
+        "True"
+      ],
+      [
+        "Sneezing",
+        "True"
+      ],
+      [
+        "Coughing up phlegm",
+        "True"
+      ]
+    ],
+    "implicit_symptoms": [
+      [
+        "Restlessness",
+        "True"
+      ],
+      [
+        "difficulty breathing",
+        "True"
+      ]
+    ],
+    "candidate_diseases": [
+      "Pneumonia",
+      "Allergic Rhinitis",
+      "Hand, Foot and Mouth Disease in Children",
+      "Upper Respiratory Tract Infection",
+      "Pediatric Diarrhea"
+    ],
+    "disease": "Pneumonia"
+  },
+  {
+    "id": "Dxy_38",
+    "explicit_symptoms": [
+      [
+        "Throat discomfort",
+        "True"
+      ],
+      [
+        "Cough",
+        "True"
+      ]
+    ],
+    "implicit_symptoms": [
+      [
+        "Rhinorrhea",
+        "True"
+      ],
+      [
+        "Vomiting",
+        "False"
+      ],
+      [
+        "Nasal congestion",
+        "True"
+      ],
+      [
+        "Coughing up phlegm",
+        "True"
+      ],
+      [
+        "Rubbing Nose",
+        "True"
+      ]
+    ],
+    "candidate_diseases": [
+      "Pneumonia",
+      "Allergic Rhinitis",
+      "Hand, Foot and Mouth Disease in Children",
+      "Upper Respiratory Tract Infection",
+      "Pediatric Diarrhea"
+    ],
+    "disease": "Allergic Rhinitis"
+  },
+  {
+    "id": "Dxy_39",
+    "explicit_symptoms": [
+      [
+        "green stool",
+        "True"
+      ],
+      [
+        "Borborygmi",
+        "True"
+      ],
+      [
+        "Diarrhea",
+        "True"
+      ],
+      [
+        "Anorexia",
+        "True"
+      ],
+      [
+        "passing gas",
+        "True"
+      ]
+    ],
+    "implicit_symptoms": [
+      [
+        "Restlessness",
+        "True"
+      ],
+      [
+        "Abdominal distension",
+        "True"
+      ]
+    ],
+    "candidate_diseases": [
+      "Pneumonia",
+      "Allergic Rhinitis",
+      "Hand, Foot and Mouth Disease in Children",
+      "Upper Respiratory Tract Infection",
+      "Pediatric Diarrhea"
+    ],
+    "disease": "Pediatric Diarrhea"
+  },
+  {
+    "id": "Dxy_40",
+    "explicit_symptoms": [
+      [
+        "Cough",
+        "True"
+      ],
+      [
+        "Vomiting",
+        "True"
+      ],
+      [
+        "Nasal congestion",
+        "True"
+      ],
+      [
+        "Restlessness",
+        "True"
+      ],
+      [
+        "Rhinorrhea",
+        "True"
+      ]
+    ],
+    "implicit_symptoms": [
+      [
+        "Lethargy",
+        "False"
+      ],
+      [
+        "Drooling",
+        "True"
+      ],
+      [
+        "difficulty breathing",
+        "True"
+      ]
+    ],
+    "candidate_diseases": [
+      "Pneumonia",
+      "Allergic Rhinitis",
+      "Hand, Foot and Mouth Disease in Children",
+      "Upper Respiratory Tract Infection",
+      "Pediatric Diarrhea"
+    ],
+    "disease": "Pneumonia"
+  },
+  {
+    "id": "Dxy_41",
+    "explicit_symptoms": [
+      [
+        "Cough",
+        "True"
+      ],
+      [
+        "Nasal congestion",
+        "True"
+      ],
+      [
+        "fever",
+        "True"
+      ]
+    ],
+    "implicit_symptoms": [
+      [
+        "Rhinorrhea",
+        "True"
+      ]
+    ],
+    "candidate_diseases": [
+      "Pneumonia",
+      "Allergic Rhinitis",
+      "Hand, Foot and Mouth Disease in Children",
+      "Upper Respiratory Tract Infection",
+      "Pediatric Diarrhea"
+    ],
+    "disease": "Upper Respiratory Tract Infection"
+  },
+  {
+    "id": "Dxy_42",
+    "explicit_symptoms": [
+      [
+        "Cough",
+        "True"
+      ],
+      [
+        "Sneezing",
+        "True"
+      ],
+      [
+        "Coughing up phlegm",
+        "True"
+      ],
+      [
+        "Rhinorrhea",
+        "True"
+      ]
+    ],
+    "implicit_symptoms": [
+      [
+        "Lethargy",
+        "True"
+      ],
+      [
+        "fever",
+        "True"
+      ]
+    ],
+    "candidate_diseases": [
+      "Pneumonia",
+      "Allergic Rhinitis",
+      "Hand, Foot and Mouth Disease in Children",
+      "Upper Respiratory Tract Infection",
+      "Pediatric Diarrhea"
+    ],
+    "disease": "Pneumonia"
+  },
+  {
+    "id": "Dxy_43",
+    "explicit_symptoms": [
+      [
+        "herpes",
+        "True"
+      ],
+      [
+        "Throat discomfort",
+        "True"
+      ],
+      [
+        "fever",
+        "True"
+      ],
+      [
+        "Rash",
+        "True"
+      ]
+    ],
+    "implicit_symptoms": [
+      [
+        "Sneezing",
+        "True"
+      ],
+      [
+        "Rhinorrhea",
+        "True"
+      ]
+    ],
+    "candidate_diseases": [
+      "Pneumonia",
+      "Allergic Rhinitis",
+      "Hand, Foot and Mouth Disease in Children",
+      "Upper Respiratory Tract Infection",
+      "Pediatric Diarrhea"
+    ],
+    "disease": "Hand, Foot and Mouth Disease in Children"
+  },
+  {
+    "id": "Dxy_44",
+    "explicit_symptoms": [
+      [
+        "Cough",
+        "True"
+      ],
+      [
+        "fever",
+        "True"
+      ],
+      [
+        "Rhinorrhea",
+        "True"
+      ]
+    ],
+    "implicit_symptoms": [],
+    "candidate_diseases": [
+      "Pneumonia",
+      "Allergic Rhinitis",
+      "Hand, Foot and Mouth Disease in Children",
+      "Upper Respiratory Tract Infection",
+      "Pediatric Diarrhea"
+    ],
+    "disease": "Pneumonia"
+  },
+  {
+    "id": "Dxy_45",
+    "explicit_symptoms": [
+      [
+        "Cough",
+        "True"
+      ],
+      [
+        "Nasal congestion",
+        "True"
+      ]
+    ],
+    "implicit_symptoms": [
+      [
+        "Lethargy",
+        "False"
+      ],
+      [
+        "Allergy",
+        "True"
+      ],
+      [
+        "Rash",
+        "False"
+      ]
+    ],
+    "candidate_diseases": [
+      "Pneumonia",
+      "Allergic Rhinitis",
+      "Hand, Foot and Mouth Disease in Children",
+      "Upper Respiratory Tract Infection",
+      "Pediatric Diarrhea"
+    ],
+    "disease": "Allergic Rhinitis"
+  },
+  {
+    "id": "Dxy_46",
+    "explicit_symptoms": [
+      [
+        "Lethargy",
+        "True"
+      ],
+      [
+        "Vomiting",
+        "True"
+      ],
+      [
+        "fever",
+        "True"
+      ]
+    ],
+    "implicit_symptoms": [],
+    "candidate_diseases": [
+      "Pneumonia",
+      "Allergic Rhinitis",
+      "Hand, Foot and Mouth Disease in Children",
+      "Upper Respiratory Tract Infection",
+      "Pediatric Diarrhea"
+    ],
+    "disease": "Pediatric Diarrhea"
+  },
+  {
+    "id": "Dxy_47",
+    "explicit_symptoms": [
+      [
+        "Cough",
+        "True"
+      ]
+    ],
+    "implicit_symptoms": [
+      [
+        "Nasal congestion",
+        "True"
+      ],
+      [
+        "difficulty breathing",
+        "True"
+      ]
+    ],
+    "candidate_diseases": [
+      "Pneumonia",
+      "Allergic Rhinitis",
+      "Hand, Foot and Mouth Disease in Children",
+      "Upper Respiratory Tract Infection",
+      "Pediatric Diarrhea"
+    ],
+    "disease": "Allergic Rhinitis"
+  },
+  {
+    "id": "Dxy_48",
+    "explicit_symptoms": [
+      [
+        "herpes",
+        "True"
+      ],
+      [
+        "fever",
+        "True"
+      ],
+      [
+        "Rash",
+        "True"
+      ]
+    ],
+    "implicit_symptoms": [
+      [
+        "Anorexia",
+        "True"
+      ]
+    ],
+    "candidate_diseases": [
+      "Pneumonia",
+      "Allergic Rhinitis",
+      "Hand, Foot and Mouth Disease in Children",
+      "Upper Respiratory Tract Infection",
+      "Pediatric Diarrhea"
+    ],
+    "disease": "Hand, Foot and Mouth Disease in Children"
+  },
+  {
+    "id": "Dxy_49",
+    "explicit_symptoms": [
+      [
+        "Rash",
+        "True"
+      ],
+      [
+        "Anorexia",
+        "True"
+      ]
+    ],
+    "implicit_symptoms": [
+      [
+        "Lethargy",
+        "False"
+      ],
+      [
+        "Drooling",
+        "True"
+      ]
+    ],
+    "candidate_diseases": [
+      "Pneumonia",
+      "Allergic Rhinitis",
+      "Hand, Foot and Mouth Disease in Children",
+      "Upper Respiratory Tract Infection",
+      "Pediatric Diarrhea"
+    ],
+    "disease": "Hand, Foot and Mouth Disease in Children"
+  },
+  {
+    "id": "Dxy_50",
+    "explicit_symptoms": [
+      [
+        "Cough",
+        "True"
+      ],
+      [
+        "Restlessness",
+        "True"
+      ],
+      [
+        "Rhinorrhea",
+        "True"
+      ]
+    ],
+    "implicit_symptoms": [
+      [
+        "Anorexia",
+        "True"
+      ],
+      [
+        "difficulty breathing",
+        "True"
+      ]
+    ],
+    "candidate_diseases": [
+      "Pneumonia",
+      "Allergic Rhinitis",
+      "Hand, Foot and Mouth Disease in Children",
+      "Upper Respiratory Tract Infection",
+      "Pediatric Diarrhea"
+    ],
+    "disease": "Pneumonia"
+  },
+  {
+    "id": "Dxy_51",
+    "explicit_symptoms": [
+      [
+        "Cough",
+        "True"
+      ],
+      [
+        "fever",
+        "True"
+      ]
+    ],
+    "implicit_symptoms": [
+      [
+        "rubbing eyes",
+        "True"
+      ]
+    ],
+    "candidate_diseases": [
+      "Pneumonia",
+      "Allergic Rhinitis",
+      "Hand, Foot and Mouth Disease in Children",
+      "Upper Respiratory Tract Infection",
+      "Pediatric Diarrhea"
+    ],
+    "disease": "Upper Respiratory Tract Infection"
+  },
+  {
+    "id": "Dxy_52",
+    "explicit_symptoms": [
+      [
+        "herpes",
+        "True"
+      ],
+      [
+        "Rash",
+        "True"
+      ]
+    ],
+    "implicit_symptoms": [
+      [
+        "fever",
+        "True"
+      ]
+    ],
+    "candidate_diseases": [
+      "Pneumonia",
+      "Allergic Rhinitis",
+      "Hand, Foot and Mouth Disease in Children",
+      "Upper Respiratory Tract Infection",
+      "Pediatric Diarrhea"
+    ],
+    "disease": "Hand, Foot and Mouth Disease in Children"
+  },
+  {
+    "id": "Dxy_53",
+    "explicit_symptoms": [
+      [
+        "Vomiting",
+        "True"
+      ],
+      [
+        "fever",
+        "True"
+      ],
+      [
+        "Coughing up phlegm",
+        "True"
+      ],
+      [
+        "Rhinorrhea",
+        "True"
+      ]
+    ],
+    "implicit_symptoms": [
+      [
+        "difficulty breathing",
+        "True"
+      ]
+    ],
+    "candidate_diseases": [
+      "Pneumonia",
+      "Allergic Rhinitis",
+      "Hand, Foot and Mouth Disease in Children",
+      "Upper Respiratory Tract Infection",
+      "Pediatric Diarrhea"
+    ],
+    "disease": "Upper Respiratory Tract Infection"
+  },
+  {
+    "id": "Dxy_54",
+    "explicit_symptoms": [
+      [
+        "Cough",
+        "True"
+      ],
+      [
+        "Nasal congestion",
+        "True"
+      ],
+      [
+        "Allergy",
+        "True"
+      ],
+      [
+        "Rhinorrhea",
+        "True"
+      ]
+    ],
+    "implicit_symptoms": [
+      [
+        "Sneezing",
+        "True"
+      ]
+    ],
+    "candidate_diseases": [
+      "Pneumonia",
+      "Allergic Rhinitis",
+      "Hand, Foot and Mouth Disease in Children",
+      "Upper Respiratory Tract Infection",
+      "Pediatric Diarrhea"
+    ],
+    "disease": "Allergic Rhinitis"
+  },
+  {
+    "id": "Dxy_55",
+    "explicit_symptoms": [
+      [
+        "Cough",
+        "True"
+      ],
+      [
+        "Moist rales in the lungs",
+        "True"
+      ],
+      [
+        "Rhinorrhea",
+        "True"
+      ]
+    ],
+    "implicit_symptoms": [
+      [
+        "fever",
+        "True"
+      ]
+    ],
+    "candidate_diseases": [
+      "Pneumonia",
+      "Allergic Rhinitis",
+      "Hand, Foot and Mouth Disease in Children",
+      "Upper Respiratory Tract Infection",
+      "Pediatric Diarrhea"
+    ],
+    "disease": "Pneumonia"
+  },
+  {
+    "id": "Dxy_56",
+    "explicit_symptoms": [
+      [
+        "herpes",
+        "True"
+      ],
+      [
+        "Restlessness",
+        "True"
+      ],
+      [
+        "Rash",
+        "True"
+      ],
+      [
+        "Rhinorrhea",
+        "True"
+      ],
+      [
+        "Drooling",
+        "True"
+      ],
+      [
+        "fever",
+        "True"
+      ]
+    ],
+    "implicit_symptoms": [
+      [
+        "Nosebleed",
+        "True"
+      ],
+      [
+        "difficulty breathing",
+        "True"
+      ]
+    ],
+    "candidate_diseases": [
+      "Pneumonia",
+      "Allergic Rhinitis",
+      "Hand, Foot and Mouth Disease in Children",
+      "Upper Respiratory Tract Infection",
+      "Pediatric Diarrhea"
+    ],
+    "disease": "Hand, Foot and Mouth Disease in Children"
+  },
+  {
+    "id": "Dxy_57",
+    "explicit_symptoms": [
+      [
+        "fever",
+        "True"
+      ]
+    ],
+    "implicit_symptoms": [
+      [
+        "Cough",
+        "True"
+      ],
+      [
+        "Coughing up phlegm",
+        "True"
+      ],
+      [
+        "Pulmonary shadowing",
+        "True"
+      ],
+      [
+        "Anorexia",
+        "False"
+      ]
+    ],
+    "candidate_diseases": [
+      "Pneumonia",
+      "Allergic Rhinitis",
+      "Hand, Foot and Mouth Disease in Children",
+      "Upper Respiratory Tract Infection",
+      "Pediatric Diarrhea"
+    ],
+    "disease": "Pneumonia"
+  },
+  {
+    "id": "Dxy_58",
+    "explicit_symptoms": [
+      [
+        "Sneezing",
+        "True"
+      ],
+      [
+        "Rubbing Nose",
+        "True"
+      ]
+    ],
+    "implicit_symptoms": [
+      [
+        "Allergy",
+        "True"
+      ],
+      [
+        "Rash",
+        "True"
+      ]
+    ],
+    "candidate_diseases": [
+      "Pneumonia",
+      "Allergic Rhinitis",
+      "Hand, Foot and Mouth Disease in Children",
+      "Upper Respiratory Tract Infection",
+      "Pediatric Diarrhea"
+    ],
+    "disease": "Allergic Rhinitis"
+  },
+  {
+    "id": "Dxy_59",
+    "explicit_symptoms": [
+      [
+        "Nasal congestion",
+        "True"
+      ],
+      [
+        "Rhinorrhea",
+        "True"
+      ]
+    ],
+    "implicit_symptoms": [
+      [
+        "rubbing eyes",
+        "True"
+      ],
+      [
+        "Cough",
+        "True"
+      ],
+      [
+        "difficulty breathing",
+        "True"
+      ]
+    ],
+    "candidate_diseases": [
+      "Pneumonia",
+      "Allergic Rhinitis",
+      "Hand, Foot and Mouth Disease in Children",
+      "Upper Respiratory Tract Infection",
+      "Pediatric Diarrhea"
+    ],
+    "disease": "Allergic Rhinitis"
+  },
+  {
+    "id": "Dxy_60",
+    "explicit_symptoms": [
+      [
+        "rubbing eyes",
+        "True"
+      ],
+      [
+        "Rhinorrhea",
+        "True"
+      ],
+      [
+        "Throat discomfort",
+        "True"
+      ]
+    ],
+    "implicit_symptoms": [
+      [
+        "Allergy",
+        "True"
+      ]
+    ],
+    "candidate_diseases": [
+      "Pneumonia",
+      "Allergic Rhinitis",
+      "Hand, Foot and Mouth Disease in Children",
+      "Upper Respiratory Tract Infection",
+      "Pediatric Diarrhea"
+    ],
+    "disease": "Allergic Rhinitis"
+  },
+  {
+    "id": "Dxy_61",
+    "explicit_symptoms": [
+      [
+        "Weight loss",
+        "True"
+      ],
+      [
+        "Diarrhea",
+        "True"
+      ]
+    ],
+    "implicit_symptoms": [],
+    "candidate_diseases": [
+      "Pneumonia",
+      "Allergic Rhinitis",
+      "Hand, Foot and Mouth Disease in Children",
+      "Upper Respiratory Tract Infection",
+      "Pediatric Diarrhea"
+    ],
+    "disease": "Pediatric Diarrhea"
+  },
+  {
+    "id": "Dxy_62",
+    "explicit_symptoms": [
+      [
+        "Vomiting",
+        "True"
+      ],
+      [
+        "fever",
+        "True"
+      ],
+      [
+        "Diarrhea",
+        "True"
+      ]
+    ],
+    "implicit_symptoms": [
+      [
+        "Lethargy",
+        "True"
+      ]
+    ],
+    "candidate_diseases": [
+      "Pneumonia",
+      "Allergic Rhinitis",
+      "Hand, Foot and Mouth Disease in Children",
+      "Upper Respiratory Tract Infection",
+      "Pediatric Diarrhea"
+    ],
+    "disease": "Pediatric Diarrhea"
+  },
+  {
+    "id": "Dxy_63",
+    "explicit_symptoms": [
+      [
+        "Cough",
+        "True"
+      ],
+      [
+        "Coughing up phlegm",
+        "True"
+      ]
+    ],
+    "implicit_symptoms": [
+      [
+        "Allergy",
+        "True"
+      ],
+      [
+        "Rhinorrhea",
+        "True"
+      ]
+    ],
+    "candidate_diseases": [
+      "Pneumonia",
+      "Allergic Rhinitis",
+      "Hand, Foot and Mouth Disease in Children",
+      "Upper Respiratory Tract Infection",
+      "Pediatric Diarrhea"
+    ],
+    "disease": "Allergic Rhinitis"
+  },
+  {
+    "id": "Dxy_64",
+    "explicit_symptoms": [
+      [
+        "Cough",
+        "True"
+      ],
+      [
+        "Coughing up phlegm",
+        "True"
+      ]
+    ],
+    "implicit_symptoms": [],
+    "candidate_diseases": [
+      "Pneumonia",
+      "Allergic Rhinitis",
+      "Hand, Foot and Mouth Disease in Children",
+      "Upper Respiratory Tract Infection",
+      "Pediatric Diarrhea"
+    ],
+    "disease": "Upper Respiratory Tract Infection"
+  },
+  {
+    "id": "Dxy_65",
+    "explicit_symptoms": [
+      [
+        "Cough",
+        "True"
+      ],
+      [
+        "Coughing up phlegm",
+        "True"
+      ]
+    ],
+    "implicit_symptoms": [
+      [
+        "Throat discomfort",
+        "True"
+      ],
+      [
+        "Nasal congestion",
+        "True"
+      ]
+    ],
+    "candidate_diseases": [
+      "Pneumonia",
+      "Allergic Rhinitis",
+      "Hand, Foot and Mouth Disease in Children",
+      "Upper Respiratory Tract Infection",
+      "Pediatric Diarrhea"
+    ],
+    "disease": "Pneumonia"
+  },
+  {
+    "id": "Dxy_66",
+    "explicit_symptoms": [
+      [
+        "rubbing eyes",
+        "True"
+      ],
+      [
+        "fever",
+        "True"
+      ],
+      [
+        "Diarrhea",
+        "True"
+      ]
+    ],
+    "implicit_symptoms": [],
+    "candidate_diseases": [
+      "Pneumonia",
+      "Allergic Rhinitis",
+      "Hand, Foot and Mouth Disease in Children",
+      "Upper Respiratory Tract Infection",
+      "Pediatric Diarrhea"
+    ],
+    "disease": "Pediatric Diarrhea"
+  },
+  {
+    "id": "Dxy_67",
+    "explicit_symptoms": [
+      [
+        "herpes",
+        "True"
+      ],
+      [
+        "fever",
+        "True"
+      ]
+    ],
+    "implicit_symptoms": [
+      [
+        "Rash",
+        "True"
+      ]
+    ],
+    "candidate_diseases": [
+      "Pneumonia",
+      "Allergic Rhinitis",
+      "Hand, Foot and Mouth Disease in Children",
+      "Upper Respiratory Tract Infection",
+      "Pediatric Diarrhea"
+    ],
+    "disease": "Hand, Foot and Mouth Disease in Children"
+  },
+  {
+    "id": "Dxy_68",
+    "explicit_symptoms": [
+      [
+        "Restlessness",
+        "True"
+      ],
+      [
+        "Nasal congestion",
+        "True"
+      ],
+      [
+        "Coughing up phlegm",
+        "True"
+      ]
+    ],
+    "implicit_symptoms": [
+      [
+        "Lethargy",
+        "False"
+      ],
+      [
+        "Vomiting",
+        "True"
+      ],
+      [
+        "blowing bubbles",
+        "True"
+      ],
+      [
+        "Anorexia",
+        "True"
+      ]
+    ],
+    "candidate_diseases": [
+      "Pneumonia",
+      "Allergic Rhinitis",
+      "Hand, Foot and Mouth Disease in Children",
+      "Upper Respiratory Tract Infection",
+      "Pediatric Diarrhea"
+    ],
+    "disease": "Pneumonia"
+  },
+  {
+    "id": "Dxy_69",
+    "explicit_symptoms": [
+      [
+        "Cough",
+        "True"
+      ],
+      [
+        "Restlessness",
+        "True"
+      ],
+      [
+        "Anorexia",
+        "True"
+      ],
+      [
+        "Rhinorrhea",
+        "True"
+      ]
+    ],
+    "implicit_symptoms": [
+      [
+        "fever",
+        "True"
+      ]
+    ],
+    "candidate_diseases": [
+      "Pneumonia",
+      "Allergic Rhinitis",
+      "Hand, Foot and Mouth Disease in Children",
+      "Upper Respiratory Tract Infection",
+      "Pediatric Diarrhea"
+    ],
+    "disease": "Upper Respiratory Tract Infection"
+  },
+  {
+    "id": "Dxy_70",
+    "explicit_symptoms": [
+      [
+        "herpes",
+        "True"
+      ],
+      [
+        "Abdominal pain",
+        "True"
+      ],
+      [
+        "fever",
+        "True"
+      ],
+      [
+        "Drooling",
+        "True"
+      ],
+      [
+        "Rash",
+        "True"
+      ]
+    ],
+    "implicit_symptoms": [],
+    "candidate_diseases": [
+      "Pneumonia",
+      "Allergic Rhinitis",
+      "Hand, Foot and Mouth Disease in Children",
+      "Upper Respiratory Tract Infection",
+      "Pediatric Diarrhea"
+    ],
+    "disease": "Hand, Foot and Mouth Disease in Children"
+  },
+  {
+    "id": "Dxy_71",
+    "explicit_symptoms": [
+      [
+        "Cough",
+        "True"
+      ],
+      [
+        "Vomiting",
+        "True"
+      ],
+      [
+        "fever",
+        "True"
+      ],
+      [
+        "Rhinorrhea",
+        "True"
+      ]
+    ],
+    "implicit_symptoms": [
+      [
+        "Throat discomfort",
+        "True"
+      ],
+      [
+        "Diarrhea",
+        "True"
+      ]
+    ],
+    "candidate_diseases": [
+      "Pneumonia",
+      "Allergic Rhinitis",
+      "Hand, Foot and Mouth Disease in Children",
+      "Upper Respiratory Tract Infection",
+      "Pediatric Diarrhea"
+    ],
+    "disease": "Hand, Foot and Mouth Disease in Children"
+  },
+  {
+    "id": "Dxy_72",
+    "explicit_symptoms": [
+      [
+        "Lethargy",
+        "True"
+      ],
+      [
+        "Vomiting",
+        "True"
+      ],
+      [
+        "Nausea",
+        "True"
+      ],
+      [
+        "Anorexia",
+        "True"
+      ]
+    ],
+    "implicit_symptoms": [
+      [
+        "Diarrhea",
+        "True"
+      ]
+    ],
+    "candidate_diseases": [
+      "Pneumonia",
+      "Allergic Rhinitis",
+      "Hand, Foot and Mouth Disease in Children",
+      "Upper Respiratory Tract Infection",
+      "Pediatric Diarrhea"
+    ],
+    "disease": "Pediatric Diarrhea"
+  },
+  {
+    "id": "Dxy_73",
+    "explicit_symptoms": [
+      [
+        "Nasal congestion",
+        "True"
+      ]
+    ],
+    "implicit_symptoms": [
+      [
+        "Lethargy",
+        "False"
+      ],
+      [
+        "Rash",
+        "True"
+      ]
+    ],
+    "candidate_diseases": [
+      "Pneumonia",
+      "Allergic Rhinitis",
+      "Hand, Foot and Mouth Disease in Children",
+      "Upper Respiratory Tract Infection",
+      "Pediatric Diarrhea"
+    ],
+    "disease": "Allergic Rhinitis"
+  },
+  {
+    "id": "Dxy_74",
+    "explicit_symptoms": [
+      [
+        "Cough",
+        "True"
+      ],
+      [
+        "Rhinorrhea",
+        "True"
+      ]
+    ],
+    "implicit_symptoms": [
+      [
+        "Rubbing Nose",
+        "True"
+      ]
+    ],
+    "candidate_diseases": [
+      "Pneumonia",
+      "Allergic Rhinitis",
+      "Hand, Foot and Mouth Disease in Children",
+      "Upper Respiratory Tract Infection",
+      "Pediatric Diarrhea"
+    ],
+    "disease": "Allergic Rhinitis"
+  },
+  {
+    "id": "Dxy_75",
+    "explicit_symptoms": [
+      [
+        "Cough",
+        "True"
+      ],
+      [
+        "Coughing up phlegm",
+        "True"
+      ]
+    ],
+    "implicit_symptoms": [
+      [
+        "blowing bubbles",
+        "True"
+      ],
+      [
+        "fever",
+        "False"
+      ],
+      [
+        "Rhinorrhea",
+        "False"
+      ]
+    ],
+    "candidate_diseases": [
+      "Pneumonia",
+      "Allergic Rhinitis",
+      "Hand, Foot and Mouth Disease in Children",
+      "Upper Respiratory Tract Infection",
+      "Pediatric Diarrhea"
+    ],
+    "disease": "Upper Respiratory Tract Infection"
+  },
+  {
+    "id": "Dxy_76",
+    "explicit_symptoms": [
+      [
+        "fever",
+        "True"
+      ],
+      [
+        "Rhinorrhea",
+        "True"
+      ]
+    ],
+    "implicit_symptoms": [
+      [
+        "Throat discomfort",
+        "True"
+      ],
+      [
+        "Rash",
+        "True"
+      ],
+      [
+        "Cough",
+        "False"
+      ],
+      [
+        "Vomiting",
+        "False"
+      ],
+      [
+        "Diarrhea",
+        "True"
+      ],
+      [
+        "Anorexia",
+        "True"
+      ]
+    ],
+    "candidate_diseases": [
+      "Pneumonia",
+      "Allergic Rhinitis",
+      "Hand, Foot and Mouth Disease in Children",
+      "Upper Respiratory Tract Infection",
+      "Pediatric Diarrhea"
+    ],
+    "disease": "Hand, Foot and Mouth Disease in Children"
+  },
+  {
+    "id": "Dxy_77",
+    "explicit_symptoms": [
+      [
+        "Cough",
+        "True"
+      ]
+    ],
+    "implicit_symptoms": [
+      [
+        "Nasal congestion",
+        "False"
+      ],
+      [
+        "Rubbing Nose",
+        "True"
+      ]
+    ],
+    "candidate_diseases": [
+      "Pneumonia",
+      "Allergic Rhinitis",
+      "Hand, Foot and Mouth Disease in Children",
+      "Upper Respiratory Tract Infection",
+      "Pediatric Diarrhea"
+    ],
+    "disease": "Allergic Rhinitis"
+  },
+  {
+    "id": "Dxy_78",
+    "explicit_symptoms": [
+      [
+        "Cough",
+        "True"
+      ],
+      [
+        "Rhinorrhea",
+        "True"
+      ]
+    ],
+    "implicit_symptoms": [
+      [
+        "Night sweats",
+        "True"
+      ],
+      [
+        "Anorexia",
+        "False"
+      ]
+    ],
+    "candidate_diseases": [
+      "Pneumonia",
+      "Allergic Rhinitis",
+      "Hand, Foot and Mouth Disease in Children",
+      "Upper Respiratory Tract Infection",
+      "Pediatric Diarrhea"
+    ],
+    "disease": "Upper Respiratory Tract Infection"
+  },
+  {
+    "id": "Dxy_79",
+    "explicit_symptoms": [
+      [
+        "herpes",
+        "True"
+      ],
+      [
+        "Rash",
+        "True"
+      ]
+    ],
+    "implicit_symptoms": [
+      [
+        "Lethargy",
+        "False"
+      ],
+      [
+        "Vomiting",
+        "False"
+      ],
+      [
+        "fever",
+        "False"
+      ]
+    ],
+    "candidate_diseases": [
+      "Pneumonia",
+      "Allergic Rhinitis",
+      "Hand, Foot and Mouth Disease in Children",
+      "Upper Respiratory Tract Infection",
+      "Pediatric Diarrhea"
+    ],
+    "disease": "Hand, Foot and Mouth Disease in Children"
+  },
+  {
+    "id": "Dxy_80",
+    "explicit_symptoms": [
+      [
+        "Diarrhea",
+        "True"
+      ],
+      [
+        "Night sweats",
+        "True"
+      ]
+    ],
+    "implicit_symptoms": [
+      [
+        "Lethargy",
+        "True"
+      ],
+      [
+        "Restlessness",
+        "True"
+      ],
+      [
+        "fever",
+        "False"
+      ]
+    ],
+    "candidate_diseases": [
+      "Pneumonia",
+      "Allergic Rhinitis",
+      "Hand, Foot and Mouth Disease in Children",
+      "Upper Respiratory Tract Infection",
+      "Pediatric Diarrhea"
+    ],
+    "disease": "Pediatric Diarrhea"
+  },
+  {
+    "id": "Dxy_81",
+    "explicit_symptoms": [
+      [
+        "Cough",
+        "True"
+      ],
+      [
+        "fever",
+        "True"
+      ]
+    ],
+    "implicit_symptoms": [
+      [
+        "Throat discomfort",
+        "True"
+      ],
+      [
+        "difficulty breathing",
+        "True"
+      ]
+    ],
+    "candidate_diseases": [
+      "Pneumonia",
+      "Allergic Rhinitis",
+      "Hand, Foot and Mouth Disease in Children",
+      "Upper Respiratory Tract Infection",
+      "Pediatric Diarrhea"
+    ],
+    "disease": "Upper Respiratory Tract Infection"
+  },
+  {
+    "id": "Dxy_82",
+    "explicit_symptoms": [
+      [
+        "Cough",
+        "True"
+      ],
+      [
+        "Rhinorrhea",
+        "True"
+      ]
+    ],
+    "implicit_symptoms": [
+      [
+        "Lethargy",
+        "False"
+      ],
+      [
+        "fever",
+        "False"
+      ],
+      [
+        "Coughing up phlegm",
+        "False"
+      ]
+    ],
+    "candidate_diseases": [
+      "Pneumonia",
+      "Allergic Rhinitis",
+      "Hand, Foot and Mouth Disease in Children",
+      "Upper Respiratory Tract Infection",
+      "Pediatric Diarrhea"
+    ],
+    "disease": "Upper Respiratory Tract Infection"
+  },
+  {
+    "id": "Dxy_83",
+    "explicit_symptoms": [
+      [
+        "Vomiting",
+        "True"
+      ],
+      [
+        "Nausea",
+        "True"
+      ],
+      [
+        "fever",
+        "True"
+      ]
+    ],
+    "implicit_symptoms": [
+      [
+        "Lethargy",
+        "False"
+      ],
+      [
+        "Anorexia",
+        "False"
+      ]
+    ],
+    "candidate_diseases": [
+      "Pneumonia",
+      "Allergic Rhinitis",
+      "Hand, Foot and Mouth Disease in Children",
+      "Upper Respiratory Tract Infection",
+      "Pediatric Diarrhea"
+    ],
+    "disease": "Pediatric Diarrhea"
+  },
+  {
+    "id": "Dxy_84",
+    "explicit_symptoms": [
+      [
+        "Lethargy",
+        "True"
+      ],
+      [
+        "Cough",
+        "True"
+      ],
+      [
+        "fever",
+        "True"
+      ],
+      [
+        "Rhinorrhea",
+        "True"
+      ]
+    ],
+    "implicit_symptoms": [
+      [
+        "rubbing eyes",
+        "True"
+      ],
+      [
+        "Restlessness",
+        "True"
+      ]
+    ],
+    "candidate_diseases": [
+      "Pneumonia",
+      "Allergic Rhinitis",
+      "Hand, Foot and Mouth Disease in Children",
+      "Upper Respiratory Tract Infection",
+      "Pediatric Diarrhea"
+    ],
+    "disease": "Upper Respiratory Tract Infection"
+  },
+  {
+    "id": "Dxy_85",
+    "explicit_symptoms": [
+      [
+        "Restlessness",
+        "True"
+      ],
+      [
+        "Vomiting",
+        "True"
+      ],
+      [
+        "Nausea",
+        "True"
+      ],
+      [
+        "Diarrhea",
+        "True"
+      ],
+      [
+        "Anorexia",
+        "True"
+      ]
+    ],
+    "implicit_symptoms": [],
+    "candidate_diseases": [
+      "Pneumonia",
+      "Allergic Rhinitis",
+      "Hand, Foot and Mouth Disease in Children",
+      "Upper Respiratory Tract Infection",
+      "Pediatric Diarrhea"
+    ],
+    "disease": "Pediatric Diarrhea"
+  },
+  {
+    "id": "Dxy_86",
+    "explicit_symptoms": [
+      [
+        "herpes",
+        "True"
+      ],
+      [
+        "Restlessness",
+        "True"
+      ],
+      [
+        "fever",
+        "True"
+      ],
+      [
+        "Convulsion",
+        "True"
+      ]
+    ],
+    "implicit_symptoms": [
+      [
+        "Anorexia",
+        "True"
+      ]
+    ],
+    "candidate_diseases": [
+      "Pneumonia",
+      "Allergic Rhinitis",
+      "Hand, Foot and Mouth Disease in Children",
+      "Upper Respiratory Tract Infection",
+      "Pediatric Diarrhea"
+    ],
+    "disease": "Hand, Foot and Mouth Disease in Children"
+  },
+  {
+    "id": "Dxy_87",
+    "explicit_symptoms": [
+      [
+        "Lethargy",
+        "True"
+      ],
+      [
+        "Borborygmi",
+        "True"
+      ],
+      [
+        "fever",
+        "True"
+      ],
+      [
+        "Diarrhea",
+        "True"
+      ]
+    ],
+    "implicit_symptoms": [],
+    "candidate_diseases": [
+      "Pneumonia",
+      "Allergic Rhinitis",
+      "Hand, Foot and Mouth Disease in Children",
+      "Upper Respiratory Tract Infection",
+      "Pediatric Diarrhea"
+    ],
+    "disease": "Pediatric Diarrhea"
+  },
+  {
+    "id": "Dxy_88",
+    "explicit_symptoms": [
+      [
+        "Throat discomfort",
+        "True"
+      ],
+      [
+        "Cough",
+        "True"
+      ],
+      [
+        "fever",
+        "False"
+      ]
+    ],
+    "implicit_symptoms": [
+      [
+        "Moist rales in the lungs",
+        "True"
+      ]
+    ],
+    "candidate_diseases": [
+      "Pneumonia",
+      "Allergic Rhinitis",
+      "Hand, Foot and Mouth Disease in Children",
+      "Upper Respiratory Tract Infection",
+      "Pediatric Diarrhea"
+    ],
+    "disease": "Pneumonia"
+  },
+  {
+    "id": "Dxy_89",
+    "explicit_symptoms": [
+      [
+        "Nasal congestion",
+        "True"
+      ],
+      [
+        "Sneezing",
+        "True"
+      ]
+    ],
+    "implicit_symptoms": [
+      [
+        "Rubbing Nose",
+        "True"
+      ],
+      [
+        "difficulty breathing",
+        "True"
+      ]
+    ],
+    "candidate_diseases": [
+      "Pneumonia",
+      "Allergic Rhinitis",
+      "Hand, Foot and Mouth Disease in Children",
+      "Upper Respiratory Tract Infection",
+      "Pediatric Diarrhea"
+    ],
+    "disease": "Allergic Rhinitis"
+  },
+  {
+    "id": "Dxy_90",
+    "explicit_symptoms": [
+      [
+        "Cough",
+        "True"
+      ],
+      [
+        "Vomiting",
+        "True"
+      ],
+      [
+        "fever",
+        "True"
+      ],
+      [
+        "Rhinorrhea",
+        "True"
+      ]
+    ],
+    "implicit_symptoms": [],
+    "candidate_diseases": [
+      "Pneumonia",
+      "Allergic Rhinitis",
+      "Hand, Foot and Mouth Disease in Children",
+      "Upper Respiratory Tract Infection",
+      "Pediatric Diarrhea"
+    ],
+    "disease": "Upper Respiratory Tract Infection"
+  },
+  {
+    "id": "Dxy_91",
+    "explicit_symptoms": [
+      [
+        "Restlessness",
+        "True"
+      ],
+      [
+        "Nasal congestion",
+        "True"
+      ],
+      [
+        "Sneezing",
+        "True"
+      ],
+      [
+        "Rubbing Nose",
+        "True"
+      ]
+    ],
+    "implicit_symptoms": [
+      [
+        "rubbing eyes",
+        "True"
+      ],
+      [
+        "Rash",
+        "True"
+      ],
+      [
+        "Nosebleed",
+        "True"
+      ]
+    ],
+    "candidate_diseases": [
+      "Pneumonia",
+      "Allergic Rhinitis",
+      "Hand, Foot and Mouth Disease in Children",
+      "Upper Respiratory Tract Infection",
+      "Pediatric Diarrhea"
+    ],
+    "disease": "Allergic Rhinitis"
+  },
+  {
+    "id": "Dxy_92",
+    "explicit_symptoms": [
+      [
+        "Rhinorrhea",
+        "True"
+      ]
+    ],
+    "implicit_symptoms": [
+      [
+        "Cough",
+        "False"
+      ],
+      [
+        "Sneezing",
+        "True"
+      ],
+      [
+        "fever",
+        "False"
+      ]
+    ],
+    "candidate_diseases": [
+      "Pneumonia",
+      "Allergic Rhinitis",
+      "Hand, Foot and Mouth Disease in Children",
+      "Upper Respiratory Tract Infection",
+      "Pediatric Diarrhea"
+    ],
+    "disease": "Allergic Rhinitis"
+  },
+  {
+    "id": "Dxy_93",
+    "explicit_symptoms": [
+      [
+        "herpes",
+        "True"
+      ],
+      [
+        "fever",
+        "True"
+      ]
+    ],
+    "implicit_symptoms": [
+      [
+        "Lethargy",
+        "False"
+      ],
+      [
+        "Rash",
+        "True"
+      ]
+    ],
+    "candidate_diseases": [
+      "Pneumonia",
+      "Allergic Rhinitis",
+      "Hand, Foot and Mouth Disease in Children",
+      "Upper Respiratory Tract Infection",
+      "Pediatric Diarrhea"
+    ],
+    "disease": "Hand, Foot and Mouth Disease in Children"
+  },
+  {
+    "id": "Dxy_94",
+    "explicit_symptoms": [
+      [
+        "fever",
+        "True"
+      ],
+      [
+        "Anorexia",
+        "True"
+      ]
+    ],
+    "implicit_symptoms": [
+      [
+        "Moist rales in the lungs",
+        "True"
+      ]
+    ],
+    "candidate_diseases": [
+      "Pneumonia",
+      "Allergic Rhinitis",
+      "Hand, Foot and Mouth Disease in Children",
+      "Upper Respiratory Tract Infection",
+      "Pediatric Diarrhea"
+    ],
+    "disease": "Pneumonia"
+  },
+  {
+    "id": "Dxy_95",
+    "explicit_symptoms": [
+      [
+        "Cough",
+        "True"
+      ],
+      [
+        "Vomiting",
+        "True"
+      ],
+      [
+        "fever",
+        "True"
+      ]
+    ],
+    "implicit_symptoms": [
+      [
+        "difficulty breathing",
+        "True"
+      ]
+    ],
+    "candidate_diseases": [
+      "Pneumonia",
+      "Allergic Rhinitis",
+      "Hand, Foot and Mouth Disease in Children",
+      "Upper Respiratory Tract Infection",
+      "Pediatric Diarrhea"
+    ],
+    "disease": "Pneumonia"
+  },
+  {
+    "id": "Dxy_96",
+    "explicit_symptoms": [
+      [
+        "Cough",
+        "True"
+      ],
+      [
+        "Wheezing",
+        "True"
+      ],
+      [
+        "Coughing up phlegm",
+        "True"
+      ]
+    ],
+    "implicit_symptoms": [
+      [
+        "Throat discomfort",
+        "True"
+      ]
+    ],
+    "candidate_diseases": [
+      "Pneumonia",
+      "Allergic Rhinitis",
+      "Hand, Foot and Mouth Disease in Children",
+      "Upper Respiratory Tract Infection",
+      "Pediatric Diarrhea"
+    ],
+    "disease": "Upper Respiratory Tract Infection"
+  },
+  {
+    "id": "Dxy_97",
+    "explicit_symptoms": [
+      [
+        "Cough",
+        "True"
+      ],
+      [
+        "Restlessness",
+        "True"
+      ],
+      [
+        "Coughing up phlegm",
+        "True"
+      ],
+      [
+        "Rhinorrhea",
+        "True"
+      ]
+    ],
+    "implicit_symptoms": [
+      [
+        "Lethargy",
+        "False"
+      ],
+      [
+        "difficulty breathing",
+        "True"
+      ]
+    ],
+    "candidate_diseases": [
+      "Pneumonia",
+      "Allergic Rhinitis",
+      "Hand, Foot and Mouth Disease in Children",
+      "Upper Respiratory Tract Infection",
+      "Pediatric Diarrhea"
+    ],
+    "disease": "Pneumonia"
+  },
+  {
+    "id": "Dxy_98",
+    "explicit_symptoms": [
+      [
+        "Cough",
+        "True"
+      ],
+      [
+        "Coughing up phlegm",
+        "True"
+      ],
+      [
+        "Rhinorrhea",
+        "True"
+      ]
+    ],
+    "implicit_symptoms": [
+      [
+        "Throat discomfort",
+        "True"
+      ]
+    ],
+    "candidate_diseases": [
+      "Pneumonia",
+      "Allergic Rhinitis",
+      "Hand, Foot and Mouth Disease in Children",
+      "Upper Respiratory Tract Infection",
+      "Pediatric Diarrhea"
+    ],
+    "disease": "Upper Respiratory Tract Infection"
+  },
+  {
+    "id": "Dxy_99",
+    "explicit_symptoms": [
+      [
+        "Cough",
+        "True"
+      ],
+      [
+        "difficulty breathing",
+        "True"
+      ]
+    ],
+    "implicit_symptoms": [
+      [
+        "Vomiting",
+        "True"
+      ],
+      [
+        "fever",
+        "False"
+      ]
+    ],
+    "candidate_diseases": [
+      "Pneumonia",
+      "Allergic Rhinitis",
+      "Hand, Foot and Mouth Disease in Children",
+      "Upper Respiratory Tract Infection",
+      "Pediatric Diarrhea"
+    ],
+    "disease": "Upper Respiratory Tract Infection"
+  },
+  {
+    "id": "Dxy_100",
+    "explicit_symptoms": [
+      [
+        "Cough",
+        "True"
+      ],
+      [
+        "Nasal congestion",
+        "True"
+      ],
+      [
+        "Sneezing",
+        "True"
+      ],
+      [
+        "Rhinorrhea",
+        "True"
+      ]
+    ],
+    "implicit_symptoms": [
+      [
+        "fever",
+        "False"
+      ],
+      [
+        "Coughing up phlegm",
+        "False"
+      ]
+    ],
+    "candidate_diseases": [
+      "Pneumonia",
+      "Allergic Rhinitis",
+      "Hand, Foot and Mouth Disease in Children",
+      "Upper Respiratory Tract Infection",
+      "Pediatric Diarrhea"
+    ],
+    "disease": "Upper Respiratory Tract Infection"
+  },
+  {
+    "id": "Dxy_101",
+    "explicit_symptoms": [
+      [
+        "Cough",
+        "True"
+      ],
+      [
+        "Nasal congestion",
+        "True"
+      ],
+      [
+        "Coughing up phlegm",
+        "True"
+      ],
+      [
+        "Rhinorrhea",
+        "True"
+      ]
+    ],
+    "implicit_symptoms": [
+      [
+        "Restlessness",
+        "True"
+      ]
+    ],
+    "candidate_diseases": [
+      "Pneumonia",
+      "Allergic Rhinitis",
+      "Hand, Foot and Mouth Disease in Children",
+      "Upper Respiratory Tract Infection",
+      "Pediatric Diarrhea"
+    ],
+    "disease": "Allergic Rhinitis"
+  },
+  {
+    "id": "Dxy_102",
+    "explicit_symptoms": [
+      [
+        "fever",
+        "True"
+      ],
+      [
+        "Rash",
+        "True"
+      ]
+    ],
+    "implicit_symptoms": [
+      [
+        "Lethargy",
+        "False"
+      ],
+      [
+        "Anorexia",
+        "False"
+      ]
+    ],
+    "candidate_diseases": [
+      "Pneumonia",
+      "Allergic Rhinitis",
+      "Hand, Foot and Mouth Disease in Children",
+      "Upper Respiratory Tract Infection",
+      "Pediatric Diarrhea"
+    ],
+    "disease": "Hand, Foot and Mouth Disease in Children"
+  },
+  {
+    "id": "Dxy_103",
+    "explicit_symptoms": [
+      [
+        "Cough",
+        "True"
+      ],
+      [
+        "blowing bubbles",
+        "True"
+      ]
+    ],
+    "implicit_symptoms": [
+      [
+        "Restlessness",
+        "True"
+      ],
+      [
+        "Diarrhea",
+        "False"
+      ]
+    ],
+    "candidate_diseases": [
+      "Pneumonia",
+      "Allergic Rhinitis",
+      "Hand, Foot and Mouth Disease in Children",
+      "Upper Respiratory Tract Infection",
+      "Pediatric Diarrhea"
+    ],
+    "disease": "Pneumonia"
+  },
+  {
+    "id": "Dxy_104",
+    "explicit_symptoms": [
+      [
+        "Cough",
+        "True"
+      ],
+      [
+        "fever",
+        "True"
+      ],
+      [
+        "Coughing up phlegm",
+        "True"
+      ],
+      [
+        "Rhinorrhea",
+        "True"
+      ]
+    ],
+    "implicit_symptoms": [
+      [
+        "Restlessness",
+        "True"
+      ]
+    ],
+    "candidate_diseases": [
+      "Pneumonia",
+      "Allergic Rhinitis",
+      "Hand, Foot and Mouth Disease in Children",
+      "Upper Respiratory Tract Infection",
+      "Pediatric Diarrhea"
+    ],
+    "disease": "Upper Respiratory Tract Infection"
+  }
+]

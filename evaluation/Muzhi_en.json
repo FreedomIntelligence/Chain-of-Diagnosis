@@ -1,0 +1,4946 @@
+[
+  {
+    "id": "Muzhi_1",
+    "explicit_symptoms": [
+      [
+        "Fever",
+        "True"
+      ]
+    ],
+    "implicit_symptoms": [
+      [
+        "Moderate Fever",
+        "True"
+      ],
+      [
+        "Fever Reduction",
+        "True"
+      ]
+    ],
+    "candidate_diseases": [
+      "Pediatric Diarrhea",
+      "Pediatric Bronchitis",
+      "Pediatric Dyspepsia",
+      "Upper Respiratory Tract Infection"
+    ],
+    "disease": "Upper Respiratory Tract Infection"
+  },
+  {
+    "id": "Muzhi_2",
+    "explicit_symptoms": [
+      [
+        "Cough",
+        "True"
+      ],
+      [
+        "Tracheitis",
+        "True"
+      ],
+      [
+        "Low-grade fever",
+        "True"
+      ],
+      [
+        "Moderate Fever",
+        "True"
+      ]
+    ],
+    "implicit_symptoms": [
+      [
+        "Lethargy",
+        "True"
+      ],
+      [
+        "Fever",
+        "True"
+      ],
+      [
+        "Recurrent fever",
+        "True"
+      ],
+      [
+        "Bronchopneumonia",
+        "True"
+      ],
+      [
+        "Bacterial Infection",
+        "False"
+      ],
+      [
+        "presence of phlegm",
+        "True"
+      ]
+    ],
+    "candidate_diseases": [
+      "Pediatric Diarrhea",
+      "Pediatric Bronchitis",
+      "Pediatric Dyspepsia",
+      "Upper Respiratory Tract Infection"
+    ],
+    "disease": "Pediatric Bronchitis"
+  },
+  {
+    "id": "Muzhi_3",
+    "explicit_symptoms": [
+      [
+        "Indigestion",
+        "True"
+      ],
+      [
+        "Diarrhea",
+        "True"
+      ]
+    ],
+    "implicit_symptoms": [
+      [
+        "Constipation",
+        "True"
+      ],
+      [
+        "flatulence",
+        "True"
+      ]
+    ],
+    "candidate_diseases": [
+      "Pediatric Diarrhea",
+      "Pediatric Bronchitis",
+      "Pediatric Dyspepsia",
+      "Upper Respiratory Tract Infection"
+    ],
+    "disease": "Pediatric Dyspepsia"
+  },
+  {
+    "id": "Muzhi_4",
+    "explicit_symptoms": [
+      [
+        "Pneumonia",
+        "True"
+      ],
+      [
+        "Diarrhea",
+        "True"
+      ]
+    ],
+    "implicit_symptoms": [
+      [
+        "Vomiting",
+        "False"
+      ]
+    ],
+    "candidate_diseases": [
+      "Pediatric Diarrhea",
+      "Pediatric Bronchitis",
+      "Pediatric Dyspepsia",
+      "Upper Respiratory Tract Infection"
+    ],
+    "disease": "Pediatric Dyspepsia"
+  },
+  {
+    "id": "Muzhi_5",
+    "explicit_symptoms": [
+      [
+        "Fever",
+        "True"
+      ],
+      [
+        "Cough",
+        "True"
+      ],
+      [
+        "sneeze",
+        "True"
+      ],
+      [
+        "Runny nose",
+        "True"
+      ]
+    ],
+    "implicit_symptoms": [
+      [
+        "Common Cold",
+        "True"
+      ]
+    ],
+    "candidate_diseases": [
+      "Pediatric Diarrhea",
+      "Pediatric Bronchitis",
+      "Pediatric Dyspepsia",
+      "Upper Respiratory Tract Infection"
+    ],
+    "disease": "Pediatric Bronchitis"
+  },
+  {
+    "id": "Muzhi_6",
+    "explicit_symptoms": [
+      [
+        "Diarrhea",
+        "True"
+      ],
+      [
+        "Anal swelling",
+        "True"
+      ]
+    ],
+    "implicit_symptoms": [
+      [
+        "Fever",
+        "False"
+      ],
+      [
+        "Cough",
+        "False"
+      ],
+      [
+        "Runny nose",
+        "True"
+      ]
+    ],
+    "candidate_diseases": [
+      "Pediatric Diarrhea",
+      "Pediatric Bronchitis",
+      "Pediatric Dyspepsia",
+      "Upper Respiratory Tract Infection"
+    ],
+    "disease": "Pediatric Dyspepsia"
+  },
+  {
+    "id": "Muzhi_7",
+    "explicit_symptoms": [
+      [
+        "Nasal congestion",
+        "True"
+      ],
+      [
+        "Cough",
+        "True"
+      ]
+    ],
+    "implicit_symptoms": [
+      [
+        "Hoarseness",
+        "False"
+      ],
+      [
+        "Wheezing",
+        "False"
+      ],
+      [
+        "Bronchitis",
+        "True"
+      ],
+      [
+        "Runny nose",
+        "True"
+      ],
+      [
+        "sneeze",
+        "True"
+      ],
+      [
+        "presence of phlegm",
+        "True"
+      ]
+    ],
+    "candidate_diseases": [
+      "Pediatric Diarrhea",
+      "Pediatric Bronchitis",
+      "Pediatric Dyspepsia",
+      "Upper Respiratory Tract Infection"
+    ],
+    "disease": "Pediatric Bronchitis"
+  },
+  {
+    "id": "Muzhi_8",
+    "explicit_symptoms": [
+      [
+        "Pneumonia",
+        "True"
+      ],
+      [
+        "Diarrhea",
+        "True"
+      ]
+    ],
+    "implicit_symptoms": [
+      [
+        "green stool",
+        "True"
+      ],
+      [
+        "Runny nose",
+        "True"
+      ],
+      [
+        "Vomiting",
+        "False"
+      ],
+      [
+        "Abdominal distension",
+        "False"
+      ]
+    ],
+    "candidate_diseases": [
+      "Pediatric Diarrhea",
+      "Pediatric Bronchitis",
+      "Pediatric Dyspepsia",
+      "Upper Respiratory Tract Infection"
+    ],
+    "disease": "Pediatric Diarrhea"
+  },
+  {
+    "id": "Muzhi_9",
+    "explicit_symptoms": [
+      [
+        "Vomiting",
+        "True"
+      ]
+    ],
+    "implicit_symptoms": [
+      [
+        "Diarrhea",
+        "True"
+      ],
+      [
+        "Fever",
+        "False"
+      ],
+      [
+        "Cough",
+        "True"
+      ],
+      [
+        "dry cough",
+        "True"
+      ],
+      [
+        "Coughing up phlegm",
+        "True"
+      ],
+      [
+        "Dry Heaving",
+        "True"
+      ]
+    ],
+    "candidate_diseases": [
+      "Pediatric Diarrhea",
+      "Pediatric Bronchitis",
+      "Pediatric Dyspepsia",
+      "Upper Respiratory Tract Infection"
+    ],
+    "disease": "Pediatric Dyspepsia"
+  },
+  {
+    "id": "Muzhi_10",
+    "explicit_symptoms": [
+      [
+        "Diarrhea",
+        "True"
+      ]
+    ],
+    "implicit_symptoms": [
+      [
+        "Vomiting",
+        "True"
+      ],
+      [
+        "Diarrhea",
+        "True"
+      ],
+      [
+        "Anorexia",
+        "True"
+      ]
+    ],
+    "candidate_diseases": [
+      "Pediatric Diarrhea",
+      "Pediatric Bronchitis",
+      "Pediatric Dyspepsia",
+      "Upper Respiratory Tract Infection"
+    ],
+    "disease": "Pediatric Diarrhea"
+  },
+  {
+    "id": "Muzhi_11",
+    "explicit_symptoms": [
+      [
+        "Cough",
+        "True"
+      ],
+      [
+        "Runny nose",
+        "True"
+      ],
+      [
+        "Pneumonia",
+        "True"
+      ],
+      [
+        "Fever",
+        "True"
+      ],
+      [
+        "Moderate Fever",
+        "True"
+      ],
+      [
+        "Fever Reduction",
+        "True"
+      ],
+      [
+        "Low-grade fever",
+        "True"
+      ]
+    ],
+    "implicit_symptoms": [
+      [
+        "Cold limbs",
+        "True"
+      ],
+      [
+        "Sweating",
+        "True"
+      ],
+      [
+        "Hoarseness",
+        "False"
+      ],
+      [
+        "Wheezing",
+        "False"
+      ]
+    ],
+    "candidate_diseases": [
+      "Pediatric Diarrhea",
+      "Pediatric Bronchitis",
+      "Pediatric Dyspepsia",
+      "Upper Respiratory Tract Infection"
+    ],
+    "disease": "Pediatric Bronchitis"
+  },
+  {
+    "id": "Muzhi_12",
+    "explicit_symptoms": [
+      [
+        "Diarrhea",
+        "True"
+      ]
+    ],
+    "implicit_symptoms": [
+      [
+        "Diarrhea",
+        "True"
+      ],
+      [
+        "green stool",
+        "True"
+      ],
+      [
+        "Bloody stool",
+        "False"
+      ],
+      [
+        "Mucous in stool",
+        "True"
+      ],
+      [
+        "Fever",
+        "False"
+      ],
+      [
+        "Vomiting",
+        "False"
+      ],
+      [
+        "Borborygmi",
+        "True"
+      ]
+    ],
+    "candidate_diseases": [
+      "Pediatric Diarrhea",
+      "Pediatric Bronchitis",
+      "Pediatric Dyspepsia",
+      "Upper Respiratory Tract Infection"
+    ],
+    "disease": "Pediatric Diarrhea"
+  },
+  {
+    "id": "Muzhi_13",
+    "explicit_symptoms": [
+      [
+        "Diarrhea",
+        "True"
+      ]
+    ],
+    "implicit_symptoms": [],
+    "candidate_diseases": [
+      "Pediatric Diarrhea",
+      "Pediatric Bronchitis",
+      "Pediatric Dyspepsia",
+      "Upper Respiratory Tract Infection"
+    ],
+    "disease": "Pediatric Diarrhea"
+  },
+  {
+    "id": "Muzhi_14",
+    "explicit_symptoms": [
+      [
+        "Fever",
+        "True"
+      ],
+      [
+        "Rales",
+        "True"
+      ]
+    ],
+    "implicit_symptoms": [
+      [
+        "Cough",
+        "True"
+      ],
+      [
+        "Fever",
+        "True"
+      ],
+      [
+        "Fever Reduction",
+        "False"
+      ],
+      [
+        "presence of phlegm",
+        "True"
+      ]
+    ],
+    "candidate_diseases": [
+      "Pediatric Diarrhea",
+      "Pediatric Bronchitis",
+      "Pediatric Dyspepsia",
+      "Upper Respiratory Tract Infection"
+    ],
+    "disease": "Upper Respiratory Tract Infection"
+  },
+  {
+    "id": "Muzhi_15",
+    "explicit_symptoms": [],
+    "implicit_symptoms": [
+      [
+        "Cough",
+        "True"
+      ],
+      [
+        "Runny nose",
+        "True"
+      ],
+      [
+        "Viral infection",
+        "True"
+      ],
+      [
+        "Common Cold",
+        "True"
+      ],
+      [
+        "presence of phlegm",
+        "True"
+      ],
+      [
+        "Nasal congestion",
+        "True"
+      ]
+    ],
+    "candidate_diseases": [
+      "Pediatric Diarrhea",
+      "Pediatric Bronchitis",
+      "Pediatric Dyspepsia",
+      "Upper Respiratory Tract Infection"
+    ],
+    "disease": "Upper Respiratory Tract Infection"
+  },
+  {
+    "id": "Muzhi_16",
+    "explicit_symptoms": [
+      [
+        "Bronchopneumonia",
+        "True"
+      ]
+    ],
+    "implicit_symptoms": [
+      [
+        "Cough",
+        "True"
+      ],
+      [
+        "Runny nose",
+        "True"
+      ],
+      [
+        "Fever",
+        "True"
+      ],
+      [
+        "High Fever",
+        "True"
+      ],
+      [
+        "Common Cold",
+        "True"
+      ],
+      [
+        "presence of phlegm",
+        "True"
+      ]
+    ],
+    "candidate_diseases": [
+      "Pediatric Diarrhea",
+      "Pediatric Bronchitis",
+      "Pediatric Dyspepsia",
+      "Upper Respiratory Tract Infection"
+    ],
+    "disease": "Pediatric Bronchitis"
+  },
+  {
+    "id": "Muzhi_17",
+    "explicit_symptoms": [
+      [
+        "green stool",
+        "True"
+      ],
+      [
+        "Fever Reduction",
+        "True"
+      ],
+      [
+        "Fever",
+        "True"
+      ],
+      [
+        "Vomiting",
+        "True"
+      ],
+      [
+        "Low-grade fever",
+        "True"
+      ]
+    ],
+    "implicit_symptoms": [
+      [
+        "Common Cold",
+        "False"
+      ],
+      [
+        "Cough",
+        "False"
+      ],
+      [
+        "Runny nose",
+        "True"
+      ],
+      [
+        "Anorexia",
+        "True"
+      ],
+      [
+        "Nasal congestion",
+        "False"
+      ]
+    ],
+    "candidate_diseases": [
+      "Pediatric Diarrhea",
+      "Pediatric Bronchitis",
+      "Pediatric Dyspepsia",
+      "Upper Respiratory Tract Infection"
+    ],
+    "disease": "Pediatric Dyspepsia"
+  },
+  {
+    "id": "Muzhi_18",
+    "explicit_symptoms": [
+      [
+        "sneeze",
+        "True"
+      ],
+      [
+        "Runny nose",
+        "True"
+      ]
+    ],
+    "implicit_symptoms": [
+      [
+        "Coughing up phlegm",
+        "True"
+      ]
+    ],
+    "candidate_diseases": [
+      "Pediatric Diarrhea",
+      "Pediatric Bronchitis",
+      "Pediatric Dyspepsia",
+      "Upper Respiratory Tract Infection"
+    ],
+    "disease": "Upper Respiratory Tract Infection"
+  },
+  {
+    "id": "Muzhi_19",
+    "explicit_symptoms": [
+      [
+        "Diarrhea",
+        "True"
+      ],
+      [
+        "green stool",
+        "True"
+      ]
+    ],
+    "implicit_symptoms": [
+      [
+        "Diarrhea",
+        "True"
+      ],
+      [
+        "Vomiting",
+        "False"
+      ],
+      [
+        "crying",
+        "False"
+      ],
+      [
+        "flatulence",
+        "True"
+      ],
+      [
+        "Sweating",
+        "True"
+      ]
+    ],
+    "candidate_diseases": [
+      "Pediatric Diarrhea",
+      "Pediatric Bronchitis",
+      "Pediatric Dyspepsia",
+      "Upper Respiratory Tract Infection"
+    ],
+    "disease": "Pediatric Dyspepsia"
+  },
+  {
+    "id": "Muzhi_20",
+    "explicit_symptoms": [],
+    "implicit_symptoms": [
+      [
+        "Watery stools",
+        "True"
+      ],
+      [
+        "Bacterial Infection",
+        "True"
+      ],
+      [
+        "Enteritis",
+        "True"
+      ],
+      [
+        "Bloody stool",
+        "True"
+      ]
+    ],
+    "candidate_diseases": [
+      "Pediatric Diarrhea",
+      "Pediatric Bronchitis",
+      "Pediatric Dyspepsia",
+      "Upper Respiratory Tract Infection"
+    ],
+    "disease": "Pediatric Diarrhea"
+  },
+  {
+    "id": "Muzhi_21",
+    "explicit_symptoms": [
+      [
+        "flatulence",
+        "True"
+      ],
+      [
+        "Common Cold",
+        "True"
+      ]
+    ],
+    "implicit_symptoms": [
+      [
+        "Diarrhea",
+        "True"
+      ],
+      [
+        "Indigestion",
+        "True"
+      ],
+      [
+        "throat discomfort",
+        "True"
+      ],
+      [
+        "Cough",
+        "True"
+      ],
+      [
+        "Sweating",
+        "True"
+      ]
+    ],
+    "candidate_diseases": [
+      "Pediatric Diarrhea",
+      "Pediatric Bronchitis",
+      "Pediatric Dyspepsia",
+      "Upper Respiratory Tract Infection"
+    ],
+    "disease": "Pediatric Dyspepsia"
+  },
+  {
+    "id": "Muzhi_22",
+    "explicit_symptoms": [],
+    "implicit_symptoms": [
+      [
+        "Diarrhea",
+        "True"
+      ],
+      [
+        "green stool",
+        "True"
+      ],
+      [
+        "Vomiting",
+        "True"
+      ]
+    ],
+    "candidate_diseases": [
+      "Pediatric Diarrhea",
+      "Pediatric Bronchitis",
+      "Pediatric Dyspepsia",
+      "Upper Respiratory Tract Infection"
+    ],
+    "disease": "Pediatric Dyspepsia"
+  },
+  {
+    "id": "Muzhi_23",
+    "explicit_symptoms": [
+      [
+        "Common Cold",
+        "True"
+      ],
+      [
+        "Cough",
+        "True"
+      ],
+      [
+        "Bronchopneumonia",
+        "True"
+      ],
+      [
+        "Coughing up phlegm",
+        "True"
+      ]
+    ],
+    "implicit_symptoms": [
+      [
+        "Wheezing",
+        "False"
+      ],
+      [
+        "Fever",
+        "False"
+      ],
+      [
+        "Acute bronchitis",
+        "True"
+      ]
+    ],
+    "candidate_diseases": [
+      "Pediatric Diarrhea",
+      "Pediatric Bronchitis",
+      "Pediatric Dyspepsia",
+      "Upper Respiratory Tract Infection"
+    ],
+    "disease": "Pediatric Bronchitis"
+  },
+  {
+    "id": "Muzhi_24",
+    "explicit_symptoms": [
+      [
+        "throat discomfort",
+        "True"
+      ],
+      [
+        "Fever",
+        "True"
+      ],
+      [
+        "presence of phlegm",
+        "True"
+      ]
+    ],
+    "implicit_symptoms": [
+      [
+        "Runny nose",
+        "True"
+      ],
+      [
+        "Diarrhea",
+        "False"
+      ],
+      [
+        "Moderate Fever",
+        "True"
+      ],
+      [
+        "Headache",
+        "True"
+      ],
+      [
+        "Nasal congestion",
+        "True"
+      ]
+    ],
+    "candidate_diseases": [
+      "Pediatric Diarrhea",
+      "Pediatric Bronchitis",
+      "Pediatric Dyspepsia",
+      "Upper Respiratory Tract Infection"
+    ],
+    "disease": "Upper Respiratory Tract Infection"
+  },
+  {
+    "id": "Muzhi_25",
+    "explicit_symptoms": [],
+    "implicit_symptoms": [
+      [
+        "Diarrhea",
+        "True"
+      ]
+    ],
+    "candidate_diseases": [
+      "Pediatric Diarrhea",
+      "Pediatric Bronchitis",
+      "Pediatric Dyspepsia",
+      "Upper Respiratory Tract Infection"
+    ],
+    "disease": "Pediatric Diarrhea"
+  },
+  {
+    "id": "Muzhi_26",
+    "explicit_symptoms": [
+      [
+        "Watery stools",
+        "True"
+      ]
+    ],
+    "implicit_symptoms": [
+      [
+        "Fever",
+        "False"
+      ],
+      [
+        "Vomiting",
+        "False"
+      ]
+    ],
+    "candidate_diseases": [
+      "Pediatric Diarrhea",
+      "Pediatric Bronchitis",
+      "Pediatric Dyspepsia",
+      "Upper Respiratory Tract Infection"
+    ],
+    "disease": "Pediatric Diarrhea"
+  },
+  {
+    "id": "Muzhi_27",
+    "explicit_symptoms": [
+      [
+        "Foul-smelling, acidic stool",
+        "True"
+      ],
+      [
+        "Indigestion",
+        "True"
+      ]
+    ],
+    "implicit_symptoms": [
+      [
+        "flatulence",
+        "True"
+      ],
+      [
+        "Diarrhea",
+        "True"
+      ],
+      [
+        "green stool",
+        "True"
+      ],
+      [
+        "Vomiting",
+        "True"
+      ]
+    ],
+    "candidate_diseases": [
+      "Pediatric Diarrhea",
+      "Pediatric Bronchitis",
+      "Pediatric Dyspepsia",
+      "Upper Respiratory Tract Infection"
+    ],
+    "disease": "Pediatric Dyspepsia"
+  },
+  {
+    "id": "Muzhi_28",
+    "explicit_symptoms": [
+      [
+        "High Fever",
+        "True"
+      ],
+      [
+        "Tonsillitis",
+        "True"
+      ],
+      [
+        "Fever",
+        "True"
+      ],
+      [
+        "Moderate Fever",
+        "True"
+      ],
+      [
+        "Recurrent fever",
+        "True"
+      ],
+      [
+        "Runny nose",
+        "True"
+      ]
+    ],
+    "implicit_symptoms": [
+      [
+        "abdominal discomfort",
+        "True"
+      ],
+      [
+        "Viral infection",
+        "True"
+      ],
+      [
+        "Cough",
+        "False"
+      ]
+    ],
+    "candidate_diseases": [
+      "Pediatric Diarrhea",
+      "Pediatric Bronchitis",
+      "Pediatric Dyspepsia",
+      "Upper Respiratory Tract Infection"
+    ],
+    "disease": "Upper Respiratory Tract Infection"
+  },
+  {
+    "id": "Muzhi_29",
+    "explicit_symptoms": [
+      [
+        "Runny nose",
+        "True"
+      ],
+      [
+        "Cough",
+        "True"
+      ],
+      [
+        "Fever",
+        "True"
+      ],
+      [
+        "Sweating",
+        "True"
+      ],
+      [
+        "Hoarseness",
+        "True"
+      ],
+      [
+        "presence of phlegm",
+        "True"
+      ]
+    ],
+    "implicit_symptoms": [
+      [
+        "Coarse breath sounds",
+        "True"
+      ],
+      [
+        "Nasal congestion",
+        "False"
+      ]
+    ],
+    "candidate_diseases": [
+      "Pediatric Diarrhea",
+      "Pediatric Bronchitis",
+      "Pediatric Dyspepsia",
+      "Upper Respiratory Tract Infection"
+    ],
+    "disease": "Upper Respiratory Tract Infection"
+  },
+  {
+    "id": "Muzhi_30",
+    "explicit_symptoms": [],
+    "implicit_symptoms": [
+      [
+        "Common Cold",
+        "True"
+      ],
+      [
+        "Cough",
+        "True"
+      ],
+      [
+        "Viral infection",
+        "True"
+      ],
+      [
+        "Nasal congestion",
+        "True"
+      ]
+    ],
+    "candidate_diseases": [
+      "Pediatric Diarrhea",
+      "Pediatric Bronchitis",
+      "Pediatric Dyspepsia",
+      "Upper Respiratory Tract Infection"
+    ],
+    "disease": "Upper Respiratory Tract Infection"
+  },
+  {
+    "id": "Muzhi_31",
+    "explicit_symptoms": [
+      [
+        "Abdominal pain",
+        "True"
+      ],
+      [
+        "Diarrhea",
+        "True"
+      ],
+      [
+        "Vomiting",
+        "True"
+      ]
+    ],
+    "implicit_symptoms": [
+      [
+        "Watery stools",
+        "False"
+      ],
+      [
+        "Diarrhea",
+        "True"
+      ],
+      [
+        "crying",
+        "True"
+      ],
+      [
+        "flatulence",
+        "True"
+      ],
+      [
+        "Bloody stool",
+        "False"
+      ]
+    ],
+    "candidate_diseases": [
+      "Pediatric Diarrhea",
+      "Pediatric Bronchitis",
+      "Pediatric Dyspepsia",
+      "Upper Respiratory Tract Infection"
+    ],
+    "disease": "Pediatric Dyspepsia"
+  },
+  {
+    "id": "Muzhi_32",
+    "explicit_symptoms": [
+      [
+        "Cough",
+        "True"
+      ]
+    ],
+    "implicit_symptoms": [
+      [
+        "dry cough",
+        "True"
+      ],
+      [
+        "Runny nose",
+        "False"
+      ],
+      [
+        "presence of phlegm",
+        "True"
+      ]
+    ],
+    "candidate_diseases": [
+      "Pediatric Diarrhea",
+      "Pediatric Bronchitis",
+      "Pediatric Dyspepsia",
+      "Upper Respiratory Tract Infection"
+    ],
+    "disease": "Pediatric Bronchitis"
+  },
+  {
+    "id": "Muzhi_33",
+    "explicit_symptoms": [
+      [
+        "Diarrhea",
+        "True"
+      ],
+      [
+        "Vomiting",
+        "True"
+      ]
+    ],
+    "implicit_symptoms": [
+      [
+        "Watery stools",
+        "True"
+      ],
+      [
+        "High Fever",
+        "True"
+      ]
+    ],
+    "candidate_diseases": [
+      "Pediatric Diarrhea",
+      "Pediatric Bronchitis",
+      "Pediatric Dyspepsia",
+      "Upper Respiratory Tract Infection"
+    ],
+    "disease": "Pediatric Diarrhea"
+  },
+  {
+    "id": "Muzhi_34",
+    "explicit_symptoms": [],
+    "implicit_symptoms": [
+      [
+        "Cough",
+        "True"
+      ],
+      [
+        "Coughing up phlegm",
+        "True"
+      ],
+      [
+        "Runny nose",
+        "True"
+      ],
+      [
+        "Fever",
+        "True"
+      ]
+    ],
+    "candidate_diseases": [
+      "Pediatric Diarrhea",
+      "Pediatric Bronchitis",
+      "Pediatric Dyspepsia",
+      "Upper Respiratory Tract Infection"
+    ],
+    "disease": "Pediatric Bronchitis"
+  },
+  {
+    "id": "Muzhi_35",
+    "explicit_symptoms": [
+      [
+        "sneeze",
+        "True"
+      ],
+      [
+        "dry cough",
+        "True"
+      ],
+      [
+        "Runny nose",
+        "True"
+      ]
+    ],
+    "implicit_symptoms": [
+      [
+        "Fever",
+        "False"
+      ],
+      [
+        "Cough",
+        "True"
+      ],
+      [
+        "Nasal congestion",
+        "True"
+      ],
+      [
+        "Upper Respiratory Tract Infection",
+        "True"
+      ]
+    ],
+    "candidate_diseases": [
+      "Pediatric Diarrhea",
+      "Pediatric Bronchitis",
+      "Pediatric Dyspepsia",
+      "Upper Respiratory Tract Infection"
+    ],
+    "disease": "Upper Respiratory Tract Infection"
+  },
+  {
+    "id": "Muzhi_36",
+    "explicit_symptoms": [
+      [
+        "Diarrhea",
+        "True"
+      ]
+    ],
+    "implicit_symptoms": [
+      [
+        "green stool",
+        "True"
+      ],
+      [
+        "Diarrhea",
+        "True"
+      ],
+      [
+        "Indigestion",
+        "True"
+      ],
+      [
+        "Fever",
+        "True"
+      ],
+      [
+        "Watery stools",
+        "True"
+      ]
+    ],
+    "candidate_diseases": [
+      "Pediatric Diarrhea",
+      "Pediatric Bronchitis",
+      "Pediatric Dyspepsia",
+      "Upper Respiratory Tract Infection"
+    ],
+    "disease": "Pediatric Diarrhea"
+  },
+  {
+    "id": "Muzhi_37",
+    "explicit_symptoms": [
+      [
+        "Headache",
+        "True"
+      ],
+      [
+        "Fever",
+        "True"
+      ],
+      [
+        "Vomiting",
+        "True"
+      ]
+    ],
+    "implicit_symptoms": [
+      [
+        "Common Cold",
+        "True"
+      ]
+    ],
+    "candidate_diseases": [
+      "Pediatric Diarrhea",
+      "Pediatric Bronchitis",
+      "Pediatric Dyspepsia",
+      "Upper Respiratory Tract Infection"
+    ],
+    "disease": "Upper Respiratory Tract Infection"
+  },
+  {
+    "id": "Muzhi_38",
+    "explicit_symptoms": [
+      [
+        "Indigestion",
+        "True"
+      ],
+      [
+        "Diarrhea",
+        "True"
+      ],
+      [
+        "Vomiting",
+        "True"
+      ]
+    ],
+    "implicit_symptoms": [
+      [
+        "Common Cold",
+        "True"
+      ],
+      [
+        "Hoarseness",
+        "True"
+      ],
+      [
+        "Rales",
+        "True"
+      ],
+      [
+        "presence of phlegm",
+        "True"
+      ]
+    ],
+    "candidate_diseases": [
+      "Pediatric Diarrhea",
+      "Pediatric Bronchitis",
+      "Pediatric Dyspepsia",
+      "Upper Respiratory Tract Infection"
+    ],
+    "disease": "Pediatric Diarrhea"
+  },
+  {
+    "id": "Muzhi_39",
+    "explicit_symptoms": [
+      [
+        "presence of phlegm",
+        "True"
+      ]
+    ],
+    "implicit_symptoms": [
+      [
+        "Cough",
+        "True"
+      ],
+      [
+        "Hoarseness",
+        "True"
+      ],
+      [
+        "Wheezing",
+        "True"
+      ]
+    ],
+    "candidate_diseases": [
+      "Pediatric Diarrhea",
+      "Pediatric Bronchitis",
+      "Pediatric Dyspepsia",
+      "Upper Respiratory Tract Infection"
+    ],
+    "disease": "Pediatric Bronchitis"
+  },
+  {
+    "id": "Muzhi_40",
+    "explicit_symptoms": [
+      [
+        "Cough",
+        "True"
+      ]
+    ],
+    "implicit_symptoms": [
+      [
+        "Vomiting",
+        "True"
+      ],
+      [
+        "presence of phlegm",
+        "False"
+      ]
+    ],
+    "candidate_diseases": [
+      "Pediatric Diarrhea",
+      "Pediatric Bronchitis",
+      "Pediatric Dyspepsia",
+      "Upper Respiratory Tract Infection"
+    ],
+    "disease": "Pediatric Bronchitis"
+  },
+  {
+    "id": "Muzhi_41",
+    "explicit_symptoms": [
+      [
+        "Diarrhea",
+        "True"
+      ],
+      [
+        "Indigestion",
+        "True"
+      ]
+    ],
+    "implicit_symptoms": [
+      [
+        "Vomiting",
+        "True"
+      ],
+      [
+        "Diarrhea",
+        "True"
+      ]
+    ],
+    "candidate_diseases": [
+      "Pediatric Diarrhea",
+      "Pediatric Bronchitis",
+      "Pediatric Dyspepsia",
+      "Upper Respiratory Tract Infection"
+    ],
+    "disease": "Pediatric Dyspepsia"
+  },
+  {
+    "id": "Muzhi_42",
+    "explicit_symptoms": [
+      [
+        "Sleep Disorders",
+        "True"
+      ]
+    ],
+    "implicit_symptoms": [
+      [
+        "Diarrhea",
+        "True"
+      ],
+      [
+        "flatulence",
+        "True"
+      ],
+      [
+        "abdominal discomfort",
+        "True"
+      ],
+      [
+        "crying",
+        "False"
+      ]
+    ],
+    "candidate_diseases": [
+      "Pediatric Diarrhea",
+      "Pediatric Bronchitis",
+      "Pediatric Dyspepsia",
+      "Upper Respiratory Tract Infection"
+    ],
+    "disease": "Pediatric Dyspepsia"
+  },
+  {
+    "id": "Muzhi_43",
+    "explicit_symptoms": [
+      [
+        "Vomiting",
+        "True"
+      ],
+      [
+        "Diarrhea",
+        "True"
+      ]
+    ],
+    "implicit_symptoms": [
+      [
+        "Diarrhea",
+        "True"
+      ],
+      [
+        "Lethargy",
+        "True"
+      ],
+      [
+        "Fever",
+        "False"
+      ],
+      [
+        "Indigestion",
+        "True"
+      ]
+    ],
+    "candidate_diseases": [
+      "Pediatric Diarrhea",
+      "Pediatric Bronchitis",
+      "Pediatric Dyspepsia",
+      "Upper Respiratory Tract Infection"
+    ],
+    "disease": "Pediatric Dyspepsia"
+  },
+  {
+    "id": "Muzhi_44",
+    "explicit_symptoms": [
+      [
+        "Diarrhea",
+        "True"
+      ],
+      [
+        "Indigestion",
+        "True"
+      ],
+      [
+        "Watery stools",
+        "True"
+      ]
+    ],
+    "implicit_symptoms": [],
+    "candidate_diseases": [
+      "Pediatric Diarrhea",
+      "Pediatric Bronchitis",
+      "Pediatric Dyspepsia",
+      "Upper Respiratory Tract Infection"
+    ],
+    "disease": "Pediatric Diarrhea"
+  },
+  {
+    "id": "Muzhi_45",
+    "explicit_symptoms": [],
+    "implicit_symptoms": [
+      [
+        "Watery stools",
+        "True"
+      ],
+      [
+        "Diarrhea",
+        "True"
+      ]
+    ],
+    "candidate_diseases": [
+      "Pediatric Diarrhea",
+      "Pediatric Bronchitis",
+      "Pediatric Dyspepsia",
+      "Upper Respiratory Tract Infection"
+    ],
+    "disease": "Pediatric Diarrhea"
+  },
+  {
+    "id": "Muzhi_46",
+    "explicit_symptoms": [
+      [
+        "green stool",
+        "True"
+      ]
+    ],
+    "implicit_symptoms": [
+      [
+        "Indigestion",
+        "True"
+      ],
+      [
+        "Diarrhea",
+        "True"
+      ]
+    ],
+    "candidate_diseases": [
+      "Pediatric Diarrhea",
+      "Pediatric Bronchitis",
+      "Pediatric Dyspepsia",
+      "Upper Respiratory Tract Infection"
+    ],
+    "disease": "Pediatric Dyspepsia"
+  },
+  {
+    "id": "Muzhi_47",
+    "explicit_symptoms": [
+      [
+        "green stool",
+        "True"
+      ]
+    ],
+    "implicit_symptoms": [
+      [
+        "Diarrhea",
+        "True"
+      ],
+      [
+        "Cough",
+        "False"
+      ],
+      [
+        "Runny nose",
+        "False"
+      ],
+      [
+        "Fever",
+        "False"
+      ]
+    ],
+    "candidate_diseases": [
+      "Pediatric Diarrhea",
+      "Pediatric Bronchitis",
+      "Pediatric Dyspepsia",
+      "Upper Respiratory Tract Infection"
+    ],
+    "disease": "Pediatric Dyspepsia"
+  },
+  {
+    "id": "Muzhi_48",
+    "explicit_symptoms": [
+      [
+        "Diarrhea",
+        "True"
+      ]
+    ],
+    "implicit_symptoms": [],
+    "candidate_diseases": [
+      "Pediatric Diarrhea",
+      "Pediatric Bronchitis",
+      "Pediatric Dyspepsia",
+      "Upper Respiratory Tract Infection"
+    ],
+    "disease": "Pediatric Diarrhea"
+  },
+  {
+    "id": "Muzhi_49",
+    "explicit_symptoms": [
+      [
+        "Abdominal distension",
+        "True"
+      ],
+      [
+        "Diarrhea",
+        "True"
+      ]
+    ],
+    "implicit_symptoms": [
+      [
+        "Common Cold",
+        "False"
+      ],
+      [
+        "Mucous in stool",
+        "True"
+      ],
+      [
+        "Diarrhea",
+        "True"
+      ]
+    ],
+    "candidate_diseases": [
+      "Pediatric Diarrhea",
+      "Pediatric Bronchitis",
+      "Pediatric Dyspepsia",
+      "Upper Respiratory Tract Infection"
+    ],
+    "disease": "Pediatric Dyspepsia"
+  },
+  {
+    "id": "Muzhi_50",
+    "explicit_symptoms": [
+      [
+        "High Fever",
+        "True"
+      ]
+    ],
+    "implicit_symptoms": [
+      [
+        "Fever",
+        "True"
+      ],
+      [
+        "Runny nose",
+        "False"
+      ],
+      [
+        "Cough",
+        "True"
+      ],
+      [
+        "Sweating",
+        "True"
+      ],
+      [
+        "Cold limbs",
+        "True"
+      ],
+      [
+        "Common Cold",
+        "True"
+      ]
+    ],
+    "candidate_diseases": [
+      "Pediatric Diarrhea",
+      "Pediatric Bronchitis",
+      "Pediatric Dyspepsia",
+      "Upper Respiratory Tract Infection"
+    ],
+    "disease": "Upper Respiratory Tract Infection"
+  },
+  {
+    "id": "Muzhi_51",
+    "explicit_symptoms": [
+      [
+        "Diarrhea",
+        "True"
+      ],
+      [
+        "Cough",
+        "True"
+      ]
+    ],
+    "implicit_symptoms": [
+      [
+        "Sweating",
+        "True"
+      ]
+    ],
+    "candidate_diseases": [
+      "Pediatric Diarrhea",
+      "Pediatric Bronchitis",
+      "Pediatric Dyspepsia",
+      "Upper Respiratory Tract Infection"
+    ],
+    "disease": "Pediatric Bronchitis"
+  },
+  {
+    "id": "Muzhi_52",
+    "explicit_symptoms": [],
+    "implicit_symptoms": [
+      [
+        "Diarrhea",
+        "True"
+      ],
+      [
+        "Bloody stool",
+        "True"
+      ],
+      [
+        "Mucous in stool",
+        "True"
+      ],
+      [
+        "Indigestion",
+        "True"
+      ]
+    ],
+    "candidate_diseases": [
+      "Pediatric Diarrhea",
+      "Pediatric Bronchitis",
+      "Pediatric Dyspepsia",
+      "Upper Respiratory Tract Infection"
+    ],
+    "disease": "Pediatric Diarrhea"
+  },
+  {
+    "id": "Muzhi_53",
+    "explicit_symptoms": [
+      [
+        "Common Cold",
+        "True"
+      ],
+      [
+        "Cough",
+        "True"
+      ]
+    ],
+    "implicit_symptoms": [
+      [
+        "Bronchopneumonia",
+        "True"
+      ],
+      [
+        "Sleep Disorders",
+        "True"
+      ],
+      [
+        "presence of phlegm",
+        "True"
+      ]
+    ],
+    "candidate_diseases": [
+      "Pediatric Diarrhea",
+      "Pediatric Bronchitis",
+      "Pediatric Dyspepsia",
+      "Upper Respiratory Tract Infection"
+    ],
+    "disease": "Pediatric Bronchitis"
+  },
+  {
+    "id": "Muzhi_54",
+    "explicit_symptoms": [
+      [
+        "Diarrhea",
+        "True"
+      ],
+      [
+        "Watery stools",
+        "True"
+      ]
+    ],
+    "implicit_symptoms": [
+      [
+        "Vomiting",
+        "True"
+      ],
+      [
+        "Fever",
+        "True"
+      ]
+    ],
+    "candidate_diseases": [
+      "Pediatric Diarrhea",
+      "Pediatric Bronchitis",
+      "Pediatric Dyspepsia",
+      "Upper Respiratory Tract Infection"
+    ],
+    "disease": "Pediatric Diarrhea"
+  },
+  {
+    "id": "Muzhi_55",
+    "explicit_symptoms": [
+      [
+        "Cough",
+        "True"
+      ]
+    ],
+    "implicit_symptoms": [
+      [
+        "Diarrhea",
+        "True"
+      ],
+      [
+        "Vomiting",
+        "False"
+      ],
+      [
+        "Indigestion",
+        "True"
+      ]
+    ],
+    "candidate_diseases": [
+      "Pediatric Diarrhea",
+      "Pediatric Bronchitis",
+      "Pediatric Dyspepsia",
+      "Upper Respiratory Tract Infection"
+    ],
+    "disease": "Upper Respiratory Tract Infection"
+  },
+  {
+    "id": "Muzhi_56",
+    "explicit_symptoms": [
+      [
+        "Cough",
+        "True"
+      ]
+    ],
+    "implicit_symptoms": [
+      [
+        "presence of phlegm",
+        "True"
+      ],
+      [
+        "Nasal congestion",
+        "True"
+      ]
+    ],
+    "candidate_diseases": [
+      "Pediatric Diarrhea",
+      "Pediatric Bronchitis",
+      "Pediatric Dyspepsia",
+      "Upper Respiratory Tract Infection"
+    ],
+    "disease": "Upper Respiratory Tract Infection"
+  },
+  {
+    "id": "Muzhi_57",
+    "explicit_symptoms": [
+      [
+        "Abdominal distension",
+        "True"
+      ]
+    ],
+    "implicit_symptoms": [
+      [
+        "Vomiting",
+        "True"
+      ],
+      [
+        "Borborygmi",
+        "True"
+      ],
+      [
+        "flatulence",
+        "True"
+      ],
+      [
+        "Diarrhea",
+        "True"
+      ],
+      [
+        "Foul-smelling, acidic stool",
+        "True"
+      ]
+    ],
+    "candidate_diseases": [
+      "Pediatric Diarrhea",
+      "Pediatric Bronchitis",
+      "Pediatric Dyspepsia",
+      "Upper Respiratory Tract Infection"
+    ],
+    "disease": "Pediatric Dyspepsia"
+  },
+  {
+    "id": "Muzhi_58",
+    "explicit_symptoms": [
+      [
+        "Common Cold",
+        "True"
+      ],
+      [
+        "Cough",
+        "True"
+      ]
+    ],
+    "implicit_symptoms": [
+      [
+        "Bronchitis",
+        "True"
+      ],
+      [
+        "Wheezing",
+        "False"
+      ],
+      [
+        "Rales",
+        "True"
+      ],
+      [
+        "presence of phlegm",
+        "True"
+      ]
+    ],
+    "candidate_diseases": [
+      "Pediatric Diarrhea",
+      "Pediatric Bronchitis",
+      "Pediatric Dyspepsia",
+      "Upper Respiratory Tract Infection"
+    ],
+    "disease": "Pediatric Bronchitis"
+  },
+  {
+    "id": "Muzhi_59",
+    "explicit_symptoms": [
+      [
+        "Diarrhea",
+        "True"
+      ]
+    ],
+    "implicit_symptoms": [],
+    "candidate_diseases": [
+      "Pediatric Diarrhea",
+      "Pediatric Bronchitis",
+      "Pediatric Dyspepsia",
+      "Upper Respiratory Tract Infection"
+    ],
+    "disease": "Pediatric Diarrhea"
+  },
+  {
+    "id": "Muzhi_60",
+    "explicit_symptoms": [
+      [
+        "Constipation",
+        "True"
+      ],
+      [
+        "Diarrhea",
+        "True"
+      ]
+    ],
+    "implicit_symptoms": [
+      [
+        "Abdominal distension",
+        "False"
+      ]
+    ],
+    "candidate_diseases": [
+      "Pediatric Diarrhea",
+      "Pediatric Bronchitis",
+      "Pediatric Dyspepsia",
+      "Upper Respiratory Tract Infection"
+    ],
+    "disease": "Pediatric Diarrhea"
+  },
+  {
+    "id": "Muzhi_61",
+    "explicit_symptoms": [
+      [
+        "Watery stools",
+        "True"
+      ],
+      [
+        "Recurrent fever",
+        "True"
+      ]
+    ],
+    "implicit_symptoms": [
+      [
+        "Fever",
+        "True"
+      ],
+      [
+        "Fever Reduction",
+        "True"
+      ],
+      [
+        "Diarrhea",
+        "False"
+      ]
+    ],
+    "candidate_diseases": [
+      "Pediatric Diarrhea",
+      "Pediatric Bronchitis",
+      "Pediatric Dyspepsia",
+      "Upper Respiratory Tract Infection"
+    ],
+    "disease": "Upper Respiratory Tract Infection"
+  },
+  {
+    "id": "Muzhi_62",
+    "explicit_symptoms": [
+      [
+        "Anorexia",
+        "True"
+      ],
+      [
+        "Low-grade fever",
+        "True"
+      ],
+      [
+        "Fever",
+        "True"
+      ]
+    ],
+    "implicit_symptoms": [
+      [
+        "Fever Reduction",
+        "True"
+      ],
+      [
+        "halitosis",
+        "True"
+      ],
+      [
+        "Indigestion",
+        "True"
+      ],
+      [
+        "Pharyngitis",
+        "True"
+      ]
+    ],
+    "candidate_diseases": [
+      "Pediatric Diarrhea",
+      "Pediatric Bronchitis",
+      "Pediatric Dyspepsia",
+      "Upper Respiratory Tract Infection"
+    ],
+    "disease": "Upper Respiratory Tract Infection"
+  },
+  {
+    "id": "Muzhi_63",
+    "explicit_symptoms": [
+      [
+        "Watery stools",
+        "True"
+      ],
+      [
+        "Fever",
+        "True"
+      ],
+      [
+        "Viral infection",
+        "True"
+      ]
+    ],
+    "implicit_symptoms": [
+      [
+        "Diarrhea",
+        "True"
+      ]
+    ],
+    "candidate_diseases": [
+      "Pediatric Diarrhea",
+      "Pediatric Bronchitis",
+      "Pediatric Dyspepsia",
+      "Upper Respiratory Tract Infection"
+    ],
+    "disease": "Pediatric Diarrhea"
+  },
+  {
+    "id": "Muzhi_64",
+    "explicit_symptoms": [
+      [
+        "Cough",
+        "True"
+      ]
+    ],
+    "implicit_symptoms": [
+      [
+        "Fever",
+        "True"
+      ],
+      [
+        "Fever Reduction",
+        "True"
+      ],
+      [
+        "Runny nose",
+        "True"
+      ],
+      [
+        "sneeze",
+        "True"
+      ],
+      [
+        "Coughing up phlegm",
+        "True"
+      ],
+      [
+        "Upper Respiratory Tract Infection",
+        "True"
+      ]
+    ],
+    "candidate_diseases": [
+      "Pediatric Diarrhea",
+      "Pediatric Bronchitis",
+      "Pediatric Dyspepsia",
+      "Upper Respiratory Tract Infection"
+    ],
+    "disease": "Upper Respiratory Tract Infection"
+  },
+  {
+    "id": "Muzhi_65",
+    "explicit_symptoms": [
+      [
+        "Acute bronchitis",
+        "True"
+      ]
+    ],
+    "implicit_symptoms": [
+      [
+        "Fever",
+        "True"
+      ],
+      [
+        "Cough",
+        "True"
+      ],
+      [
+        "Coughing up phlegm",
+        "True"
+      ],
+      [
+        "sneeze",
+        "True"
+      ],
+      [
+        "Tonsillitis",
+        "True"
+      ]
+    ],
+    "candidate_diseases": [
+      "Pediatric Diarrhea",
+      "Pediatric Bronchitis",
+      "Pediatric Dyspepsia",
+      "Upper Respiratory Tract Infection"
+    ],
+    "disease": "Pediatric Bronchitis"
+  },
+  {
+    "id": "Muzhi_66",
+    "explicit_symptoms": [
+      [
+        "Diarrhea",
+        "True"
+      ],
+      [
+        "Moderate Fever",
+        "True"
+      ]
+    ],
+    "implicit_symptoms": [
+      [
+        "Fever",
+        "True"
+      ],
+      [
+        "Enteritis",
+        "True"
+      ],
+      [
+        "Abdominal pain",
+        "True"
+      ],
+      [
+        "Vomiting",
+        "True"
+      ],
+      [
+        "Diarrhea",
+        "False"
+      ],
+      [
+        "Mucous in stool",
+        "True"
+      ],
+      [
+        "Bloody stool",
+        "False"
+      ],
+      [
+        "Sweating",
+        "True"
+      ],
+      [
+        "Fever Reduction",
+        "True"
+      ]
+    ],
+    "candidate_diseases": [
+      "Pediatric Diarrhea",
+      "Pediatric Bronchitis",
+      "Pediatric Dyspepsia",
+      "Upper Respiratory Tract Infection"
+    ],
+    "disease": "Pediatric Diarrhea"
+  },
+  {
+    "id": "Muzhi_67",
+    "explicit_symptoms": [
+      [
+        "Runny nose",
+        "True"
+      ],
+      [
+        "Cough",
+        "True"
+      ],
+      [
+        "Bronchitis",
+        "True"
+      ]
+    ],
+    "implicit_symptoms": [],
+    "candidate_diseases": [
+      "Pediatric Diarrhea",
+      "Pediatric Bronchitis",
+      "Pediatric Dyspepsia",
+      "Upper Respiratory Tract Infection"
+    ],
+    "disease": "Pediatric Bronchitis"
+  },
+  {
+    "id": "Muzhi_68",
+    "explicit_symptoms": [
+      [
+        "Diarrhea",
+        "True"
+      ]
+    ],
+    "implicit_symptoms": [],
+    "candidate_diseases": [
+      "Pediatric Diarrhea",
+      "Pediatric Bronchitis",
+      "Pediatric Dyspepsia",
+      "Upper Respiratory Tract Infection"
+    ],
+    "disease": "Pediatric Diarrhea"
+  },
+  {
+    "id": "Muzhi_69",
+    "explicit_symptoms": [
+      [
+        "Moderate Fever",
+        "True"
+      ],
+      [
+        "Fever",
+        "True"
+      ]
+    ],
+    "implicit_symptoms": [
+      [
+        "Cough",
+        "True"
+      ],
+      [
+        "Hoarseness",
+        "True"
+      ],
+      [
+        "Vomiting",
+        "True"
+      ],
+      [
+        "presence of phlegm",
+        "True"
+      ]
+    ],
+    "candidate_diseases": [
+      "Pediatric Diarrhea",
+      "Pediatric Bronchitis",
+      "Pediatric Dyspepsia",
+      "Upper Respiratory Tract Infection"
+    ],
+    "disease": "Upper Respiratory Tract Infection"
+  },
+  {
+    "id": "Muzhi_70",
+    "explicit_symptoms": [
+      [
+        "Mucous in stool",
+        "True"
+      ],
+      [
+        "Borborygmi",
+        "True"
+      ],
+      [
+        "crying",
+        "True"
+      ]
+    ],
+    "implicit_symptoms": [
+      [
+        "Watery stools",
+        "True"
+      ]
+    ],
+    "candidate_diseases": [
+      "Pediatric Diarrhea",
+      "Pediatric Bronchitis",
+      "Pediatric Dyspepsia",
+      "Upper Respiratory Tract Infection"
+    ],
+    "disease": "Pediatric Diarrhea"
+  },
+  {
+    "id": "Muzhi_71",
+    "explicit_symptoms": [
+      [
+        "Diarrhea",
+        "True"
+      ],
+      [
+        "Watery stools",
+        "True"
+      ]
+    ],
+    "implicit_symptoms": [],
+    "candidate_diseases": [
+      "Pediatric Diarrhea",
+      "Pediatric Bronchitis",
+      "Pediatric Dyspepsia",
+      "Upper Respiratory Tract Infection"
+    ],
+    "disease": "Pediatric Diarrhea"
+  },
+  {
+    "id": "Muzhi_72",
+    "explicit_symptoms": [
+      [
+        "Diarrhea",
+        "True"
+      ]
+    ],
+    "implicit_symptoms": [
+      [
+        "Enteritis",
+        "False"
+      ],
+      [
+        "green stool",
+        "True"
+      ],
+      [
+        "Indigestion",
+        "True"
+      ]
+    ],
+    "candidate_diseases": [
+      "Pediatric Diarrhea",
+      "Pediatric Bronchitis",
+      "Pediatric Dyspepsia",
+      "Upper Respiratory Tract Infection"
+    ],
+    "disease": "Pediatric Diarrhea"
+  },
+  {
+    "id": "Muzhi_73",
+    "explicit_symptoms": [
+      [
+        "Diarrhea",
+        "True"
+      ],
+      [
+        "Watery stools",
+        "True"
+      ]
+    ],
+    "implicit_symptoms": [
+      [
+        "Diarrhea",
+        "True"
+      ],
+      [
+        "green stool",
+        "True"
+      ]
+    ],
+    "candidate_diseases": [
+      "Pediatric Diarrhea",
+      "Pediatric Bronchitis",
+      "Pediatric Dyspepsia",
+      "Upper Respiratory Tract Infection"
+    ],
+    "disease": "Pediatric Diarrhea"
+  },
+  {
+    "id": "Muzhi_74",
+    "explicit_symptoms": [
+      [
+        "Cough",
+        "True"
+      ],
+      [
+        "Coarse breath sounds",
+        "True"
+      ],
+      [
+        "Sweating",
+        "True"
+      ]
+    ],
+    "implicit_symptoms": [
+      [
+        "Fever",
+        "False"
+      ],
+      [
+        "presence of phlegm",
+        "True"
+      ],
+      [
+        "Upper Respiratory Tract Infection",
+        "True"
+      ]
+    ],
+    "candidate_diseases": [
+      "Pediatric Diarrhea",
+      "Pediatric Bronchitis",
+      "Pediatric Dyspepsia",
+      "Upper Respiratory Tract Infection"
+    ],
+    "disease": "Upper Respiratory Tract Infection"
+  },
+  {
+    "id": "Muzhi_75",
+    "explicit_symptoms": [
+      [
+        "Pharyngitis",
+        "True"
+      ],
+      [
+        "Bronchitis",
+        "True"
+      ],
+      [
+        "Nasal congestion",
+        "True"
+      ],
+      [
+        "Cough",
+        "True"
+      ],
+      [
+        "Runny nose",
+        "True"
+      ]
+    ],
+    "implicit_symptoms": [
+      [
+        "Wheezing",
+        "False"
+      ],
+      [
+        "Fever",
+        "False"
+      ],
+      [
+        "Diarrhea",
+        "False"
+      ],
+      [
+        "Loss of appetite",
+        "True"
+      ],
+      [
+        "crying",
+        "True"
+      ]
+    ],
+    "candidate_diseases": [
+      "Pediatric Diarrhea",
+      "Pediatric Bronchitis",
+      "Pediatric Dyspepsia",
+      "Upper Respiratory Tract Infection"
+    ],
+    "disease": "Pediatric Bronchitis"
+  },
+  {
+    "id": "Muzhi_76",
+    "explicit_symptoms": [
+      [
+        "Fever",
+        "True"
+      ],
+      [
+        "High Fever",
+        "True"
+      ],
+      [
+        "Diarrhea",
+        "True"
+      ],
+      [
+        "green stool",
+        "True"
+      ],
+      [
+        "Mucous in stool",
+        "True"
+      ]
+    ],
+    "implicit_symptoms": [],
+    "candidate_diseases": [
+      "Pediatric Diarrhea",
+      "Pediatric Bronchitis",
+      "Pediatric Dyspepsia",
+      "Upper Respiratory Tract Infection"
+    ],
+    "disease": "Pediatric Diarrhea"
+  },
+  {
+    "id": "Muzhi_77",
+    "explicit_symptoms": [
+      [
+        "Moderate Fever",
+        "True"
+      ],
+      [
+        "Anorexia",
+        "True"
+      ],
+      [
+        "Nausea",
+        "True"
+      ],
+      [
+        "Vomiting",
+        "True"
+      ]
+    ],
+    "implicit_symptoms": [
+      [
+        "Fever",
+        "True"
+      ],
+      [
+        "Cold limbs",
+        "True"
+      ]
+    ],
+    "candidate_diseases": [
+      "Pediatric Diarrhea",
+      "Pediatric Bronchitis",
+      "Pediatric Dyspepsia",
+      "Upper Respiratory Tract Infection"
+    ],
+    "disease": "Upper Respiratory Tract Infection"
+  },
+  {
+    "id": "Muzhi_78",
+    "explicit_symptoms": [
+      [
+        "Diarrhea",
+        "True"
+      ]
+    ],
+    "implicit_symptoms": [
+      [
+        "Indigestion",
+        "True"
+      ],
+      [
+        "Diarrhea",
+        "True"
+      ]
+    ],
+    "candidate_diseases": [
+      "Pediatric Diarrhea",
+      "Pediatric Bronchitis",
+      "Pediatric Dyspepsia",
+      "Upper Respiratory Tract Infection"
+    ],
+    "disease": "Pediatric Diarrhea"
+  },
+  {
+    "id": "Muzhi_79",
+    "explicit_symptoms": [
+      [
+        "Fever",
+        "True"
+      ],
+      [
+        "throat discomfort",
+        "True"
+      ],
+      [
+        "Abdominal pain",
+        "True"
+      ]
+    ],
+    "implicit_symptoms": [],
+    "candidate_diseases": [
+      "Pediatric Diarrhea",
+      "Pediatric Bronchitis",
+      "Pediatric Dyspepsia",
+      "Upper Respiratory Tract Infection"
+    ],
+    "disease": "Upper Respiratory Tract Infection"
+  },
+  {
+    "id": "Muzhi_80",
+    "explicit_symptoms": [
+      [
+        "Dry Heaving",
+        "True"
+      ],
+      [
+        "Foul-smelling, acidic stool",
+        "True"
+      ]
+    ],
+    "implicit_symptoms": [
+      [
+        "Cough",
+        "True"
+      ],
+      [
+        "Pneumonia",
+        "True"
+      ],
+      [
+        "Rales",
+        "True"
+      ],
+      [
+        "Indigestion",
+        "True"
+      ],
+      [
+        "presence of phlegm",
+        "True"
+      ]
+    ],
+    "candidate_diseases": [
+      "Pediatric Diarrhea",
+      "Pediatric Bronchitis",
+      "Pediatric Dyspepsia",
+      "Upper Respiratory Tract Infection"
+    ],
+    "disease": "Pediatric Bronchitis"
+  },
+  {
+    "id": "Muzhi_81",
+    "explicit_symptoms": [
+      [
+        "Diarrhea",
+        "True"
+      ]
+    ],
+    "implicit_symptoms": [
+      [
+        "Diarrhea",
+        "True"
+      ]
+    ],
+    "candidate_diseases": [
+      "Pediatric Diarrhea",
+      "Pediatric Bronchitis",
+      "Pediatric Dyspepsia",
+      "Upper Respiratory Tract Infection"
+    ],
+    "disease": "Pediatric Diarrhea"
+  },
+  {
+    "id": "Muzhi_82",
+    "explicit_symptoms": [
+      [
+        "Cough",
+        "True"
+      ],
+      [
+        "dry cough",
+        "True"
+      ],
+      [
+        "presence of phlegm",
+        "True"
+      ]
+    ],
+    "implicit_symptoms": [
+      [
+        "Common Cold",
+        "True"
+      ]
+    ],
+    "candidate_diseases": [
+      "Pediatric Diarrhea",
+      "Pediatric Bronchitis",
+      "Pediatric Dyspepsia",
+      "Upper Respiratory Tract Infection"
+    ],
+    "disease": "Pediatric Bronchitis"
+  },
+  {
+    "id": "Muzhi_83",
+    "explicit_symptoms": [
+      [
+        "green stool",
+        "True"
+      ],
+      [
+        "crying",
+        "True"
+      ],
+      [
+        "Anemia",
+        "True"
+      ]
+    ],
+    "implicit_symptoms": [
+      [
+        "Diarrhea",
+        "True"
+      ],
+      [
+        "Sleep Disorders",
+        "True"
+      ],
+      [
+        "Viral infection",
+        "True"
+      ]
+    ],
+    "candidate_diseases": [
+      "Pediatric Diarrhea",
+      "Pediatric Bronchitis",
+      "Pediatric Dyspepsia",
+      "Upper Respiratory Tract Infection"
+    ],
+    "disease": "Pediatric Diarrhea"
+  },
+  {
+    "id": "Muzhi_84",
+    "explicit_symptoms": [
+      [
+        "Vomiting",
+        "True"
+      ]
+    ],
+    "implicit_symptoms": [
+      [
+        "Abdominal pain",
+        "True"
+      ],
+      [
+        "Nausea",
+        "True"
+      ]
+    ],
+    "candidate_diseases": [
+      "Pediatric Diarrhea",
+      "Pediatric Bronchitis",
+      "Pediatric Dyspepsia",
+      "Upper Respiratory Tract Infection"
+    ],
+    "disease": "Pediatric Dyspepsia"
+  },
+  {
+    "id": "Muzhi_85",
+    "explicit_symptoms": [
+      [
+        "Pharyngitis",
+        "True"
+      ],
+      [
+        "Recurrent fever",
+        "True"
+      ],
+      [
+        "Sweating",
+        "True"
+      ],
+      [
+        "Fever Reduction",
+        "True"
+      ],
+      [
+        "Moderate Fever",
+        "True"
+      ]
+    ],
+    "implicit_symptoms": [
+      [
+        "Fever",
+        "True"
+      ],
+      [
+        "Common Cold",
+        "True"
+      ],
+      [
+        "Cough",
+        "True"
+      ],
+      [
+        "Cold limbs",
+        "True"
+      ],
+      [
+        "presence of phlegm",
+        "True"
+      ]
+    ],
+    "candidate_diseases": [
+      "Pediatric Diarrhea",
+      "Pediatric Bronchitis",
+      "Pediatric Dyspepsia",
+      "Upper Respiratory Tract Infection"
+    ],
+    "disease": "Pediatric Bronchitis"
+  },
+  {
+    "id": "Muzhi_86",
+    "explicit_symptoms": [
+      [
+        "High Fever",
+        "True"
+      ],
+      [
+        "Fever Reduction",
+        "True"
+      ],
+      [
+        "Vomiting",
+        "True"
+      ],
+      [
+        "Diarrhea",
+        "True"
+      ]
+    ],
+    "implicit_symptoms": [
+      [
+        "Nasal congestion",
+        "False"
+      ],
+      [
+        "Runny nose",
+        "True"
+      ],
+      [
+        "Cough",
+        "False"
+      ],
+      [
+        "Coughing up phlegm",
+        "False"
+      ],
+      [
+        "Common Cold",
+        "True"
+      ],
+      [
+        "Fever",
+        "True"
+      ],
+      [
+        "Diarrhea",
+        "True"
+      ]
+    ],
+    "candidate_diseases": [
+      "Pediatric Diarrhea",
+      "Pediatric Bronchitis",
+      "Pediatric Dyspepsia",
+      "Upper Respiratory Tract Infection"
+    ],
+    "disease": "Pediatric Diarrhea"
+  },
+  {
+    "id": "Muzhi_87",
+    "explicit_symptoms": [
+      [
+        "Common Cold",
+        "True"
+      ],
+      [
+        "Cough",
+        "True"
+      ],
+      [
+        "halitosis",
+        "True"
+      ]
+    ],
+    "implicit_symptoms": [
+      [
+        "Runny nose",
+        "True"
+      ],
+      [
+        "Nasal congestion",
+        "True"
+      ],
+      [
+        "sneeze",
+        "False"
+      ],
+      [
+        "Upper Respiratory Tract Infection",
+        "True"
+      ],
+      [
+        "presence of phlegm",
+        "True"
+      ]
+    ],
+    "candidate_diseases": [
+      "Pediatric Diarrhea",
+      "Pediatric Bronchitis",
+      "Pediatric Dyspepsia",
+      "Upper Respiratory Tract Infection"
+    ],
+    "disease": "Pediatric Bronchitis"
+  },
+  {
+    "id": "Muzhi_88",
+    "explicit_symptoms": [
+      [
+        "Low-grade fever",
+        "True"
+      ],
+      [
+        "Cough",
+        "True"
+      ]
+    ],
+    "implicit_symptoms": [
+      [
+        "Fever",
+        "True"
+      ],
+      [
+        "Runny nose",
+        "False"
+      ],
+      [
+        "Bronchitis",
+        "True"
+      ],
+      [
+        "Lethargy",
+        "True"
+      ],
+      [
+        "dry cough",
+        "True"
+      ],
+      [
+        "presence of phlegm",
+        "True"
+      ]
+    ],
+    "candidate_diseases": [
+      "Pediatric Diarrhea",
+      "Pediatric Bronchitis",
+      "Pediatric Dyspepsia",
+      "Upper Respiratory Tract Infection"
+    ],
+    "disease": "Pediatric Bronchitis"
+  },
+  {
+    "id": "Muzhi_89",
+    "explicit_symptoms": [
+      [
+        "Recurrent fever",
+        "True"
+      ],
+      [
+        "Cough",
+        "True"
+      ]
+    ],
+    "implicit_symptoms": [
+      [
+        "Fever",
+        "True"
+      ],
+      [
+        "Moderate Fever",
+        "True"
+      ],
+      [
+        "presence of phlegm",
+        "True"
+      ]
+    ],
+    "candidate_diseases": [
+      "Pediatric Diarrhea",
+      "Pediatric Bronchitis",
+      "Pediatric Dyspepsia",
+      "Upper Respiratory Tract Infection"
+    ],
+    "disease": "Upper Respiratory Tract Infection"
+  },
+  {
+    "id": "Muzhi_90",
+    "explicit_symptoms": [
+      [
+        "Diarrhea",
+        "True"
+      ]
+    ],
+    "implicit_symptoms": [
+      [
+        "Diarrhea",
+        "True"
+      ]
+    ],
+    "candidate_diseases": [
+      "Pediatric Diarrhea",
+      "Pediatric Bronchitis",
+      "Pediatric Dyspepsia",
+      "Upper Respiratory Tract Infection"
+    ],
+    "disease": "Pediatric Diarrhea"
+  },
+  {
+    "id": "Muzhi_91",
+    "explicit_symptoms": [
+      [
+        "Common Cold",
+        "True"
+      ],
+      [
+        "Runny nose",
+        "True"
+      ],
+      [
+        "Cough",
+        "True"
+      ],
+      [
+        "presence of phlegm",
+        "True"
+      ]
+    ],
+    "implicit_symptoms": [
+      [
+        "Upper Respiratory Tract Infection",
+        "True"
+      ]
+    ],
+    "candidate_diseases": [
+      "Pediatric Diarrhea",
+      "Pediatric Bronchitis",
+      "Pediatric Dyspepsia",
+      "Upper Respiratory Tract Infection"
+    ],
+    "disease": "Upper Respiratory Tract Infection"
+  },
+  {
+    "id": "Muzhi_92",
+    "explicit_symptoms": [
+      [
+        "Anemia",
+        "True"
+      ],
+      [
+        "Diarrhea",
+        "True"
+      ]
+    ],
+    "implicit_symptoms": [
+      [
+        "green stool",
+        "True"
+      ]
+    ],
+    "candidate_diseases": [
+      "Pediatric Diarrhea",
+      "Pediatric Bronchitis",
+      "Pediatric Dyspepsia",
+      "Upper Respiratory Tract Infection"
+    ],
+    "disease": "Pediatric Diarrhea"
+  },
+  {
+    "id": "Muzhi_93",
+    "explicit_symptoms": [
+      [
+        "sneeze",
+        "True"
+      ],
+      [
+        "Runny nose",
+        "True"
+      ],
+      [
+        "Coughing up phlegm",
+        "True"
+      ],
+      [
+        "Low-grade fever",
+        "True"
+      ]
+    ],
+    "implicit_symptoms": [
+      [
+        "Diarrhea",
+        "False"
+      ],
+      [
+        "Eczema",
+        "True"
+      ],
+      [
+        "Acute bronchitis",
+        "True"
+      ],
+      [
+        "Fever",
+        "True"
+      ],
+      [
+        "Vomiting",
+        "True"
+      ],
+      [
+        "Rales",
+        "True"
+      ],
+      [
+        "Recurrent fever",
+        "True"
+      ],
+      [
+        "Fever Reduction",
+        "True"
+      ]
+    ],
+    "candidate_diseases": [
+      "Pediatric Diarrhea",
+      "Pediatric Bronchitis",
+      "Pediatric Dyspepsia",
+      "Upper Respiratory Tract Infection"
+    ],
+    "disease": "Pediatric Bronchitis"
+  },
+  {
+    "id": "Muzhi_94",
+    "explicit_symptoms": [
+      [
+        "Diarrhea",
+        "True"
+      ]
+    ],
+    "implicit_symptoms": [
+      [
+        "Abdominal distension",
+        "False"
+      ]
+    ],
+    "candidate_diseases": [
+      "Pediatric Diarrhea",
+      "Pediatric Bronchitis",
+      "Pediatric Dyspepsia",
+      "Upper Respiratory Tract Infection"
+    ],
+    "disease": "Pediatric Diarrhea"
+  },
+  {
+    "id": "Muzhi_95",
+    "explicit_symptoms": [
+      [
+        "green stool",
+        "True"
+      ]
+    ],
+    "implicit_symptoms": [
+      [
+        "Diarrhea",
+        "False"
+      ],
+      [
+        "Mucous in stool",
+        "False"
+      ],
+      [
+        "Bloody stool",
+        "False"
+      ],
+      [
+        "Runny nose",
+        "False"
+      ],
+      [
+        "Nausea",
+        "False"
+      ],
+      [
+        "Vomiting",
+        "False"
+      ],
+      [
+        "Cough",
+        "False"
+      ],
+      [
+        "Fever",
+        "False"
+      ]
+    ],
+    "candidate_diseases": [
+      "Pediatric Diarrhea",
+      "Pediatric Bronchitis",
+      "Pediatric Dyspepsia",
+      "Upper Respiratory Tract Infection"
+    ],
+    "disease": "Pediatric Dyspepsia"
+  },
+  {
+    "id": "Muzhi_96",
+    "explicit_symptoms": [
+      [
+        "Anorexia",
+        "True"
+      ],
+      [
+        "Constipation",
+        "True"
+      ]
+    ],
+    "implicit_symptoms": [
+      [
+        "Indigestion",
+        "True"
+      ]
+    ],
+    "candidate_diseases": [
+      "Pediatric Diarrhea",
+      "Pediatric Bronchitis",
+      "Pediatric Dyspepsia",
+      "Upper Respiratory Tract Infection"
+    ],
+    "disease": "Pediatric Dyspepsia"
+  },
+  {
+    "id": "Muzhi_97",
+    "explicit_symptoms": [
+      [
+        "Rales",
+        "True"
+      ],
+      [
+        "Cough",
+        "True"
+      ],
+      [
+        "Fever",
+        "True"
+      ],
+      [
+        "presence of phlegm",
+        "True"
+      ]
+    ],
+    "implicit_symptoms": [
+      [
+        "Wheezing",
+        "False"
+      ],
+      [
+        "High Fever",
+        "False"
+      ]
+    ],
+    "candidate_diseases": [
+      "Pediatric Diarrhea",
+      "Pediatric Bronchitis",
+      "Pediatric Dyspepsia",
+      "Upper Respiratory Tract Infection"
+    ],
+    "disease": "Pediatric Bronchitis"
+  },
+  {
+    "id": "Muzhi_98",
+    "explicit_symptoms": [
+      [
+        "Moderate Fever",
+        "True"
+      ],
+      [
+        "High Fever",
+        "True"
+      ]
+    ],
+    "implicit_symptoms": [
+      [
+        "Fever",
+        "True"
+      ],
+      [
+        "Cough",
+        "False"
+      ],
+      [
+        "Runny nose",
+        "False"
+      ],
+      [
+        "Common Cold",
+        "True"
+      ],
+      [
+        "Nasal congestion",
+        "False"
+      ],
+      [
+        "sneeze",
+        "False"
+      ],
+      [
+        "Low-grade fever",
+        "True"
+      ]
+    ],
+    "candidate_diseases": [
+      "Pediatric Diarrhea",
+      "Pediatric Bronchitis",
+      "Pediatric Dyspepsia",
+      "Upper Respiratory Tract Infection"
+    ],
+    "disease": "Upper Respiratory Tract Infection"
+  },
+  {
+    "id": "Muzhi_99",
+    "explicit_symptoms": [
+      [
+        "Runny nose",
+        "True"
+      ],
+      [
+        "Diarrhea",
+        "True"
+      ],
+      [
+        "Loss of appetite",
+        "True"
+      ],
+      [
+        "Cough",
+        "True"
+      ],
+      [
+        "Wheezing",
+        "True"
+      ],
+      [
+        "crying",
+        "True"
+      ]
+    ],
+    "implicit_symptoms": [
+      [
+        "Hoarseness",
+        "True"
+      ],
+      [
+        "Tracheitis",
+        "True"
+      ],
+      [
+        "Pneumonia",
+        "False"
+      ],
+      [
+        "Common Cold",
+        "True"
+      ],
+      [
+        "presence of phlegm",
+        "True"
+      ]
+    ],
+    "candidate_diseases": [
+      "Pediatric Diarrhea",
+      "Pediatric Bronchitis",
+      "Pediatric Dyspepsia",
+      "Upper Respiratory Tract Infection"
+    ],
+    "disease": "Pediatric Bronchitis"
+  },
+  {
+    "id": "Muzhi_100",
+    "explicit_symptoms": [],
+    "implicit_symptoms": [
+      [
+        "Watery stools",
+        "True"
+      ],
+      [
+        "Diarrhea",
+        "True"
+      ]
+    ],
+    "candidate_diseases": [
+      "Pediatric Diarrhea",
+      "Pediatric Bronchitis",
+      "Pediatric Dyspepsia",
+      "Upper Respiratory Tract Infection"
+    ],
+    "disease": "Pediatric Diarrhea"
+  },
+  {
+    "id": "Muzhi_101",
+    "explicit_symptoms": [
+      [
+        "Runny nose",
+        "True"
+      ],
+      [
+        "Nasal congestion",
+        "True"
+      ],
+      [
+        "Cough",
+        "True"
+      ],
+      [
+        "sneeze",
+        "True"
+      ],
+      [
+        "Common Cold",
+        "True"
+      ]
+    ],
+    "implicit_symptoms": [
+      [
+        "Fever",
+        "False"
+      ],
+      [
+        "Diarrhea",
+        "False"
+      ],
+      [
+        "Rales",
+        "False"
+      ]
+    ],
+    "candidate_diseases": [
+      "Pediatric Diarrhea",
+      "Pediatric Bronchitis",
+      "Pediatric Dyspepsia",
+      "Upper Respiratory Tract Infection"
+    ],
+    "disease": "Upper Respiratory Tract Infection"
+  },
+  {
+    "id": "Muzhi_102",
+    "explicit_symptoms": [
+      [
+        "Fever",
+        "True"
+      ],
+      [
+        "Cough",
+        "True"
+      ],
+      [
+        "dry cough",
+        "True"
+      ],
+      [
+        "Fever Reduction",
+        "True"
+      ],
+      [
+        "Tracheitis",
+        "True"
+      ],
+      [
+        "presence of phlegm",
+        "True"
+      ]
+    ],
+    "implicit_symptoms": [
+      [
+        "Moderate Fever",
+        "True"
+      ]
+    ],
+    "candidate_diseases": [
+      "Pediatric Diarrhea",
+      "Pediatric Bronchitis",
+      "Pediatric Dyspepsia",
+      "Upper Respiratory Tract Infection"
+    ],
+    "disease": "Pediatric Bronchitis"
+  },
+  {
+    "id": "Muzhi_103",
+    "explicit_symptoms": [
+      [
+        "High Fever",
+        "True"
+      ],
+      [
+        "Moderate Fever",
+        "True"
+      ]
+    ],
+    "implicit_symptoms": [
+      [
+        "Bacterial Infection",
+        "True"
+      ],
+      [
+        "Fever",
+        "True"
+      ],
+      [
+        "Runny nose",
+        "True"
+      ],
+      [
+        "Cough",
+        "True"
+      ],
+      [
+        "presence of phlegm",
+        "True"
+      ]
+    ],
+    "candidate_diseases": [
+      "Pediatric Diarrhea",
+      "Pediatric Bronchitis",
+      "Pediatric Dyspepsia",
+      "Upper Respiratory Tract Infection"
+    ],
+    "disease": "Upper Respiratory Tract Infection"
+  },
+  {
+    "id": "Muzhi_104",
+    "explicit_symptoms": [
+      [
+        "Cough",
+        "True"
+      ],
+      [
+        "Fever",
+        "True"
+      ],
+      [
+        "Moderate Fever",
+        "True"
+      ]
+    ],
+    "implicit_symptoms": [
+      [
+        "presence of phlegm",
+        "True"
+      ]
+    ],
+    "candidate_diseases": [
+      "Pediatric Diarrhea",
+      "Pediatric Bronchitis",
+      "Pediatric Dyspepsia",
+      "Upper Respiratory Tract Infection"
+    ],
+    "disease": "Upper Respiratory Tract Infection"
+  },
+  {
+    "id": "Muzhi_105",
+    "explicit_symptoms": [],
+    "implicit_symptoms": [
+      [
+        "Vomiting",
+        "True"
+      ],
+      [
+        "Indigestion",
+        "True"
+      ],
+      [
+        "Dry Heaving",
+        "True"
+      ]
+    ],
+    "candidate_diseases": [
+      "Pediatric Diarrhea",
+      "Pediatric Bronchitis",
+      "Pediatric Dyspepsia",
+      "Upper Respiratory Tract Infection"
+    ],
+    "disease": "Pediatric Dyspepsia"
+  },
+  {
+    "id": "Muzhi_106",
+    "explicit_symptoms": [
+      [
+        "Vomiting",
+        "True"
+      ]
+    ],
+    "implicit_symptoms": [
+      [
+        "crying",
+        "False"
+      ],
+      [
+        "Loss of appetite",
+        "True"
+      ],
+      [
+        "Diarrhea",
+        "True"
+      ],
+      [
+        "Watery stools",
+        "True"
+      ],
+      [
+        "flatulence",
+        "True"
+      ],
+      [
+        "Dry Heaving",
+        "True"
+      ],
+      [
+        "Cough",
+        "True"
+      ]
+    ],
+    "candidate_diseases": [
+      "Pediatric Diarrhea",
+      "Pediatric Bronchitis",
+      "Pediatric Dyspepsia",
+      "Upper Respiratory Tract Infection"
+    ],
+    "disease": "Pediatric Dyspepsia"
+  },
+  {
+    "id": "Muzhi_107",
+    "explicit_symptoms": [
+      [
+        "Cough",
+        "True"
+      ]
+    ],
+    "implicit_symptoms": [
+      [
+        "Runny nose",
+        "True"
+      ]
+    ],
+    "candidate_diseases": [
+      "Pediatric Diarrhea",
+      "Pediatric Bronchitis",
+      "Pediatric Dyspepsia",
+      "Upper Respiratory Tract Infection"
+    ],
+    "disease": "Pediatric Bronchitis"
+  },
+  {
+    "id": "Muzhi_108",
+    "explicit_symptoms": [],
+    "implicit_symptoms": [
+      [
+        "Watery stools",
+        "True"
+      ],
+      [
+        "Diarrhea",
+        "True"
+      ],
+      [
+        "Fever",
+        "True"
+      ]
+    ],
+    "candidate_diseases": [
+      "Pediatric Diarrhea",
+      "Pediatric Bronchitis",
+      "Pediatric Dyspepsia",
+      "Upper Respiratory Tract Infection"
+    ],
+    "disease": "Pediatric Dyspepsia"
+  },
+  {
+    "id": "Muzhi_109",
+    "explicit_symptoms": [
+      [
+        "Diarrhea",
+        "True"
+      ],
+      [
+        "green stool",
+        "True"
+      ],
+      [
+        "Indigestion",
+        "True"
+      ],
+      [
+        "Low-grade fever",
+        "True"
+      ],
+      [
+        "Watery stools",
+        "True"
+      ],
+      [
+        "Abdominal distension",
+        "True"
+      ]
+    ],
+    "implicit_symptoms": [
+      [
+        "Common Cold",
+        "True"
+      ],
+      [
+        "Nasal congestion",
+        "False"
+      ],
+      [
+        "Runny nose",
+        "False"
+      ],
+      [
+        "Cough",
+        "False"
+      ],
+      [
+        "sneeze",
+        "True"
+      ]
+    ],
+    "candidate_diseases": [
+      "Pediatric Diarrhea",
+      "Pediatric Bronchitis",
+      "Pediatric Dyspepsia",
+      "Upper Respiratory Tract Infection"
+    ],
+    "disease": "Pediatric Dyspepsia"
+  },
+  {
+    "id": "Muzhi_110",
+    "explicit_symptoms": [],
+    "implicit_symptoms": [
+      [
+        "Diarrhea",
+        "True"
+      ],
+      [
+        "Indigestion",
+        "True"
+      ],
+      [
+        "Fever",
+        "True"
+      ]
+    ],
+    "candidate_diseases": [
+      "Pediatric Diarrhea",
+      "Pediatric Bronchitis",
+      "Pediatric Dyspepsia",
+      "Upper Respiratory Tract Infection"
+    ],
+    "disease": "Pediatric Dyspepsia"
+  },
+  {
+    "id": "Muzhi_111",
+    "explicit_symptoms": [
+      [
+        "Constipation",
+        "True"
+      ]
+    ],
+    "implicit_symptoms": [
+      [
+        "Bloody stool",
+        "True"
+      ],
+      [
+        "Foul-smelling, acidic stool",
+        "False"
+      ],
+      [
+        "Indigestion",
+        "True"
+      ]
+    ],
+    "candidate_diseases": [
+      "Pediatric Diarrhea",
+      "Pediatric Bronchitis",
+      "Pediatric Dyspepsia",
+      "Upper Respiratory Tract Infection"
+    ],
+    "disease": "Pediatric Dyspepsia"
+  },
+  {
+    "id": "Muzhi_112",
+    "explicit_symptoms": [
+      [
+        "Diarrhea",
+        "True"
+      ],
+      [
+        "Moderate Fever",
+        "True"
+      ]
+    ],
+    "implicit_symptoms": [
+      [
+        "Fever",
+        "True"
+      ],
+      [
+        "Common Cold",
+        "True"
+      ],
+      [
+        "Vomiting",
+        "True"
+      ],
+      [
+        "presence of phlegm",
+        "True"
+      ],
+      [
+        "Runny nose",
+        "True"
+      ],
+      [
+        "Watery stools",
+        "True"
+      ],
+      [
+        "Bloody stool",
+        "True"
+      ]
+    ],
+    "candidate_diseases": [
+      "Pediatric Diarrhea",
+      "Pediatric Bronchitis",
+      "Pediatric Dyspepsia",
+      "Upper Respiratory Tract Infection"
+    ],
+    "disease": "Pediatric Diarrhea"
+  },
+  {
+    "id": "Muzhi_113",
+    "explicit_symptoms": [
+      [
+        "Diarrhea",
+        "True"
+      ],
+      [
+        "Watery stools",
+        "True"
+      ]
+    ],
+    "implicit_symptoms": [
+      [
+        "Indigestion",
+        "True"
+      ]
+    ],
+    "candidate_diseases": [
+      "Pediatric Diarrhea",
+      "Pediatric Bronchitis",
+      "Pediatric Dyspepsia",
+      "Upper Respiratory Tract Infection"
+    ],
+    "disease": "Pediatric Diarrhea"
+  },
+  {
+    "id": "Muzhi_114",
+    "explicit_symptoms": [
+      [
+        "Dry Heaving",
+        "True"
+      ]
+    ],
+    "implicit_symptoms": [],
+    "candidate_diseases": [
+      "Pediatric Diarrhea",
+      "Pediatric Bronchitis",
+      "Pediatric Dyspepsia",
+      "Upper Respiratory Tract Infection"
+    ],
+    "disease": "Pediatric Dyspepsia"
+  },
+  {
+    "id": "Muzhi_115",
+    "explicit_symptoms": [
+      [
+        "Diarrhea",
+        "True"
+      ]
+    ],
+    "implicit_symptoms": [
+      [
+        "Diarrhea",
+        "True"
+      ],
+      [
+        "Mucous in stool",
+        "True"
+      ],
+      [
+        "Reduced Urine Output",
+        "False"
+      ]
+    ],
+    "candidate_diseases": [
+      "Pediatric Diarrhea",
+      "Pediatric Bronchitis",
+      "Pediatric Dyspepsia",
+      "Upper Respiratory Tract Infection"
+    ],
+    "disease": "Pediatric Dyspepsia"
+  },
+  {
+    "id": "Muzhi_116",
+    "explicit_symptoms": [
+      [
+        "Diarrhea",
+        "True"
+      ],
+      [
+        "Watery stools",
+        "True"
+      ],
+      [
+        "Indigestion",
+        "True"
+      ]
+    ],
+    "implicit_symptoms": [
+      [
+        "green stool",
+        "False"
+      ]
+    ],
+    "candidate_diseases": [
+      "Pediatric Diarrhea",
+      "Pediatric Bronchitis",
+      "Pediatric Dyspepsia",
+      "Upper Respiratory Tract Infection"
+    ],
+    "disease": "Pediatric Diarrhea"
+  },
+  {
+    "id": "Muzhi_117",
+    "explicit_symptoms": [
+      [
+        "Fever",
+        "True"
+      ],
+      [
+        "Diarrhea",
+        "True"
+      ]
+    ],
+    "implicit_symptoms": [
+      [
+        "Low-grade fever",
+        "True"
+      ],
+      [
+        "Moderate Fever",
+        "True"
+      ],
+      [
+        "Diarrhea",
+        "True"
+      ],
+      [
+        "green stool",
+        "True"
+      ],
+      [
+        "Common Cold",
+        "True"
+      ],
+      [
+        "Runny nose",
+        "True"
+      ]
+    ],
+    "candidate_diseases": [
+      "Pediatric Diarrhea",
+      "Pediatric Bronchitis",
+      "Pediatric Dyspepsia",
+      "Upper Respiratory Tract Infection"
+    ],
+    "disease": "Pediatric Dyspepsia"
+  },
+  {
+    "id": "Muzhi_118",
+    "explicit_symptoms": [
+      [
+        "Diarrhea",
+        "True"
+      ]
+    ],
+    "implicit_symptoms": [
+      [
+        "Fever",
+        "False"
+      ],
+      [
+        "Cough",
+        "False"
+      ],
+      [
+        "Runny nose",
+        "False"
+      ]
+    ],
+    "candidate_diseases": [
+      "Pediatric Diarrhea",
+      "Pediatric Bronchitis",
+      "Pediatric Dyspepsia",
+      "Upper Respiratory Tract Infection"
+    ],
+    "disease": "Pediatric Diarrhea"
+  },
+  {
+    "id": "Muzhi_119",
+    "explicit_symptoms": [
+      [
+        "Fever",
+        "True"
+      ],
+      [
+        "Cough",
+        "True"
+      ]
+    ],
+    "implicit_symptoms": [
+      [
+        "High Fever",
+        "True"
+      ],
+      [
+        "Vomiting",
+        "False"
+      ],
+      [
+        "Common Cold",
+        "True"
+      ],
+      [
+        "Lethargy",
+        "True"
+      ],
+      [
+        "Fever Reduction",
+        "True"
+      ],
+      [
+        "Abdominal pain",
+        "True"
+      ],
+      [
+        "presence of phlegm",
+        "True"
+      ]
+    ],
+    "candidate_diseases": [
+      "Pediatric Diarrhea",
+      "Pediatric Bronchitis",
+      "Pediatric Dyspepsia",
+      "Upper Respiratory Tract Infection"
+    ],
+    "disease": "Pediatric Bronchitis"
+  },
+  {
+    "id": "Muzhi_120",
+    "explicit_symptoms": [
+      [
+        "flatulence",
+        "True"
+      ]
+    ],
+    "implicit_symptoms": [
+      [
+        "Fever",
+        "False"
+      ],
+      [
+        "Diarrhea",
+        "True"
+      ],
+      [
+        "Watery stools",
+        "True"
+      ]
+    ],
+    "candidate_diseases": [
+      "Pediatric Diarrhea",
+      "Pediatric Bronchitis",
+      "Pediatric Dyspepsia",
+      "Upper Respiratory Tract Infection"
+    ],
+    "disease": "Pediatric Dyspepsia"
+  },
+  {
+    "id": "Muzhi_121",
+    "explicit_symptoms": [
+      [
+        "Fever",
+        "True"
+      ],
+      [
+        "Somnolence",
+        "True"
+      ]
+    ],
+    "implicit_symptoms": [
+      [
+        "Cough",
+        "True"
+      ],
+      [
+        "Sleep Disorders",
+        "True"
+      ],
+      [
+        "Fever Reduction",
+        "True"
+      ],
+      [
+        "Lethargy",
+        "True"
+      ],
+      [
+        "Vomiting",
+        "False"
+      ],
+      [
+        "Recurrent fever",
+        "True"
+      ],
+      [
+        "Bronchitis",
+        "True"
+      ],
+      [
+        "Loss of appetite",
+        "True"
+      ]
+    ],
+    "candidate_diseases": [
+      "Pediatric Diarrhea",
+      "Pediatric Bronchitis",
+      "Pediatric Dyspepsia",
+      "Upper Respiratory Tract Infection"
+    ],
+    "disease": "Pediatric Bronchitis"
+  },
+  {
+    "id": "Muzhi_122",
+    "explicit_symptoms": [
+      [
+        "Diarrhea",
+        "True"
+      ]
+    ],
+    "implicit_symptoms": [
+      [
+        "Watery stools",
+        "True"
+      ],
+      [
+        "Indigestion",
+        "True"
+      ],
+      [
+        "Abdominal distension",
+        "True"
+      ],
+      [
+        "Vomiting",
+        "True"
+      ]
+    ],
+    "candidate_diseases": [
+      "Pediatric Diarrhea",
+      "Pediatric Bronchitis",
+      "Pediatric Dyspepsia",
+      "Upper Respiratory Tract Infection"
+    ],
+    "disease": "Pediatric Diarrhea"
+  },
+  {
+    "id": "Muzhi_123",
+    "explicit_symptoms": [
+      [
+        "Diarrhea",
+        "True"
+      ]
+    ],
+    "implicit_symptoms": [
+      [
+        "Diarrhea",
+        "True"
+      ]
+    ],
+    "candidate_diseases": [
+      "Pediatric Diarrhea",
+      "Pediatric Bronchitis",
+      "Pediatric Dyspepsia",
+      "Upper Respiratory Tract Infection"
+    ],
+    "disease": "Pediatric Dyspepsia"
+  },
+  {
+    "id": "Muzhi_124",
+    "explicit_symptoms": [
+      [
+        "Cough",
+        "True"
+      ]
+    ],
+    "implicit_symptoms": [],
+    "candidate_diseases": [
+      "Pediatric Diarrhea",
+      "Pediatric Bronchitis",
+      "Pediatric Dyspepsia",
+      "Upper Respiratory Tract Infection"
+    ],
+    "disease": "Pediatric Bronchitis"
+  },
+  {
+    "id": "Muzhi_125",
+    "explicit_symptoms": [
+      [
+        "Cough",
+        "True"
+      ],
+      [
+        "Vomiting",
+        "True"
+      ],
+      [
+        "crying",
+        "True"
+      ]
+    ],
+    "implicit_symptoms": [
+      [
+        "Fever",
+        "False"
+      ],
+      [
+        "Runny nose",
+        "True"
+      ],
+      [
+        "Common Cold",
+        "True"
+      ],
+      [
+        "Pneumonia",
+        "True"
+      ]
+    ],
+    "candidate_diseases": [
+      "Pediatric Diarrhea",
+      "Pediatric Bronchitis",
+      "Pediatric Dyspepsia",
+      "Upper Respiratory Tract Infection"
+    ],
+    "disease": "Upper Respiratory Tract Infection"
+  },
+  {
+    "id": "Muzhi_126",
+    "explicit_symptoms": [
+      [
+        "Diarrhea",
+        "True"
+      ],
+      [
+        "Bloody stool",
+        "True"
+      ]
+    ],
+    "implicit_symptoms": [
+      [
+        "Fever",
+        "False"
+      ],
+      [
+        "Vomiting",
+        "False"
+      ]
+    ],
+    "candidate_diseases": [
+      "Pediatric Diarrhea",
+      "Pediatric Bronchitis",
+      "Pediatric Dyspepsia",
+      "Upper Respiratory Tract Infection"
+    ],
+    "disease": "Pediatric Diarrhea"
+  },
+  {
+    "id": "Muzhi_127",
+    "explicit_symptoms": [
+      [
+        "Fever",
+        "True"
+      ],
+      [
+        "Diarrhea",
+        "True"
+      ]
+    ],
+    "implicit_symptoms": [
+      [
+        "Diarrhea",
+        "True"
+      ],
+      [
+        "Anorexia",
+        "True"
+      ],
+      [
+        "Abdominal distension",
+        "True"
+      ],
+      [
+        "Vomiting",
+        "True"
+      ],
+      [
+        "Runny nose",
+        "True"
+      ],
+      [
+        "Cough",
+        "True"
+      ]
+    ],
+    "candidate_diseases": [
+      "Pediatric Diarrhea",
+      "Pediatric Bronchitis",
+      "Pediatric Dyspepsia",
+      "Upper Respiratory Tract Infection"
+    ],
+    "disease": "Pediatric Diarrhea"
+  },
+  {
+    "id": "Muzhi_128",
+    "explicit_symptoms": [
+      [
+        "High Fever",
+        "True"
+      ],
+      [
+        "Fever Reduction",
+        "True"
+      ],
+      [
+        "Diarrhea",
+        "True"
+      ]
+    ],
+    "implicit_symptoms": [
+      [
+        "Diarrhea",
+        "True"
+      ],
+      [
+        "Bloody stool",
+        "False"
+      ],
+      [
+        "Vomiting",
+        "False"
+      ],
+      [
+        "Cough",
+        "True"
+      ],
+      [
+        "Dry Heaving",
+        "True"
+      ]
+    ],
+    "candidate_diseases": [
+      "Pediatric Diarrhea",
+      "Pediatric Bronchitis",
+      "Pediatric Dyspepsia",
+      "Upper Respiratory Tract Infection"
+    ],
+    "disease": "Pediatric Diarrhea"
+  },
+  {
+    "id": "Muzhi_129",
+    "explicit_symptoms": [
+      [
+        "Indigestion",
+        "True"
+      ],
+      [
+        "Diarrhea",
+        "True"
+      ]
+    ],
+    "implicit_symptoms": [
+      [
+        "Watery stools",
+        "True"
+      ]
+    ],
+    "candidate_diseases": [
+      "Pediatric Diarrhea",
+      "Pediatric Bronchitis",
+      "Pediatric Dyspepsia",
+      "Upper Respiratory Tract Infection"
+    ],
+    "disease": "Pediatric Dyspepsia"
+  },
+  {
+    "id": "Muzhi_130",
+    "explicit_symptoms": [
+      [
+        "Cough",
+        "True"
+      ],
+      [
+        "presence of phlegm",
+        "True"
+      ]
+    ],
+    "implicit_symptoms": [
+      [
+        "Fever",
+        "False"
+      ],
+      [
+        "Loss of appetite",
+        "True"
+      ]
+    ],
+    "candidate_diseases": [
+      "Pediatric Diarrhea",
+      "Pediatric Bronchitis",
+      "Pediatric Dyspepsia",
+      "Upper Respiratory Tract Infection"
+    ],
+    "disease": "Pediatric Bronchitis"
+  },
+  {
+    "id": "Muzhi_131",
+    "explicit_symptoms": [
+      [
+        "Common Cold",
+        "True"
+      ],
+      [
+        "Runny nose",
+        "True"
+      ]
+    ],
+    "implicit_symptoms": [
+      [
+        "Fever",
+        "False"
+      ]
+    ],
+    "candidate_diseases": [
+      "Pediatric Diarrhea",
+      "Pediatric Bronchitis",
+      "Pediatric Dyspepsia",
+      "Upper Respiratory Tract Infection"
+    ],
+    "disease": "Upper Respiratory Tract Infection"
+  },
+  {
+    "id": "Muzhi_132",
+    "explicit_symptoms": [
+      [
+        "Fever",
+        "True"
+      ],
+      [
+        "Fever Reduction",
+        "True"
+      ],
+      [
+        "Moderate Fever",
+        "True"
+      ]
+    ],
+    "implicit_symptoms": [
+      [
+        "Common Cold",
+        "True"
+      ]
+    ],
+    "candidate_diseases": [
+      "Pediatric Diarrhea",
+      "Pediatric Bronchitis",
+      "Pediatric Dyspepsia",
+      "Upper Respiratory Tract Infection"
+    ],
+    "disease": "Upper Respiratory Tract Infection"
+  },
+  {
+    "id": "Muzhi_133",
+    "explicit_symptoms": [
+      [
+        "Sweating",
+        "True"
+      ]
+    ],
+    "implicit_symptoms": [
+      [
+        "Runny nose",
+        "False"
+      ],
+      [
+        "Nasal congestion",
+        "True"
+      ],
+      [
+        "Diarrhea",
+        "True"
+      ],
+      [
+        "Enteritis",
+        "True"
+      ]
+    ],
+    "candidate_diseases": [
+      "Pediatric Diarrhea",
+      "Pediatric Bronchitis",
+      "Pediatric Dyspepsia",
+      "Upper Respiratory Tract Infection"
+    ],
+    "disease": "Pediatric Diarrhea"
+  },
+  {
+    "id": "Muzhi_134",
+    "explicit_symptoms": [
+      [
+        "Diarrhea",
+        "True"
+      ]
+    ],
+    "implicit_symptoms": [],
+    "candidate_diseases": [
+      "Pediatric Diarrhea",
+      "Pediatric Bronchitis",
+      "Pediatric Dyspepsia",
+      "Upper Respiratory Tract Infection"
+    ],
+    "disease": "Pediatric Diarrhea"
+  },
+  {
+    "id": "Muzhi_135",
+    "explicit_symptoms": [
+      [
+        "Diarrhea",
+        "True"
+      ]
+    ],
+    "implicit_symptoms": [
+      [
+        "Diarrhea",
+        "True"
+      ],
+      [
+        "Watery stools",
+        "True"
+      ],
+      [
+        "Mucous in stool",
+        "False"
+      ],
+      [
+        "Vomiting",
+        "True"
+      ],
+      [
+        "Fever",
+        "False"
+      ],
+      [
+        "green stool",
+        "True"
+      ]
+    ],
+    "candidate_diseases": [
+      "Pediatric Diarrhea",
+      "Pediatric Bronchitis",
+      "Pediatric Dyspepsia",
+      "Upper Respiratory Tract Infection"
+    ],
+    "disease": "Pediatric Diarrhea"
+  },
+  {
+    "id": "Muzhi_136",
+    "explicit_symptoms": [
+      [
+        "Fever",
+        "True"
+      ],
+      [
+        "Low-grade fever",
+        "True"
+      ]
+    ],
+    "implicit_symptoms": [
+      [
+        "Cold limbs",
+        "False"
+      ]
+    ],
+    "candidate_diseases": [
+      "Pediatric Diarrhea",
+      "Pediatric Bronchitis",
+      "Pediatric Dyspepsia",
+      "Upper Respiratory Tract Infection"
+    ],
+    "disease": "Upper Respiratory Tract Infection"
+  },
+  {
+    "id": "Muzhi_137",
+    "explicit_symptoms": [
+      [
+        "Common Cold",
+        "True"
+      ],
+      [
+        "Fever",
+        "True"
+      ],
+      [
+        "Vomiting",
+        "True"
+      ],
+      [
+        "Diarrhea",
+        "True"
+      ],
+      [
+        "Anorexia",
+        "True"
+      ]
+    ],
+    "implicit_symptoms": [
+      [
+        "Lethargy",
+        "True"
+      ]
+    ],
+    "candidate_diseases": [
+      "Pediatric Diarrhea",
+      "Pediatric Bronchitis",
+      "Pediatric Dyspepsia",
+      "Upper Respiratory Tract Infection"
+    ],
+    "disease": "Pediatric Diarrhea"
+  },
+  {
+    "id": "Muzhi_138",
+    "explicit_symptoms": [
+      [
+        "Diarrhea",
+        "True"
+      ]
+    ],
+    "implicit_symptoms": [
+      [
+        "Vomiting",
+        "False"
+      ],
+      [
+        "Diarrhea",
+        "True"
+      ],
+      [
+        "Indigestion",
+        "True"
+      ]
+    ],
+    "candidate_diseases": [
+      "Pediatric Diarrhea",
+      "Pediatric Bronchitis",
+      "Pediatric Dyspepsia",
+      "Upper Respiratory Tract Infection"
+    ],
+    "disease": "Pediatric Dyspepsia"
+  },
+  {
+    "id": "Muzhi_139",
+    "explicit_symptoms": [
+      [
+        "Cough",
+        "True"
+      ],
+      [
+        "Fever",
+        "True"
+      ],
+      [
+        "presence of phlegm",
+        "True"
+      ]
+    ],
+    "implicit_symptoms": [
+      [
+        "Recurrent fever",
+        "True"
+      ],
+      [
+        "Runny nose",
+        "True"
+      ],
+      [
+        "Diarrhea",
+        "True"
+      ],
+      [
+        "Moderate Fever",
+        "True"
+      ]
+    ],
+    "candidate_diseases": [
+      "Pediatric Diarrhea",
+      "Pediatric Bronchitis",
+      "Pediatric Dyspepsia",
+      "Upper Respiratory Tract Infection"
+    ],
+    "disease": "Pediatric Bronchitis"
+  },
+  {
+    "id": "Muzhi_140",
+    "explicit_symptoms": [
+      [
+        "Cough",
+        "True"
+      ],
+      [
+        "Acute bronchitis",
+        "True"
+      ],
+      [
+        "Mycoplasma infection",
+        "True"
+      ],
+      [
+        "Coughing up phlegm",
+        "True"
+      ]
+    ],
+    "implicit_symptoms": [
+      [
+        "Runny nose",
+        "True"
+      ]
+    ],
+    "candidate_diseases": [
+      "Pediatric Diarrhea",
+      "Pediatric Bronchitis",
+      "Pediatric Dyspepsia",
+      "Upper Respiratory Tract Infection"
+    ],
+    "disease": "Pediatric Bronchitis"
+  },
+  {
+    "id": "Muzhi_141",
+    "explicit_symptoms": [
+      [
+        "Cough",
+        "True"
+      ],
+      [
+        "presence of phlegm",
+        "True"
+      ]
+    ],
+    "implicit_symptoms": [
+      [
+        "Bronchitis",
+        "True"
+      ],
+      [
+        "Mycoplasma infection",
+        "False"
+      ]
+    ],
+    "candidate_diseases": [
+      "Pediatric Diarrhea",
+      "Pediatric Bronchitis",
+      "Pediatric Dyspepsia",
+      "Upper Respiratory Tract Infection"
+    ],
+    "disease": "Pediatric Bronchitis"
+  },
+  {
+    "id": "Muzhi_142",
+    "explicit_symptoms": [
+      [
+        "Low-grade fever",
+        "True"
+      ],
+      [
+        "Cough",
+        "True"
+      ],
+      [
+        "Hoarseness",
+        "True"
+      ],
+      [
+        "throat discomfort",
+        "True"
+      ],
+      [
+        "presence of phlegm",
+        "True"
+      ]
+    ],
+    "implicit_symptoms": [
+      [
+        "Fever",
+        "True"
+      ],
+      [
+        "Wheezing",
+        "False"
+      ],
+      [
+        "Bronchopneumonia",
+        "True"
+      ]
+    ],
+    "candidate_diseases": [
+      "Pediatric Diarrhea",
+      "Pediatric Bronchitis",
+      "Pediatric Dyspepsia",
+      "Upper Respiratory Tract Infection"
+    ],
+    "disease": "Pediatric Bronchitis"
+  }
+]

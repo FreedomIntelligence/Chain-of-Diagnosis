@@ -1,0 +1,3526 @@
+[
+  {
+    "id": "Dxy_1",
+    "explicit_symptoms": [
+      [
+        "烦躁不安",
+        "True"
+      ],
+      [
+        "发烧",
+        "True"
+      ],
+      [
+        "皮疹",
+        "True"
+      ]
+    ],
+    "implicit_symptoms": [
+      [
+        "疱疹",
+        "True"
+      ],
+      [
+        "精神萎靡",
+        "True"
+      ],
+      [
+        "咳嗽",
+        "False"
+      ],
+      [
+        "呕吐",
+        "False"
+      ],
+      [
+        "厌食",
+        "False"
+      ]
+    ],
+    "candidate_diseases": [
+      "肺炎",
+      "过敏性鼻炎",
+      "小儿手足口病",
+      "上呼吸道感染",
+      "小儿腹泻"
+    ],
+    "disease": "小儿手足口病"
+  },
+  {
+    "id": "Dxy_2",
+    "explicit_symptoms": [
+      [
+        "烦躁不安",
+        "True"
+      ],
+      [
+        "发烧",
+        "True"
+      ],
+      [
+        "稀便",
+        "True"
+      ]
+    ],
+    "implicit_symptoms": [
+      [
+        "厌食",
+        "True"
+      ]
+    ],
+    "candidate_diseases": [
+      "肺炎",
+      "过敏性鼻炎",
+      "小儿手足口病",
+      "上呼吸道感染",
+      "小儿腹泻"
+    ],
+    "disease": "小儿腹泻"
+  },
+  {
+    "id": "Dxy_3",
+    "explicit_symptoms": [
+      [
+        "鼻塞",
+        "True"
+      ],
+      [
+        "打喷嚏",
+        "True"
+      ],
+      [
+        "呼吸困难",
+        "True"
+      ]
+    ],
+    "implicit_symptoms": [
+      [
+        "揉鼻子",
+        "True"
+      ]
+    ],
+    "candidate_diseases": [
+      "肺炎",
+      "过敏性鼻炎",
+      "小儿手足口病",
+      "上呼吸道感染",
+      "小儿腹泻"
+    ],
+    "disease": "过敏性鼻炎"
+  },
+  {
+    "id": "Dxy_4",
+    "explicit_symptoms": [
+      [
+        "疱疹",
+        "True"
+      ],
+      [
+        "皮疹",
+        "True"
+      ]
+    ],
+    "implicit_symptoms": [],
+    "candidate_diseases": [
+      "肺炎",
+      "过敏性鼻炎",
+      "小儿手足口病",
+      "上呼吸道感染",
+      "小儿腹泻"
+    ],
+    "disease": "小儿手足口病"
+  },
+  {
+    "id": "Dxy_5",
+    "explicit_symptoms": [
+      [
+        "疱疹",
+        "True"
+      ],
+      [
+        "咳嗽",
+        "True"
+      ],
+      [
+        "烦躁不安",
+        "True"
+      ]
+    ],
+    "implicit_symptoms": [
+      [
+        "发烧",
+        "False"
+      ]
+    ],
+    "candidate_diseases": [
+      "肺炎",
+      "过敏性鼻炎",
+      "小儿手足口病",
+      "上呼吸道感染",
+      "小儿腹泻"
+    ],
+    "disease": "小儿手足口病"
+  },
+  {
+    "id": "Dxy_6",
+    "explicit_symptoms": [
+      [
+        "稀便",
+        "True"
+      ],
+      [
+        "揉眼睛",
+        "True"
+      ],
+      [
+        "发烧",
+        "True"
+      ],
+      [
+        "皮疹",
+        "True"
+      ]
+    ],
+    "implicit_symptoms": [
+      [
+        "精神萎靡",
+        "False"
+      ]
+    ],
+    "candidate_diseases": [
+      "肺炎",
+      "过敏性鼻炎",
+      "小儿手足口病",
+      "上呼吸道感染",
+      "小儿腹泻"
+    ],
+    "disease": "小儿腹泻"
+  },
+  {
+    "id": "Dxy_7",
+    "explicit_symptoms": [
+      [
+        "蛋花样便",
+        "True"
+      ],
+      [
+        "稀便",
+        "True"
+      ]
+    ],
+    "implicit_symptoms": [
+      [
+        "精神萎靡",
+        "False"
+      ],
+      [
+        "尿少",
+        "False"
+      ]
+    ],
+    "candidate_diseases": [
+      "肺炎",
+      "过敏性鼻炎",
+      "小儿手足口病",
+      "上呼吸道感染",
+      "小儿腹泻"
+    ],
+    "disease": "小儿腹泻"
+  },
+  {
+    "id": "Dxy_8",
+    "explicit_symptoms": [
+      [
+        "吐泡泡",
+        "True"
+      ],
+      [
+        "咳嗽",
+        "True"
+      ],
+      [
+        "鼻塞",
+        "True"
+      ],
+      [
+        "咳痰",
+        "True"
+      ]
+    ],
+    "implicit_symptoms": [],
+    "candidate_diseases": [
+      "肺炎",
+      "过敏性鼻炎",
+      "小儿手足口病",
+      "上呼吸道感染",
+      "小儿腹泻"
+    ],
+    "disease": "上呼吸道感染"
+  },
+  {
+    "id": "Dxy_9",
+    "explicit_symptoms": [
+      [
+        "蛋花样便",
+        "True"
+      ],
+      [
+        "呕吐",
+        "True"
+      ],
+      [
+        "稀便",
+        "True"
+      ],
+      [
+        "发烧",
+        "True"
+      ]
+    ],
+    "implicit_symptoms": [
+      [
+        "精神萎靡",
+        "False"
+      ],
+      [
+        "尿少",
+        "True"
+      ],
+      [
+        "烦躁不安",
+        "True"
+      ]
+    ],
+    "candidate_diseases": [
+      "肺炎",
+      "过敏性鼻炎",
+      "小儿手足口病",
+      "上呼吸道感染",
+      "小儿腹泻"
+    ],
+    "disease": "小儿腹泻"
+  },
+  {
+    "id": "Dxy_10",
+    "explicit_symptoms": [
+      [
+        "咳嗽",
+        "True"
+      ],
+      [
+        "发烧",
+        "True"
+      ]
+    ],
+    "implicit_symptoms": [
+      [
+        "精神萎靡",
+        "False"
+      ],
+      [
+        "呼吸困难",
+        "False"
+      ]
+    ],
+    "candidate_diseases": [
+      "肺炎",
+      "过敏性鼻炎",
+      "小儿手足口病",
+      "上呼吸道感染",
+      "小儿腹泻"
+    ],
+    "disease": "上呼吸道感染"
+  },
+  {
+    "id": "Dxy_11",
+    "explicit_symptoms": [
+      [
+        "疱疹",
+        "True"
+      ],
+      [
+        "呕吐",
+        "True"
+      ],
+      [
+        "发烧",
+        "True"
+      ],
+      [
+        "皮疹",
+        "True"
+      ]
+    ],
+    "implicit_symptoms": [
+      [
+        "厌食",
+        "True"
+      ]
+    ],
+    "candidate_diseases": [
+      "肺炎",
+      "过敏性鼻炎",
+      "小儿手足口病",
+      "上呼吸道感染",
+      "小儿腹泻"
+    ],
+    "disease": "小儿手足口病"
+  },
+  {
+    "id": "Dxy_12",
+    "explicit_symptoms": [
+      [
+        "腹痛",
+        "True"
+      ],
+      [
+        "呕吐",
+        "True"
+      ],
+      [
+        "发烧",
+        "True"
+      ]
+    ],
+    "implicit_symptoms": [
+      [
+        "腹胀",
+        "True"
+      ]
+    ],
+    "candidate_diseases": [
+      "肺炎",
+      "过敏性鼻炎",
+      "小儿手足口病",
+      "上呼吸道感染",
+      "小儿腹泻"
+    ],
+    "disease": "小儿腹泻"
+  },
+  {
+    "id": "Dxy_13",
+    "explicit_symptoms": [
+      [
+        "咳嗽",
+        "True"
+      ],
+      [
+        "抽搐",
+        "True"
+      ],
+      [
+        "流涕",
+        "True"
+      ]
+    ],
+    "implicit_symptoms": [
+      [
+        "过敏",
+        "True"
+      ]
+    ],
+    "candidate_diseases": [
+      "肺炎",
+      "过敏性鼻炎",
+      "小儿手足口病",
+      "上呼吸道感染",
+      "小儿腹泻"
+    ],
+    "disease": "过敏性鼻炎"
+  },
+  {
+    "id": "Dxy_14",
+    "explicit_symptoms": [
+      [
+        "鼻塞",
+        "True"
+      ],
+      [
+        "打喷嚏",
+        "True"
+      ]
+    ],
+    "implicit_symptoms": [
+      [
+        "过敏",
+        "True"
+      ]
+    ],
+    "candidate_diseases": [
+      "肺炎",
+      "过敏性鼻炎",
+      "小儿手足口病",
+      "上呼吸道感染",
+      "小儿腹泻"
+    ],
+    "disease": "过敏性鼻炎"
+  },
+  {
+    "id": "Dxy_15",
+    "explicit_symptoms": [
+      [
+        "疱疹",
+        "True"
+      ],
+      [
+        "咳嗽",
+        "True"
+      ],
+      [
+        "鼻塞",
+        "True"
+      ],
+      [
+        "打喷嚏",
+        "True"
+      ],
+      [
+        "咳痰",
+        "True"
+      ]
+    ],
+    "implicit_symptoms": [
+      [
+        "发烧",
+        "True"
+      ]
+    ],
+    "candidate_diseases": [
+      "肺炎",
+      "过敏性鼻炎",
+      "小儿手足口病",
+      "上呼吸道感染",
+      "小儿腹泻"
+    ],
+    "disease": "肺炎"
+  },
+  {
+    "id": "Dxy_16",
+    "explicit_symptoms": [
+      [
+        "呕吐",
+        "True"
+      ],
+      [
+        "肚子咕噜叫",
+        "True"
+      ],
+      [
+        "发烧",
+        "True"
+      ],
+      [
+        "稀便",
+        "True"
+      ]
+    ],
+    "implicit_symptoms": [
+      [
+        "厌食",
+        "True"
+      ]
+    ],
+    "candidate_diseases": [
+      "肺炎",
+      "过敏性鼻炎",
+      "小儿手足口病",
+      "上呼吸道感染",
+      "小儿腹泻"
+    ],
+    "disease": "小儿腹泻"
+  },
+  {
+    "id": "Dxy_17",
+    "explicit_symptoms": [
+      [
+        "咳嗽",
+        "True"
+      ],
+      [
+        "流涕",
+        "True"
+      ],
+      [
+        "吐泡泡",
+        "True"
+      ],
+      [
+        "打喷嚏",
+        "True"
+      ],
+      [
+        "呼吸困难",
+        "True"
+      ]
+    ],
+    "implicit_symptoms": [
+      [
+        "呕吐",
+        "True"
+      ],
+      [
+        "鼻塞",
+        "True"
+      ]
+    ],
+    "candidate_diseases": [
+      "肺炎",
+      "过敏性鼻炎",
+      "小儿手足口病",
+      "上呼吸道感染",
+      "小儿腹泻"
+    ],
+    "disease": "肺炎"
+  },
+  {
+    "id": "Dxy_18",
+    "explicit_symptoms": [
+      [
+        "精神萎靡",
+        "True"
+      ],
+      [
+        "发烧",
+        "True"
+      ],
+      [
+        "厌食",
+        "True"
+      ]
+    ],
+    "implicit_symptoms": [
+      [
+        "疱疹",
+        "True"
+      ],
+      [
+        "淋巴结肿大",
+        "True"
+      ],
+      [
+        "皮疹",
+        "False"
+      ]
+    ],
+    "candidate_diseases": [
+      "肺炎",
+      "过敏性鼻炎",
+      "小儿手足口病",
+      "上呼吸道感染",
+      "小儿腹泻"
+    ],
+    "disease": "小儿手足口病"
+  },
+  {
+    "id": "Dxy_19",
+    "explicit_symptoms": [
+      [
+        "烦躁不安",
+        "True"
+      ],
+      [
+        "呕吐",
+        "True"
+      ],
+      [
+        "流涕",
+        "True"
+      ]
+    ],
+    "implicit_symptoms": [
+      [
+        "鼻塞",
+        "True"
+      ],
+      [
+        "发烧",
+        "False"
+      ],
+      [
+        "肺部湿啰音",
+        "False"
+      ]
+    ],
+    "candidate_diseases": [
+      "肺炎",
+      "过敏性鼻炎",
+      "小儿手足口病",
+      "上呼吸道感染",
+      "小儿腹泻"
+    ],
+    "disease": "上呼吸道感染"
+  },
+  {
+    "id": "Dxy_20",
+    "explicit_symptoms": [
+      [
+        "咳嗽",
+        "True"
+      ],
+      [
+        "咳痰",
+        "True"
+      ]
+    ],
+    "implicit_symptoms": [
+      [
+        "肺部湿啰音",
+        "True"
+      ],
+      [
+        "呼吸困难",
+        "True"
+      ]
+    ],
+    "candidate_diseases": [
+      "肺炎",
+      "过敏性鼻炎",
+      "小儿手足口病",
+      "上呼吸道感染",
+      "小儿腹泻"
+    ],
+    "disease": "肺炎"
+  },
+  {
+    "id": "Dxy_21",
+    "explicit_symptoms": [
+      [
+        "烦躁不安",
+        "True"
+      ],
+      [
+        "发烧",
+        "True"
+      ],
+      [
+        "流口水",
+        "True"
+      ],
+      [
+        "稀便",
+        "True"
+      ]
+    ],
+    "implicit_symptoms": [
+      [
+        "精神萎靡",
+        "True"
+      ],
+      [
+        "皮疹",
+        "True"
+      ],
+      [
+        "厌食",
+        "True"
+      ]
+    ],
+    "candidate_diseases": [
+      "肺炎",
+      "过敏性鼻炎",
+      "小儿手足口病",
+      "上呼吸道感染",
+      "小儿腹泻"
+    ],
+    "disease": "小儿手足口病"
+  },
+  {
+    "id": "Dxy_22",
+    "explicit_symptoms": [
+      [
+        "疱疹",
+        "True"
+      ],
+      [
+        "发烧",
+        "True"
+      ],
+      [
+        "皮疹",
+        "True"
+      ]
+    ],
+    "implicit_symptoms": [
+      [
+        "精神萎靡",
+        "False"
+      ],
+      [
+        "厌食",
+        "False"
+      ],
+      [
+        "流口水",
+        "True"
+      ]
+    ],
+    "candidate_diseases": [
+      "肺炎",
+      "过敏性鼻炎",
+      "小儿手足口病",
+      "上呼吸道感染",
+      "小儿腹泻"
+    ],
+    "disease": "小儿手足口病"
+  },
+  {
+    "id": "Dxy_23",
+    "explicit_symptoms": [
+      [
+        "咽部不适",
+        "True"
+      ],
+      [
+        "咳嗽",
+        "True"
+      ],
+      [
+        "过敏",
+        "True"
+      ],
+      [
+        "流涕",
+        "True"
+      ]
+    ],
+    "implicit_symptoms": [
+      [
+        "揉鼻子",
+        "True"
+      ]
+    ],
+    "candidate_diseases": [
+      "肺炎",
+      "过敏性鼻炎",
+      "小儿手足口病",
+      "上呼吸道感染",
+      "小儿腹泻"
+    ],
+    "disease": "过敏性鼻炎"
+  },
+  {
+    "id": "Dxy_24",
+    "explicit_symptoms": [
+      [
+        "咽部不适",
+        "True"
+      ],
+      [
+        "咳嗽",
+        "True"
+      ],
+      [
+        "呕吐",
+        "True"
+      ],
+      [
+        "发烧",
+        "True"
+      ],
+      [
+        "咳痰",
+        "True"
+      ]
+    ],
+    "implicit_symptoms": [
+      [
+        "精神萎靡",
+        "False"
+      ],
+      [
+        "肺部阴影",
+        "True"
+      ]
+    ],
+    "candidate_diseases": [
+      "肺炎",
+      "过敏性鼻炎",
+      "小儿手足口病",
+      "上呼吸道感染",
+      "小儿腹泻"
+    ],
+    "disease": "肺炎"
+  },
+  {
+    "id": "Dxy_25",
+    "explicit_symptoms": [
+      [
+        "稀便",
+        "True"
+      ],
+      [
+        "绿便",
+        "True"
+      ]
+    ],
+    "implicit_symptoms": [
+      [
+        "蛋花样便",
+        "True"
+      ],
+      [
+        "精神萎靡",
+        "False"
+      ],
+      [
+        "呕吐",
+        "True"
+      ],
+      [
+        "发烧",
+        "False"
+      ],
+      [
+        "抽搐",
+        "True"
+      ]
+    ],
+    "candidate_diseases": [
+      "肺炎",
+      "过敏性鼻炎",
+      "小儿手足口病",
+      "上呼吸道感染",
+      "小儿腹泻"
+    ],
+    "disease": "小儿腹泻"
+  },
+  {
+    "id": "Dxy_26",
+    "explicit_symptoms": [
+      [
+        "咳嗽",
+        "True"
+      ],
+      [
+        "呕吐",
+        "True"
+      ],
+      [
+        "鼻塞",
+        "True"
+      ],
+      [
+        "打喷嚏",
+        "True"
+      ],
+      [
+        "咳痰",
+        "True"
+      ]
+    ],
+    "implicit_symptoms": [
+      [
+        "呼吸困难",
+        "True"
+      ]
+    ],
+    "candidate_diseases": [
+      "肺炎",
+      "过敏性鼻炎",
+      "小儿手足口病",
+      "上呼吸道感染",
+      "小儿腹泻"
+    ],
+    "disease": "肺炎"
+  },
+  {
+    "id": "Dxy_27",
+    "explicit_symptoms": [
+      [
+        "咳嗽",
+        "True"
+      ],
+      [
+        "鼻塞",
+        "True"
+      ],
+      [
+        "发烧",
+        "True"
+      ]
+    ],
+    "implicit_symptoms": [
+      [
+        "流涕",
+        "False"
+      ],
+      [
+        "呼吸困难",
+        "True"
+      ]
+    ],
+    "candidate_diseases": [
+      "肺炎",
+      "过敏性鼻炎",
+      "小儿手足口病",
+      "上呼吸道感染",
+      "小儿腹泻"
+    ],
+    "disease": "上呼吸道感染"
+  },
+  {
+    "id": "Dxy_28",
+    "explicit_symptoms": [
+      [
+        "稀便",
+        "True"
+      ],
+      [
+        "发烧",
+        "True"
+      ],
+      [
+        "皮疹",
+        "True"
+      ]
+    ],
+    "implicit_symptoms": [],
+    "candidate_diseases": [
+      "肺炎",
+      "过敏性鼻炎",
+      "小儿手足口病",
+      "上呼吸道感染",
+      "小儿腹泻"
+    ],
+    "disease": "小儿腹泻"
+  },
+  {
+    "id": "Dxy_29",
+    "explicit_symptoms": [
+      [
+        "精神萎靡",
+        "True"
+      ],
+      [
+        "呕吐",
+        "True"
+      ],
+      [
+        "稀便",
+        "True"
+      ],
+      [
+        "厌食",
+        "True"
+      ]
+    ],
+    "implicit_symptoms": [],
+    "candidate_diseases": [
+      "肺炎",
+      "过敏性鼻炎",
+      "小儿手足口病",
+      "上呼吸道感染",
+      "小儿腹泻"
+    ],
+    "disease": "小儿腹泻"
+  },
+  {
+    "id": "Dxy_30",
+    "explicit_symptoms": [],
+    "implicit_symptoms": [],
+    "candidate_diseases": [
+      "肺炎",
+      "过敏性鼻炎",
+      "小儿手足口病",
+      "上呼吸道感染",
+      "小儿腹泻"
+    ],
+    "disease": "上呼吸道感染"
+  },
+  {
+    "id": "Dxy_31",
+    "explicit_symptoms": [
+      [
+        "咳嗽",
+        "True"
+      ],
+      [
+        "打喷嚏",
+        "True"
+      ],
+      [
+        "流涕",
+        "True"
+      ]
+    ],
+    "implicit_symptoms": [
+      [
+        "呕吐",
+        "True"
+      ],
+      [
+        "发烧",
+        "False"
+      ],
+      [
+        "咳痰",
+        "True"
+      ]
+    ],
+    "candidate_diseases": [
+      "肺炎",
+      "过敏性鼻炎",
+      "小儿手足口病",
+      "上呼吸道感染",
+      "小儿腹泻"
+    ],
+    "disease": "上呼吸道感染"
+  },
+  {
+    "id": "Dxy_32",
+    "explicit_symptoms": [
+      [
+        "咳嗽",
+        "True"
+      ],
+      [
+        "流涕",
+        "True"
+      ],
+      [
+        "发烧",
+        "True"
+      ],
+      [
+        "打喷嚏",
+        "True"
+      ]
+    ],
+    "implicit_symptoms": [],
+    "candidate_diseases": [
+      "肺炎",
+      "过敏性鼻炎",
+      "小儿手足口病",
+      "上呼吸道感染",
+      "小儿腹泻"
+    ],
+    "disease": "上呼吸道感染"
+  },
+  {
+    "id": "Dxy_33",
+    "explicit_symptoms": [
+      [
+        "打喷嚏",
+        "True"
+      ],
+      [
+        "稀便",
+        "True"
+      ],
+      [
+        "流涕",
+        "True"
+      ]
+    ],
+    "implicit_symptoms": [
+      [
+        "咳嗽",
+        "True"
+      ],
+      [
+        "呕吐",
+        "True"
+      ],
+      [
+        "烦躁不安",
+        "True"
+      ]
+    ],
+    "candidate_diseases": [
+      "肺炎",
+      "过敏性鼻炎",
+      "小儿手足口病",
+      "上呼吸道感染",
+      "小儿腹泻"
+    ],
+    "disease": "小儿腹泻"
+  },
+  {
+    "id": "Dxy_34",
+    "explicit_symptoms": [
+      [
+        "咳嗽",
+        "True"
+      ],
+      [
+        "咳痰",
+        "True"
+      ],
+      [
+        "流涕",
+        "True"
+      ]
+    ],
+    "implicit_symptoms": [
+      [
+        "精神萎靡",
+        "False"
+      ],
+      [
+        "鼻塞",
+        "True"
+      ],
+      [
+        "发烧",
+        "False"
+      ],
+      [
+        "厌食",
+        "False"
+      ]
+    ],
+    "candidate_diseases": [
+      "肺炎",
+      "过敏性鼻炎",
+      "小儿手足口病",
+      "上呼吸道感染",
+      "小儿腹泻"
+    ],
+    "disease": "过敏性鼻炎"
+  },
+  {
+    "id": "Dxy_35",
+    "explicit_symptoms": [
+      [
+        "咳嗽",
+        "True"
+      ],
+      [
+        "发烧",
+        "True"
+      ],
+      [
+        "咳痰",
+        "True"
+      ]
+    ],
+    "implicit_symptoms": [
+      [
+        "烦躁不安",
+        "True"
+      ],
+      [
+        "鼻塞",
+        "True"
+      ],
+      [
+        "肺部湿啰音",
+        "True"
+      ],
+      [
+        "呕吐",
+        "True"
+      ],
+      [
+        "稀便",
+        "True"
+      ],
+      [
+        "打喷嚏",
+        "True"
+      ]
+    ],
+    "candidate_diseases": [
+      "肺炎",
+      "过敏性鼻炎",
+      "小儿手足口病",
+      "上呼吸道感染",
+      "小儿腹泻"
+    ],
+    "disease": "肺炎"
+  },
+  {
+    "id": "Dxy_36",
+    "explicit_symptoms": [
+      [
+        "咳嗽",
+        "True"
+      ]
+    ],
+    "implicit_symptoms": [
+      [
+        "呕吐",
+        "True"
+      ]
+    ],
+    "candidate_diseases": [
+      "肺炎",
+      "过敏性鼻炎",
+      "小儿手足口病",
+      "上呼吸道感染",
+      "小儿腹泻"
+    ],
+    "disease": "上呼吸道感染"
+  },
+  {
+    "id": "Dxy_37",
+    "explicit_symptoms": [
+      [
+        "鼻塞",
+        "True"
+      ],
+      [
+        "发烧",
+        "True"
+      ],
+      [
+        "流涕",
+        "True"
+      ],
+      [
+        "咳嗽",
+        "True"
+      ],
+      [
+        "打喷嚏",
+        "True"
+      ],
+      [
+        "咳痰",
+        "True"
+      ]
+    ],
+    "implicit_symptoms": [
+      [
+        "烦躁不安",
+        "True"
+      ],
+      [
+        "呼吸困难",
+        "True"
+      ]
+    ],
+    "candidate_diseases": [
+      "肺炎",
+      "过敏性鼻炎",
+      "小儿手足口病",
+      "上呼吸道感染",
+      "小儿腹泻"
+    ],
+    "disease": "肺炎"
+  },
+  {
+    "id": "Dxy_38",
+    "explicit_symptoms": [
+      [
+        "咽部不适",
+        "True"
+      ],
+      [
+        "咳嗽",
+        "True"
+      ]
+    ],
+    "implicit_symptoms": [
+      [
+        "流涕",
+        "True"
+      ],
+      [
+        "呕吐",
+        "False"
+      ],
+      [
+        "鼻塞",
+        "True"
+      ],
+      [
+        "咳痰",
+        "True"
+      ],
+      [
+        "揉鼻子",
+        "True"
+      ]
+    ],
+    "candidate_diseases": [
+      "肺炎",
+      "过敏性鼻炎",
+      "小儿手足口病",
+      "上呼吸道感染",
+      "小儿腹泻"
+    ],
+    "disease": "过敏性鼻炎"
+  },
+  {
+    "id": "Dxy_39",
+    "explicit_symptoms": [
+      [
+        "绿便",
+        "True"
+      ],
+      [
+        "肚子咕噜叫",
+        "True"
+      ],
+      [
+        "稀便",
+        "True"
+      ],
+      [
+        "厌食",
+        "True"
+      ],
+      [
+        "放屁",
+        "True"
+      ]
+    ],
+    "implicit_symptoms": [
+      [
+        "烦躁不安",
+        "True"
+      ],
+      [
+        "腹胀",
+        "True"
+      ]
+    ],
+    "candidate_diseases": [
+      "肺炎",
+      "过敏性鼻炎",
+      "小儿手足口病",
+      "上呼吸道感染",
+      "小儿腹泻"
+    ],
+    "disease": "小儿腹泻"
+  },
+  {
+    "id": "Dxy_40",
+    "explicit_symptoms": [
+      [
+        "咳嗽",
+        "True"
+      ],
+      [
+        "呕吐",
+        "True"
+      ],
+      [
+        "鼻塞",
+        "True"
+      ],
+      [
+        "烦躁不安",
+        "True"
+      ],
+      [
+        "流涕",
+        "True"
+      ]
+    ],
+    "implicit_symptoms": [
+      [
+        "精神萎靡",
+        "False"
+      ],
+      [
+        "流口水",
+        "True"
+      ],
+      [
+        "呼吸困难",
+        "True"
+      ]
+    ],
+    "candidate_diseases": [
+      "肺炎",
+      "过敏性鼻炎",
+      "小儿手足口病",
+      "上呼吸道感染",
+      "小儿腹泻"
+    ],
+    "disease": "肺炎"
+  },
+  {
+    "id": "Dxy_41",
+    "explicit_symptoms": [
+      [
+        "咳嗽",
+        "True"
+      ],
+      [
+        "鼻塞",
+        "True"
+      ],
+      [
+        "发烧",
+        "True"
+      ]
+    ],
+    "implicit_symptoms": [
+      [
+        "流涕",
+        "True"
+      ]
+    ],
+    "candidate_diseases": [
+      "肺炎",
+      "过敏性鼻炎",
+      "小儿手足口病",
+      "上呼吸道感染",
+      "小儿腹泻"
+    ],
+    "disease": "上呼吸道感染"
+  },
+  {
+    "id": "Dxy_42",
+    "explicit_symptoms": [
+      [
+        "咳嗽",
+        "True"
+      ],
+      [
+        "打喷嚏",
+        "True"
+      ],
+      [
+        "咳痰",
+        "True"
+      ],
+      [
+        "流涕",
+        "True"
+      ]
+    ],
+    "implicit_symptoms": [
+      [
+        "精神萎靡",
+        "True"
+      ],
+      [
+        "发烧",
+        "True"
+      ]
+    ],
+    "candidate_diseases": [
+      "肺炎",
+      "过敏性鼻炎",
+      "小儿手足口病",
+      "上呼吸道感染",
+      "小儿腹泻"
+    ],
+    "disease": "肺炎"
+  },
+  {
+    "id": "Dxy_43",
+    "explicit_symptoms": [
+      [
+        "疱疹",
+        "True"
+      ],
+      [
+        "咽部不适",
+        "True"
+      ],
+      [
+        "发烧",
+        "True"
+      ],
+      [
+        "皮疹",
+        "True"
+      ]
+    ],
+    "implicit_symptoms": [
+      [
+        "打喷嚏",
+        "True"
+      ],
+      [
+        "流涕",
+        "True"
+      ]
+    ],
+    "candidate_diseases": [
+      "肺炎",
+      "过敏性鼻炎",
+      "小儿手足口病",
+      "上呼吸道感染",
+      "小儿腹泻"
+    ],
+    "disease": "小儿手足口病"
+  },
+  {
+    "id": "Dxy_44",
+    "explicit_symptoms": [
+      [
+        "咳嗽",
+        "True"
+      ],
+      [
+        "发烧",
+        "True"
+      ],
+      [
+        "流涕",
+        "True"
+      ]
+    ],
+    "implicit_symptoms": [],
+    "candidate_diseases": [
+      "肺炎",
+      "过敏性鼻炎",
+      "小儿手足口病",
+      "上呼吸道感染",
+      "小儿腹泻"
+    ],
+    "disease": "肺炎"
+  },
+  {
+    "id": "Dxy_45",
+    "explicit_symptoms": [
+      [
+        "咳嗽",
+        "True"
+      ],
+      [
+        "鼻塞",
+        "True"
+      ]
+    ],
+    "implicit_symptoms": [
+      [
+        "精神萎靡",
+        "False"
+      ],
+      [
+        "过敏",
+        "True"
+      ],
+      [
+        "皮疹",
+        "False"
+      ]
+    ],
+    "candidate_diseases": [
+      "肺炎",
+      "过敏性鼻炎",
+      "小儿手足口病",
+      "上呼吸道感染",
+      "小儿腹泻"
+    ],
+    "disease": "过敏性鼻炎"
+  },
+  {
+    "id": "Dxy_46",
+    "explicit_symptoms": [
+      [
+        "精神萎靡",
+        "True"
+      ],
+      [
+        "呕吐",
+        "True"
+      ],
+      [
+        "发烧",
+        "True"
+      ]
+    ],
+    "implicit_symptoms": [],
+    "candidate_diseases": [
+      "肺炎",
+      "过敏性鼻炎",
+      "小儿手足口病",
+      "上呼吸道感染",
+      "小儿腹泻"
+    ],
+    "disease": "小儿腹泻"
+  },
+  {
+    "id": "Dxy_47",
+    "explicit_symptoms": [
+      [
+        "咳嗽",
+        "True"
+      ]
+    ],
+    "implicit_symptoms": [
+      [
+        "鼻塞",
+        "True"
+      ],
+      [
+        "呼吸困难",
+        "True"
+      ]
+    ],
+    "candidate_diseases": [
+      "肺炎",
+      "过敏性鼻炎",
+      "小儿手足口病",
+      "上呼吸道感染",
+      "小儿腹泻"
+    ],
+    "disease": "过敏性鼻炎"
+  },
+  {
+    "id": "Dxy_48",
+    "explicit_symptoms": [
+      [
+        "疱疹",
+        "True"
+      ],
+      [
+        "发烧",
+        "True"
+      ],
+      [
+        "皮疹",
+        "True"
+      ]
+    ],
+    "implicit_symptoms": [
+      [
+        "厌食",
+        "True"
+      ]
+    ],
+    "candidate_diseases": [
+      "肺炎",
+      "过敏性鼻炎",
+      "小儿手足口病",
+      "上呼吸道感染",
+      "小儿腹泻"
+    ],
+    "disease": "小儿手足口病"
+  },
+  {
+    "id": "Dxy_49",
+    "explicit_symptoms": [
+      [
+        "皮疹",
+        "True"
+      ],
+      [
+        "厌食",
+        "True"
+      ]
+    ],
+    "implicit_symptoms": [
+      [
+        "精神萎靡",
+        "False"
+      ],
+      [
+        "流口水",
+        "True"
+      ]
+    ],
+    "candidate_diseases": [
+      "肺炎",
+      "过敏性鼻炎",
+      "小儿手足口病",
+      "上呼吸道感染",
+      "小儿腹泻"
+    ],
+    "disease": "小儿手足口病"
+  },
+  {
+    "id": "Dxy_50",
+    "explicit_symptoms": [
+      [
+        "咳嗽",
+        "True"
+      ],
+      [
+        "烦躁不安",
+        "True"
+      ],
+      [
+        "流涕",
+        "True"
+      ]
+    ],
+    "implicit_symptoms": [
+      [
+        "厌食",
+        "True"
+      ],
+      [
+        "呼吸困难",
+        "True"
+      ]
+    ],
+    "candidate_diseases": [
+      "肺炎",
+      "过敏性鼻炎",
+      "小儿手足口病",
+      "上呼吸道感染",
+      "小儿腹泻"
+    ],
+    "disease": "肺炎"
+  },
+  {
+    "id": "Dxy_51",
+    "explicit_symptoms": [
+      [
+        "咳嗽",
+        "True"
+      ],
+      [
+        "发烧",
+        "True"
+      ]
+    ],
+    "implicit_symptoms": [
+      [
+        "揉眼睛",
+        "True"
+      ]
+    ],
+    "candidate_diseases": [
+      "肺炎",
+      "过敏性鼻炎",
+      "小儿手足口病",
+      "上呼吸道感染",
+      "小儿腹泻"
+    ],
+    "disease": "上呼吸道感染"
+  },
+  {
+    "id": "Dxy_52",
+    "explicit_symptoms": [
+      [
+        "疱疹",
+        "True"
+      ],
+      [
+        "皮疹",
+        "True"
+      ]
+    ],
+    "implicit_symptoms": [
+      [
+        "发烧",
+        "True"
+      ]
+    ],
+    "candidate_diseases": [
+      "肺炎",
+      "过敏性鼻炎",
+      "小儿手足口病",
+      "上呼吸道感染",
+      "小儿腹泻"
+    ],
+    "disease": "小儿手足口病"
+  },
+  {
+    "id": "Dxy_53",
+    "explicit_symptoms": [
+      [
+        "呕吐",
+        "True"
+      ],
+      [
+        "发烧",
+        "True"
+      ],
+      [
+        "咳痰",
+        "True"
+      ],
+      [
+        "流涕",
+        "True"
+      ]
+    ],
+    "implicit_symptoms": [
+      [
+        "呼吸困难",
+        "True"
+      ]
+    ],
+    "candidate_diseases": [
+      "肺炎",
+      "过敏性鼻炎",
+      "小儿手足口病",
+      "上呼吸道感染",
+      "小儿腹泻"
+    ],
+    "disease": "上呼吸道感染"
+  },
+  {
+    "id": "Dxy_54",
+    "explicit_symptoms": [
+      [
+        "咳嗽",
+        "True"
+      ],
+      [
+        "鼻塞",
+        "True"
+      ],
+      [
+        "过敏",
+        "True"
+      ],
+      [
+        "流涕",
+        "True"
+      ]
+    ],
+    "implicit_symptoms": [
+      [
+        "打喷嚏",
+        "True"
+      ]
+    ],
+    "candidate_diseases": [
+      "肺炎",
+      "过敏性鼻炎",
+      "小儿手足口病",
+      "上呼吸道感染",
+      "小儿腹泻"
+    ],
+    "disease": "过敏性鼻炎"
+  },
+  {
+    "id": "Dxy_55",
+    "explicit_symptoms": [
+      [
+        "咳嗽",
+        "True"
+      ],
+      [
+        "肺部湿啰音",
+        "True"
+      ],
+      [
+        "流涕",
+        "True"
+      ]
+    ],
+    "implicit_symptoms": [
+      [
+        "发烧",
+        "True"
+      ]
+    ],
+    "candidate_diseases": [
+      "肺炎",
+      "过敏性鼻炎",
+      "小儿手足口病",
+      "上呼吸道感染",
+      "小儿腹泻"
+    ],
+    "disease": "肺炎"
+  },
+  {
+    "id": "Dxy_56",
+    "explicit_symptoms": [
+      [
+        "疱疹",
+        "True"
+      ],
+      [
+        "烦躁不安",
+        "True"
+      ],
+      [
+        "皮疹",
+        "True"
+      ],
+      [
+        "流涕",
+        "True"
+      ],
+      [
+        "流口水",
+        "True"
+      ],
+      [
+        "发烧",
+        "True"
+      ]
+    ],
+    "implicit_symptoms": [
+      [
+        "流鼻血",
+        "True"
+      ],
+      [
+        "呼吸困难",
+        "True"
+      ]
+    ],
+    "candidate_diseases": [
+      "肺炎",
+      "过敏性鼻炎",
+      "小儿手足口病",
+      "上呼吸道感染",
+      "小儿腹泻"
+    ],
+    "disease": "小儿手足口病"
+  },
+  {
+    "id": "Dxy_57",
+    "explicit_symptoms": [
+      [
+        "发烧",
+        "True"
+      ]
+    ],
+    "implicit_symptoms": [
+      [
+        "咳嗽",
+        "True"
+      ],
+      [
+        "咳痰",
+        "True"
+      ],
+      [
+        "肺部阴影",
+        "True"
+      ],
+      [
+        "厌食",
+        "False"
+      ]
+    ],
+    "candidate_diseases": [
+      "肺炎",
+      "过敏性鼻炎",
+      "小儿手足口病",
+      "上呼吸道感染",
+      "小儿腹泻"
+    ],
+    "disease": "肺炎"
+  },
+  {
+    "id": "Dxy_58",
+    "explicit_symptoms": [
+      [
+        "打喷嚏",
+        "True"
+      ],
+      [
+        "揉鼻子",
+        "True"
+      ]
+    ],
+    "implicit_symptoms": [
+      [
+        "过敏",
+        "True"
+      ],
+      [
+        "皮疹",
+        "True"
+      ]
+    ],
+    "candidate_diseases": [
+      "肺炎",
+      "过敏性鼻炎",
+      "小儿手足口病",
+      "上呼吸道感染",
+      "小儿腹泻"
+    ],
+    "disease": "过敏性鼻炎"
+  },
+  {
+    "id": "Dxy_59",
+    "explicit_symptoms": [
+      [
+        "鼻塞",
+        "True"
+      ],
+      [
+        "流涕",
+        "True"
+      ]
+    ],
+    "implicit_symptoms": [
+      [
+        "揉眼睛",
+        "True"
+      ],
+      [
+        "咳嗽",
+        "True"
+      ],
+      [
+        "呼吸困难",
+        "True"
+      ]
+    ],
+    "candidate_diseases": [
+      "肺炎",
+      "过敏性鼻炎",
+      "小儿手足口病",
+      "上呼吸道感染",
+      "小儿腹泻"
+    ],
+    "disease": "过敏性鼻炎"
+  },
+  {
+    "id": "Dxy_60",
+    "explicit_symptoms": [
+      [
+        "揉眼睛",
+        "True"
+      ],
+      [
+        "流涕",
+        "True"
+      ],
+      [
+        "咽部不适",
+        "True"
+      ]
+    ],
+    "implicit_symptoms": [
+      [
+        "过敏",
+        "True"
+      ]
+    ],
+    "candidate_diseases": [
+      "肺炎",
+      "过敏性鼻炎",
+      "小儿手足口病",
+      "上呼吸道感染",
+      "小儿腹泻"
+    ],
+    "disease": "过敏性鼻炎"
+  },
+  {
+    "id": "Dxy_61",
+    "explicit_symptoms": [
+      [
+        "体重减轻",
+        "True"
+      ],
+      [
+        "稀便",
+        "True"
+      ]
+    ],
+    "implicit_symptoms": [],
+    "candidate_diseases": [
+      "肺炎",
+      "过敏性鼻炎",
+      "小儿手足口病",
+      "上呼吸道感染",
+      "小儿腹泻"
+    ],
+    "disease": "小儿腹泻"
+  },
+  {
+    "id": "Dxy_62",
+    "explicit_symptoms": [
+      [
+        "呕吐",
+        "True"
+      ],
+      [
+        "发烧",
+        "True"
+      ],
+      [
+        "稀便",
+        "True"
+      ]
+    ],
+    "implicit_symptoms": [
+      [
+        "精神萎靡",
+        "True"
+      ]
+    ],
+    "candidate_diseases": [
+      "肺炎",
+      "过敏性鼻炎",
+      "小儿手足口病",
+      "上呼吸道感染",
+      "小儿腹泻"
+    ],
+    "disease": "小儿腹泻"
+  },
+  {
+    "id": "Dxy_63",
+    "explicit_symptoms": [
+      [
+        "咳嗽",
+        "True"
+      ],
+      [
+        "咳痰",
+        "True"
+      ]
+    ],
+    "implicit_symptoms": [
+      [
+        "过敏",
+        "True"
+      ],
+      [
+        "流涕",
+        "True"
+      ]
+    ],
+    "candidate_diseases": [
+      "肺炎",
+      "过敏性鼻炎",
+      "小儿手足口病",
+      "上呼吸道感染",
+      "小儿腹泻"
+    ],
+    "disease": "过敏性鼻炎"
+  },
+  {
+    "id": "Dxy_64",
+    "explicit_symptoms": [
+      [
+        "咳嗽",
+        "True"
+      ],
+      [
+        "咳痰",
+        "True"
+      ]
+    ],
+    "implicit_symptoms": [],
+    "candidate_diseases": [
+      "肺炎",
+      "过敏性鼻炎",
+      "小儿手足口病",
+      "上呼吸道感染",
+      "小儿腹泻"
+    ],
+    "disease": "上呼吸道感染"
+  },
+  {
+    "id": "Dxy_65",
+    "explicit_symptoms": [
+      [
+        "咳嗽",
+        "True"
+      ],
+      [
+        "咳痰",
+        "True"
+      ]
+    ],
+    "implicit_symptoms": [
+      [
+        "咽部不适",
+        "True"
+      ],
+      [
+        "鼻塞",
+        "True"
+      ]
+    ],
+    "candidate_diseases": [
+      "肺炎",
+      "过敏性鼻炎",
+      "小儿手足口病",
+      "上呼吸道感染",
+      "小儿腹泻"
+    ],
+    "disease": "肺炎"
+  },
+  {
+    "id": "Dxy_66",
+    "explicit_symptoms": [
+      [
+        "揉眼睛",
+        "True"
+      ],
+      [
+        "发烧",
+        "True"
+      ],
+      [
+        "稀便",
+        "True"
+      ]
+    ],
+    "implicit_symptoms": [],
+    "candidate_diseases": [
+      "肺炎",
+      "过敏性鼻炎",
+      "小儿手足口病",
+      "上呼吸道感染",
+      "小儿腹泻"
+    ],
+    "disease": "小儿腹泻"
+  },
+  {
+    "id": "Dxy_67",
+    "explicit_symptoms": [
+      [
+        "疱疹",
+        "True"
+      ],
+      [
+        "发烧",
+        "True"
+      ]
+    ],
+    "implicit_symptoms": [
+      [
+        "皮疹",
+        "True"
+      ]
+    ],
+    "candidate_diseases": [
+      "肺炎",
+      "过敏性鼻炎",
+      "小儿手足口病",
+      "上呼吸道感染",
+      "小儿腹泻"
+    ],
+    "disease": "小儿手足口病"
+  },
+  {
+    "id": "Dxy_68",
+    "explicit_symptoms": [
+      [
+        "烦躁不安",
+        "True"
+      ],
+      [
+        "鼻塞",
+        "True"
+      ],
+      [
+        "咳痰",
+        "True"
+      ]
+    ],
+    "implicit_symptoms": [
+      [
+        "精神萎靡",
+        "False"
+      ],
+      [
+        "呕吐",
+        "True"
+      ],
+      [
+        "吐泡泡",
+        "True"
+      ],
+      [
+        "厌食",
+        "True"
+      ]
+    ],
+    "candidate_diseases": [
+      "肺炎",
+      "过敏性鼻炎",
+      "小儿手足口病",
+      "上呼吸道感染",
+      "小儿腹泻"
+    ],
+    "disease": "肺炎"
+  },
+  {
+    "id": "Dxy_69",
+    "explicit_symptoms": [
+      [
+        "咳嗽",
+        "True"
+      ],
+      [
+        "烦躁不安",
+        "True"
+      ],
+      [
+        "厌食",
+        "True"
+      ],
+      [
+        "流涕",
+        "True"
+      ]
+    ],
+    "implicit_symptoms": [
+      [
+        "发烧",
+        "True"
+      ]
+    ],
+    "candidate_diseases": [
+      "肺炎",
+      "过敏性鼻炎",
+      "小儿手足口病",
+      "上呼吸道感染",
+      "小儿腹泻"
+    ],
+    "disease": "上呼吸道感染"
+  },
+  {
+    "id": "Dxy_70",
+    "explicit_symptoms": [
+      [
+        "疱疹",
+        "True"
+      ],
+      [
+        "腹痛",
+        "True"
+      ],
+      [
+        "发烧",
+        "True"
+      ],
+      [
+        "流口水",
+        "True"
+      ],
+      [
+        "皮疹",
+        "True"
+      ]
+    ],
+    "implicit_symptoms": [],
+    "candidate_diseases": [
+      "肺炎",
+      "过敏性鼻炎",
+      "小儿手足口病",
+      "上呼吸道感染",
+      "小儿腹泻"
+    ],
+    "disease": "小儿手足口病"
+  },
+  {
+    "id": "Dxy_71",
+    "explicit_symptoms": [
+      [
+        "咳嗽",
+        "True"
+      ],
+      [
+        "呕吐",
+        "True"
+      ],
+      [
+        "发烧",
+        "True"
+      ],
+      [
+        "流涕",
+        "True"
+      ]
+    ],
+    "implicit_symptoms": [
+      [
+        "咽部不适",
+        "True"
+      ],
+      [
+        "稀便",
+        "True"
+      ]
+    ],
+    "candidate_diseases": [
+      "肺炎",
+      "过敏性鼻炎",
+      "小儿手足口病",
+      "上呼吸道感染",
+      "小儿腹泻"
+    ],
+    "disease": "小儿手足口病"
+  },
+  {
+    "id": "Dxy_72",
+    "explicit_symptoms": [
+      [
+        "精神萎靡",
+        "True"
+      ],
+      [
+        "呕吐",
+        "True"
+      ],
+      [
+        "反胃",
+        "True"
+      ],
+      [
+        "厌食",
+        "True"
+      ]
+    ],
+    "implicit_symptoms": [
+      [
+        "稀便",
+        "True"
+      ]
+    ],
+    "candidate_diseases": [
+      "肺炎",
+      "过敏性鼻炎",
+      "小儿手足口病",
+      "上呼吸道感染",
+      "小儿腹泻"
+    ],
+    "disease": "小儿腹泻"
+  },
+  {
+    "id": "Dxy_73",
+    "explicit_symptoms": [
+      [
+        "鼻塞",
+        "True"
+      ]
+    ],
+    "implicit_symptoms": [
+      [
+        "精神萎靡",
+        "False"
+      ],
+      [
+        "皮疹",
+        "True"
+      ]
+    ],
+    "candidate_diseases": [
+      "肺炎",
+      "过敏性鼻炎",
+      "小儿手足口病",
+      "上呼吸道感染",
+      "小儿腹泻"
+    ],
+    "disease": "过敏性鼻炎"
+  },
+  {
+    "id": "Dxy_74",
+    "explicit_symptoms": [
+      [
+        "咳嗽",
+        "True"
+      ],
+      [
+        "流涕",
+        "True"
+      ]
+    ],
+    "implicit_symptoms": [
+      [
+        "揉鼻子",
+        "True"
+      ]
+    ],
+    "candidate_diseases": [
+      "肺炎",
+      "过敏性鼻炎",
+      "小儿手足口病",
+      "上呼吸道感染",
+      "小儿腹泻"
+    ],
+    "disease": "过敏性鼻炎"
+  },
+  {
+    "id": "Dxy_75",
+    "explicit_symptoms": [
+      [
+        "咳嗽",
+        "True"
+      ],
+      [
+        "咳痰",
+        "True"
+      ]
+    ],
+    "implicit_symptoms": [
+      [
+        "吐泡泡",
+        "True"
+      ],
+      [
+        "发烧",
+        "False"
+      ],
+      [
+        "流涕",
+        "False"
+      ]
+    ],
+    "candidate_diseases": [
+      "肺炎",
+      "过敏性鼻炎",
+      "小儿手足口病",
+      "上呼吸道感染",
+      "小儿腹泻"
+    ],
+    "disease": "上呼吸道感染"
+  },
+  {
+    "id": "Dxy_76",
+    "explicit_symptoms": [
+      [
+        "发烧",
+        "True"
+      ],
+      [
+        "流涕",
+        "True"
+      ]
+    ],
+    "implicit_symptoms": [
+      [
+        "咽部不适",
+        "True"
+      ],
+      [
+        "皮疹",
+        "True"
+      ],
+      [
+        "咳嗽",
+        "False"
+      ],
+      [
+        "呕吐",
+        "False"
+      ],
+      [
+        "稀便",
+        "True"
+      ],
+      [
+        "厌食",
+        "True"
+      ]
+    ],
+    "candidate_diseases": [
+      "肺炎",
+      "过敏性鼻炎",
+      "小儿手足口病",
+      "上呼吸道感染",
+      "小儿腹泻"
+    ],
+    "disease": "小儿手足口病"
+  },
+  {
+    "id": "Dxy_77",
+    "explicit_symptoms": [
+      [
+        "咳嗽",
+        "True"
+      ]
+    ],
+    "implicit_symptoms": [
+      [
+        "鼻塞",
+        "False"
+      ],
+      [
+        "揉鼻子",
+        "True"
+      ]
+    ],
+    "candidate_diseases": [
+      "肺炎",
+      "过敏性鼻炎",
+      "小儿手足口病",
+      "上呼吸道感染",
+      "小儿腹泻"
+    ],
+    "disease": "过敏性鼻炎"
+  },
+  {
+    "id": "Dxy_78",
+    "explicit_symptoms": [
+      [
+        "咳嗽",
+        "True"
+      ],
+      [
+        "流涕",
+        "True"
+      ]
+    ],
+    "implicit_symptoms": [
+      [
+        "盗汗",
+        "True"
+      ],
+      [
+        "厌食",
+        "False"
+      ]
+    ],
+    "candidate_diseases": [
+      "肺炎",
+      "过敏性鼻炎",
+      "小儿手足口病",
+      "上呼吸道感染",
+      "小儿腹泻"
+    ],
+    "disease": "上呼吸道感染"
+  },
+  {
+    "id": "Dxy_79",
+    "explicit_symptoms": [
+      [
+        "疱疹",
+        "True"
+      ],
+      [
+        "皮疹",
+        "True"
+      ]
+    ],
+    "implicit_symptoms": [
+      [
+        "精神萎靡",
+        "False"
+      ],
+      [
+        "呕吐",
+        "False"
+      ],
+      [
+        "发烧",
+        "False"
+      ]
+    ],
+    "candidate_diseases": [
+      "肺炎",
+      "过敏性鼻炎",
+      "小儿手足口病",
+      "上呼吸道感染",
+      "小儿腹泻"
+    ],
+    "disease": "小儿手足口病"
+  },
+  {
+    "id": "Dxy_80",
+    "explicit_symptoms": [
+      [
+        "稀便",
+        "True"
+      ],
+      [
+        "盗汗",
+        "True"
+      ]
+    ],
+    "implicit_symptoms": [
+      [
+        "精神萎靡",
+        "True"
+      ],
+      [
+        "烦躁不安",
+        "True"
+      ],
+      [
+        "发烧",
+        "False"
+      ]
+    ],
+    "candidate_diseases": [
+      "肺炎",
+      "过敏性鼻炎",
+      "小儿手足口病",
+      "上呼吸道感染",
+      "小儿腹泻"
+    ],
+    "disease": "小儿腹泻"
+  },
+  {
+    "id": "Dxy_81",
+    "explicit_symptoms": [
+      [
+        "咳嗽",
+        "True"
+      ],
+      [
+        "发烧",
+        "True"
+      ]
+    ],
+    "implicit_symptoms": [
+      [
+        "咽部不适",
+        "True"
+      ],
+      [
+        "呼吸困难",
+        "True"
+      ]
+    ],
+    "candidate_diseases": [
+      "肺炎",
+      "过敏性鼻炎",
+      "小儿手足口病",
+      "上呼吸道感染",
+      "小儿腹泻"
+    ],
+    "disease": "上呼吸道感染"
+  },
+  {
+    "id": "Dxy_82",
+    "explicit_symptoms": [
+      [
+        "咳嗽",
+        "True"
+      ],
+      [
+        "流涕",
+        "True"
+      ]
+    ],
+    "implicit_symptoms": [
+      [
+        "精神萎靡",
+        "False"
+      ],
+      [
+        "发烧",
+        "False"
+      ],
+      [
+        "咳痰",
+        "False"
+      ]
+    ],
+    "candidate_diseases": [
+      "肺炎",
+      "过敏性鼻炎",
+      "小儿手足口病",
+      "上呼吸道感染",
+      "小儿腹泻"
+    ],
+    "disease": "上呼吸道感染"
+  },
+  {
+    "id": "Dxy_83",
+    "explicit_symptoms": [
+      [
+        "呕吐",
+        "True"
+      ],
+      [
+        "反胃",
+        "True"
+      ],
+      [
+        "发烧",
+        "True"
+      ]
+    ],
+    "implicit_symptoms": [
+      [
+        "精神萎靡",
+        "False"
+      ],
+      [
+        "厌食",
+        "False"
+      ]
+    ],
+    "candidate_diseases": [
+      "肺炎",
+      "过敏性鼻炎",
+      "小儿手足口病",
+      "上呼吸道感染",
+      "小儿腹泻"
+    ],
+    "disease": "小儿腹泻"
+  },
+  {
+    "id": "Dxy_84",
+    "explicit_symptoms": [
+      [
+        "精神萎靡",
+        "True"
+      ],
+      [
+        "咳嗽",
+        "True"
+      ],
+      [
+        "发烧",
+        "True"
+      ],
+      [
+        "流涕",
+        "True"
+      ]
+    ],
+    "implicit_symptoms": [
+      [
+        "揉眼睛",
+        "True"
+      ],
+      [
+        "烦躁不安",
+        "True"
+      ]
+    ],
+    "candidate_diseases": [
+      "肺炎",
+      "过敏性鼻炎",
+      "小儿手足口病",
+      "上呼吸道感染",
+      "小儿腹泻"
+    ],
+    "disease": "上呼吸道感染"
+  },
+  {
+    "id": "Dxy_85",
+    "explicit_symptoms": [
+      [
+        "烦躁不安",
+        "True"
+      ],
+      [
+        "呕吐",
+        "True"
+      ],
+      [
+        "反胃",
+        "True"
+      ],
+      [
+        "稀便",
+        "True"
+      ],
+      [
+        "厌食",
+        "True"
+      ]
+    ],
+    "implicit_symptoms": [],
+    "candidate_diseases": [
+      "肺炎",
+      "过敏性鼻炎",
+      "小儿手足口病",
+      "上呼吸道感染",
+      "小儿腹泻"
+    ],
+    "disease": "小儿腹泻"
+  },
+  {
+    "id": "Dxy_86",
+    "explicit_symptoms": [
+      [
+        "疱疹",
+        "True"
+      ],
+      [
+        "烦躁不安",
+        "True"
+      ],
+      [
+        "发烧",
+        "True"
+      ],
+      [
+        "抽搐",
+        "True"
+      ]
+    ],
+    "implicit_symptoms": [
+      [
+        "厌食",
+        "True"
+      ]
+    ],
+    "candidate_diseases": [
+      "肺炎",
+      "过敏性鼻炎",
+      "小儿手足口病",
+      "上呼吸道感染",
+      "小儿腹泻"
+    ],
+    "disease": "小儿手足口病"
+  },
+  {
+    "id": "Dxy_87",
+    "explicit_symptoms": [
+      [
+        "精神萎靡",
+        "True"
+      ],
+      [
+        "肚子咕噜叫",
+        "True"
+      ],
+      [
+        "发烧",
+        "True"
+      ],
+      [
+        "稀便",
+        "True"
+      ]
+    ],
+    "implicit_symptoms": [],
+    "candidate_diseases": [
+      "肺炎",
+      "过敏性鼻炎",
+      "小儿手足口病",
+      "上呼吸道感染",
+      "小儿腹泻"
+    ],
+    "disease": "小儿腹泻"
+  },
+  {
+    "id": "Dxy_88",
+    "explicit_symptoms": [
+      [
+        "咽部不适",
+        "True"
+      ],
+      [
+        "咳嗽",
+        "True"
+      ],
+      [
+        "发烧",
+        "False"
+      ]
+    ],
+    "implicit_symptoms": [
+      [
+        "肺部湿啰音",
+        "True"
+      ]
+    ],
+    "candidate_diseases": [
+      "肺炎",
+      "过敏性鼻炎",
+      "小儿手足口病",
+      "上呼吸道感染",
+      "小儿腹泻"
+    ],
+    "disease": "肺炎"
+  },
+  {
+    "id": "Dxy_89",
+    "explicit_symptoms": [
+      [
+        "鼻塞",
+        "True"
+      ],
+      [
+        "打喷嚏",
+        "True"
+      ]
+    ],
+    "implicit_symptoms": [
+      [
+        "揉鼻子",
+        "True"
+      ],
+      [
+        "呼吸困难",
+        "True"
+      ]
+    ],
+    "candidate_diseases": [
+      "肺炎",
+      "过敏性鼻炎",
+      "小儿手足口病",
+      "上呼吸道感染",
+      "小儿腹泻"
+    ],
+    "disease": "过敏性鼻炎"
+  },
+  {
+    "id": "Dxy_90",
+    "explicit_symptoms": [
+      [
+        "咳嗽",
+        "True"
+      ],
+      [
+        "呕吐",
+        "True"
+      ],
+      [
+        "发烧",
+        "True"
+      ],
+      [
+        "流涕",
+        "True"
+      ]
+    ],
+    "implicit_symptoms": [],
+    "candidate_diseases": [
+      "肺炎",
+      "过敏性鼻炎",
+      "小儿手足口病",
+      "上呼吸道感染",
+      "小儿腹泻"
+    ],
+    "disease": "上呼吸道感染"
+  },
+  {
+    "id": "Dxy_91",
+    "explicit_symptoms": [
+      [
+        "烦躁不安",
+        "True"
+      ],
+      [
+        "鼻塞",
+        "True"
+      ],
+      [
+        "打喷嚏",
+        "True"
+      ],
+      [
+        "揉鼻子",
+        "True"
+      ]
+    ],
+    "implicit_symptoms": [
+      [
+        "揉眼睛",
+        "True"
+      ],
+      [
+        "皮疹",
+        "True"
+      ],
+      [
+        "流鼻血",
+        "True"
+      ]
+    ],
+    "candidate_diseases": [
+      "肺炎",
+      "过敏性鼻炎",
+      "小儿手足口病",
+      "上呼吸道感染",
+      "小儿腹泻"
+    ],
+    "disease": "过敏性鼻炎"
+  },
+  {
+    "id": "Dxy_92",
+    "explicit_symptoms": [
+      [
+        "流涕",
+        "True"
+      ]
+    ],
+    "implicit_symptoms": [
+      [
+        "咳嗽",
+        "False"
+      ],
+      [
+        "打喷嚏",
+        "True"
+      ],
+      [
+        "发烧",
+        "False"
+      ]
+    ],
+    "candidate_diseases": [
+      "肺炎",
+      "过敏性鼻炎",
+      "小儿手足口病",
+      "上呼吸道感染",
+      "小儿腹泻"
+    ],
+    "disease": "过敏性鼻炎"
+  },
+  {
+    "id": "Dxy_93",
+    "explicit_symptoms": [
+      [
+        "疱疹",
+        "True"
+      ],
+      [
+        "发烧",
+        "True"
+      ]
+    ],
+    "implicit_symptoms": [
+      [
+        "精神萎靡",
+        "False"
+      ],
+      [
+        "皮疹",
+        "True"
+      ]
+    ],
+    "candidate_diseases": [
+      "肺炎",
+      "过敏性鼻炎",
+      "小儿手足口病",
+      "上呼吸道感染",
+      "小儿腹泻"
+    ],
+    "disease": "小儿手足口病"
+  },
+  {
+    "id": "Dxy_94",
+    "explicit_symptoms": [
+      [
+        "发烧",
+        "True"
+      ],
+      [
+        "厌食",
+        "True"
+      ]
+    ],
+    "implicit_symptoms": [
+      [
+        "肺部湿啰音",
+        "True"
+      ]
+    ],
+    "candidate_diseases": [
+      "肺炎",
+      "过敏性鼻炎",
+      "小儿手足口病",
+      "上呼吸道感染",
+      "小儿腹泻"
+    ],
+    "disease": "肺炎"
+  },
+  {
+    "id": "Dxy_95",
+    "explicit_symptoms": [
+      [
+        "咳嗽",
+        "True"
+      ],
+      [
+        "呕吐",
+        "True"
+      ],
+      [
+        "发烧",
+        "True"
+      ]
+    ],
+    "implicit_symptoms": [
+      [
+        "呼吸困难",
+        "True"
+      ]
+    ],
+    "candidate_diseases": [
+      "肺炎",
+      "过敏性鼻炎",
+      "小儿手足口病",
+      "上呼吸道感染",
+      "小儿腹泻"
+    ],
+    "disease": "肺炎"
+  },
+  {
+    "id": "Dxy_96",
+    "explicit_symptoms": [
+      [
+        "咳嗽",
+        "True"
+      ],
+      [
+        "喘气",
+        "True"
+      ],
+      [
+        "咳痰",
+        "True"
+      ]
+    ],
+    "implicit_symptoms": [
+      [
+        "咽部不适",
+        "True"
+      ]
+    ],
+    "candidate_diseases": [
+      "肺炎",
+      "过敏性鼻炎",
+      "小儿手足口病",
+      "上呼吸道感染",
+      "小儿腹泻"
+    ],
+    "disease": "上呼吸道感染"
+  },
+  {
+    "id": "Dxy_97",
+    "explicit_symptoms": [
+      [
+        "咳嗽",
+        "True"
+      ],
+      [
+        "烦躁不安",
+        "True"
+      ],
+      [
+        "咳痰",
+        "True"
+      ],
+      [
+        "流涕",
+        "True"
+      ]
+    ],
+    "implicit_symptoms": [
+      [
+        "精神萎靡",
+        "False"
+      ],
+      [
+        "呼吸困难",
+        "True"
+      ]
+    ],
+    "candidate_diseases": [
+      "肺炎",
+      "过敏性鼻炎",
+      "小儿手足口病",
+      "上呼吸道感染",
+      "小儿腹泻"
+    ],
+    "disease": "肺炎"
+  },
+  {
+    "id": "Dxy_98",
+    "explicit_symptoms": [
+      [
+        "咳嗽",
+        "True"
+      ],
+      [
+        "咳痰",
+        "True"
+      ],
+      [
+        "流涕",
+        "True"
+      ]
+    ],
+    "implicit_symptoms": [
+      [
+        "咽部不适",
+        "True"
+      ]
+    ],
+    "candidate_diseases": [
+      "肺炎",
+      "过敏性鼻炎",
+      "小儿手足口病",
+      "上呼吸道感染",
+      "小儿腹泻"
+    ],
+    "disease": "上呼吸道感染"
+  },
+  {
+    "id": "Dxy_99",
+    "explicit_symptoms": [
+      [
+        "咳嗽",
+        "True"
+      ],
+      [
+        "呼吸困难",
+        "True"
+      ]
+    ],
+    "implicit_symptoms": [
+      [
+        "呕吐",
+        "True"
+      ],
+      [
+        "发烧",
+        "False"
+      ]
+    ],
+    "candidate_diseases": [
+      "肺炎",
+      "过敏性鼻炎",
+      "小儿手足口病",
+      "上呼吸道感染",
+      "小儿腹泻"
+    ],
+    "disease": "上呼吸道感染"
+  },
+  {
+    "id": "Dxy_100",
+    "explicit_symptoms": [
+      [
+        "咳嗽",
+        "True"
+      ],
+      [
+        "鼻塞",
+        "True"
+      ],
+      [
+        "打喷嚏",
+        "True"
+      ],
+      [
+        "流涕",
+        "True"
+      ]
+    ],
+    "implicit_symptoms": [
+      [
+        "发烧",
+        "False"
+      ],
+      [
+        "咳痰",
+        "False"
+      ]
+    ],
+    "candidate_diseases": [
+      "肺炎",
+      "过敏性鼻炎",
+      "小儿手足口病",
+      "上呼吸道感染",
+      "小儿腹泻"
+    ],
+    "disease": "上呼吸道感染"
+  },
+  {
+    "id": "Dxy_101",
+    "explicit_symptoms": [
+      [
+        "咳嗽",
+        "True"
+      ],
+      [
+        "鼻塞",
+        "True"
+      ],
+      [
+        "咳痰",
+        "True"
+      ],
+      [
+        "流涕",
+        "True"
+      ]
+    ],
+    "implicit_symptoms": [
+      [
+        "烦躁不安",
+        "True"
+      ]
+    ],
+    "candidate_diseases": [
+      "肺炎",
+      "过敏性鼻炎",
+      "小儿手足口病",
+      "上呼吸道感染",
+      "小儿腹泻"
+    ],
+    "disease": "过敏性鼻炎"
+  },
+  {
+    "id": "Dxy_102",
+    "explicit_symptoms": [
+      [
+        "发烧",
+        "True"
+      ],
+      [
+        "皮疹",
+        "True"
+      ]
+    ],
+    "implicit_symptoms": [
+      [
+        "精神萎靡",
+        "False"
+      ],
+      [
+        "厌食",
+        "False"
+      ]
+    ],
+    "candidate_diseases": [
+      "肺炎",
+      "过敏性鼻炎",
+      "小儿手足口病",
+      "上呼吸道感染",
+      "小儿腹泻"
+    ],
+    "disease": "小儿手足口病"
+  },
+  {
+    "id": "Dxy_103",
+    "explicit_symptoms": [
+      [
+        "咳嗽",
+        "True"
+      ],
+      [
+        "吐泡泡",
+        "True"
+      ]
+    ],
+    "implicit_symptoms": [
+      [
+        "烦躁不安",
+        "True"
+      ],
+      [
+        "稀便",
+        "False"
+      ]
+    ],
+    "candidate_diseases": [
+      "肺炎",
+      "过敏性鼻炎",
+      "小儿手足口病",
+      "上呼吸道感染",
+      "小儿腹泻"
+    ],
+    "disease": "肺炎"
+  },
+  {
+    "id": "Dxy_104",
+    "explicit_symptoms": [
+      [
+        "咳嗽",
+        "True"
+      ],
+      [
+        "发烧",
+        "True"
+      ],
+      [
+        "咳痰",
+        "True"
+      ],
+      [
+        "流涕",
+        "True"
+      ]
+    ],
+    "implicit_symptoms": [
+      [
+        "烦躁不安",
+        "True"
+      ]
+    ],
+    "candidate_diseases": [
+      "肺炎",
+      "过敏性鼻炎",
+      "小儿手足口病",
+      "上呼吸道感染",
+      "小儿腹泻"
+    ],
+    "disease": "上呼吸道感染"
+  }
+]
