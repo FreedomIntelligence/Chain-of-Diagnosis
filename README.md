@@ -20,5 +20,5 @@
 
 ## ✨ Updates
 - [2024/07/19]: We launched our diagnostic LLMs, [DiagnosisGPT-6B](https://huggingface.co/FreedomIntelligence/DiagnosisGPT-6B) and [DiagnosisGPT-34B](https://huggingface.co/FreedomIntelligence/DiagnosisGPT-34B), supporting automatic diagnosis for **9,604** diseases.
-- [2024/07/18]: We released our data, including [CoD data](https://huggingface.co/datasets/FreedomIntelligence/CoD-PatientSymDisease), the [disease database](https://huggingface.co/datasets/FreedomIntelligence/Disease_Database), and the [DxBench](https://huggingface.co/datasets/FreedomIntelligence/DxBench) diagnostic benchmark.
+- [2024/07/18]: We released our data, including [CoD data](https://huggingface.co/datasets/FreedomIntelligence/CoD-PatientSymDisease), the [disease database](https://huggingface.co/datasets/FreedomIntelligence/Disease_Database), and the [DxBench](https://huggingface.co/datasets/FreedomIntelligence/DxBench) benchmark.
 - [2024/07/18]: We introduced the **Chain-of-Diagnosis (CoD)** to improve the reliability and interpretability of medical diagnostics.
