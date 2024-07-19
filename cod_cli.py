@@ -373,6 +373,6 @@ def main(args):
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser()
-    parser.add_argument("--model_dir", type=str, default="/mntcephfs/data/med/zhanghongbo/yaojishi/cjy/ckpts/huatuo2_7B_re2_test/checkpoint-0-50/tfmr")
+    parser.add_argument("--model_dir", type=str, default="")
     args = parser.parse_args()
     main(args)

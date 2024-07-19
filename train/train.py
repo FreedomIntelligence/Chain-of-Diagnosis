@@ -259,11 +259,11 @@ if __name__ == '__main__':
     parser.add_argument('--checkpoint_path',default=None, type=str)
 
     # Model Args
-    parser.add_argument('--model_path', default='/mntnfs/med_data5/chenjunying/models/bloomz-7b1-mt', type=str)
+    parser.add_argument('--model_path', default='', type=str)
 
     # Data Args
     parser.add_argument('--not_shuffle_train_loader', action='store_true')
-    parser.add_argument('--data_dir', default='/mntcephfs/data/med/chenjunying/dataset/pre_training/pretrainv2/dataset', type=str)
+    parser.add_argument('--data_dir', default='', type=str)
     parser.add_argument('--output_dir', default='./ckpts', type=str)
     parser.add_argument('--max_ckpts', default=5, type=int)
     parser.add_argument('--log_dir', default='./train_logs', type=str)
