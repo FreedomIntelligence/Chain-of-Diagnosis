@@ -33,6 +33,40 @@ We propose the Chain-of-Diagnosis to improve interpretability in medical diagnos
 </div>
 
 
+## 👩‍⚕️ Model
+We developed **DiagnosisGPT**, an LLM using the CoD method for automated diagnosis of 9,604 diseases.
+
+### Model Access
+Our model is available on Huggingface in two versions:
+|                 | Backbone           | Checkpoint                                                                            |
+|----------------------|--------------------|---------------------------------------------------------------------------------------|
+| **DiagnosisGPT-7B**  | Yi-6B          | [HF Link](https://huggingface.co/FreedomIntelligence/DiagnosisGPT-6B)        |
+| **DiagnosisGPT-34B** | Yi-34B         | [HF Link](https://huggingface.co/FreedomIntelligence/DiagnosisGPT-34B)      |
+
+### Model Usage
+
+- **Command Line Interface**
+
+Chat via the command line:
+```bash
+python cod_cli.py --model_dir path-to-diagnosisgpt-vision-model
+```
+
+- **Model Inference**
+
+Inference using our ChatBot:
+```python
+query = 'I have a sore throat and seem to have a fever.'
+
+from cod_cli import DiagnosisChatbot
+bot = DiagnosisChatbot(path-to-diagnosisgpt-vision-model, confidence_threshold=0.5)
+
+output, history, confidence_distribution = bot.inference(query)
+print(output) # Prints the output of the model
+```
+
+
+
 ## Citation
 
 ```
