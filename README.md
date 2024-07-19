@@ -60,6 +60,16 @@ output, history, confidence_distribution = bot.inference(query)
 print(output) # Prints the output of the model
 ```
 
+## 📚 Data
+
+
+| Data             | Description                                                       | Download Link                                                                           |
+| ---------------- | ----------------------------------------------------------------- | --------------------------------------------------------------------------------------- |
+| CoD Data         | (1) Data of 50K synthetic patients constructed from medical encyclopedia. (2) 50K Chain-of-Diagnosis training data. | [Link](https://huggingface.co/datasets/FreedomIntelligence/CoD-PatientSymDisease)       |
+| Disease Database | Database of 9,604 diseases with symptoms and treatments.       | [Link](https://huggingface.co/datasets/FreedomIntelligence/Disease_Database)            |
+| DxBench          | A large-scale disease diagnosis benchmark built on real patient-doctor dialogue, covering 15 departments and 461 diseases. | [Link](https://huggingface.co/datasets/FreedomIntelligence/DxBench)                     |
+
+
 ## 🏋️‍♂️ Training
 1. Prepare the Training Data
 You can download the [CoD data](https://huggingface.co/datasets/FreedomIntelligence/CoD-PatientSymDisease) and run the following code for preprocessing:
@@ -73,6 +83,7 @@ Then, you can train the model by:
 cd train
 bash fine_tune.sh
 ```
+
 
 ## Citation
 
