@@ -65,7 +65,19 @@ output, history, confidence_distribution = bot.inference(query)
 print(output) # Prints the output of the model
 ```
 
+## 🏋️‍♂️ Training
+1. Prepare the Training Data
+You can download the [CoD data](https://huggingface.co/datasets/FreedomIntelligence/CoD-PatientSymDisease) and run the following code for preprocessing:
+```bash
+python train/datapre.py --model_path 01-ai/Yi-34B --data_dir CoD_en.json
+```
 
+2. Training
+Then, you can train the model by:
+```bash
+cd train
+bash fine_tune.sh
+```
 
 ## Citation
 
