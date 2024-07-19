@@ -34,16 +34,11 @@ We propose the Chain-of-Diagnosis to improve interpretability in medical diagnos
 
 
 ## 👩‍⚕️ Model
-We developed **DiagnosisGPT**, an LLM using the CoD method for automated diagnosis of 9,604 diseases.
-
-### Model Access
-Our model is available on Huggingface in two versions:
+We developed **DiagnosisGPT**, an LLM using the CoD method for automated diagnosis of 9,604 diseases. 
 |                 | Backbone           | Checkpoint                                                                            |
 |----------------------|--------------------|---------------------------------------------------------------------------------------|
 | **DiagnosisGPT-7B**  | Yi-6B          | [HF Link](https://huggingface.co/FreedomIntelligence/DiagnosisGPT-6B)        |
 | **DiagnosisGPT-34B** | Yi-34B         | [HF Link](https://huggingface.co/FreedomIntelligence/DiagnosisGPT-34B)      |
-
-### Model Usage
 
 - **Command Line Interface**
 
