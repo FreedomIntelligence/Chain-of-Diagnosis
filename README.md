@@ -84,6 +84,17 @@ cd train
 bash fine_tune.sh
 ```
 
+## 🧐 Evaluation
+Run the following code for evaluation.
+
+```bash
+# Evaluate DxBench 
+accelerate launch eval.py --model_path path_to_the_model --data_path ./evaluation/DxBench_zh.json --max_inquiry 0 --threshold 0.5
+# Evaluate Dxy Dataset
+accelerate launch eval.py --model_path path_to_the_model --data_path ./evaluation/Dxy_zh.json --max_inquiry 0 --threshold 0.5
+# Evaluate Muzhi Dataset
+accelerate launch eval.py --model_path path_to_the_model --data_path ./evaluation/Muzhi_zh.json --max_inquiry 0 --threshold 0.5
+```
 
 ## Citation
 
