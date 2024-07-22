@@ -2,7 +2,7 @@
 
 <div align="center">
 <h5>
-  📃 <a href="https://arxiv.org/abs/2407.13301" target="_blank">Paper</a>  • 🖥️ <a href="#" target="https://diagnosis.huatuogpt.cn/">Demo</a>
+  📃 <a href="https://arxiv.org/abs/2407.13301" target="_blank">Paper</a>  • 🖥️ <a href="https://diagnosis.huatuogpt.cn/" target="_blank">Demo</a>
 </h5>
 </div>
 
