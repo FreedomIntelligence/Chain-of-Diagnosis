@@ -5,7 +5,7 @@
   📃 <a href="https://arxiv.org/abs/2407.13301" target="_blank">Paper</a>  • 🖥️ <a href="https://diagnosis.huatuogpt.cn/" target="_blank">Demo</a>
 </h5>
 </div>
-
+ 
 <div align="center">
 <h4>
   📚 <a href="https://huggingface.co/datasets/FreedomIntelligence/CoD-PatientSymDisease" target="_blank">CoD Data</a> • 📚 <a href="https://huggingface.co/datasets/FreedomIntelligence/Disease_Database" target="_blank">Disease Database</a> • 📝 <a href="https://huggingface.co/datasets/FreedomIntelligence/DxBench" target="_blank">DxBench(Benchmark)</a>
